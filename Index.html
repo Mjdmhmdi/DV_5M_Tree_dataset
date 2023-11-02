@@ -1,15 +1,101 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization</title>
+    
+    <meta charset="utf-8">
+    <!-- Load d3.js -->
+    
+    
+    <!-- Add Bootstrap CSS link -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Include Google Fonts for custom fonts -->
+    <style>
+        /* Font for title and headings */
+        h1, h2, .nav-tabs .nav-link {
+            font-family: 'Roboto Slab', sans-serif;
+        }
+
+        /* Font for paragraphs and text */
+        p, .nav-tabs .nav-link, .tab-pane {
+            font-family: 'Fira Sans', sans-serif;
+        }
+
+        
+
+    </style>
+
+    <!-- Include Google Fonts via link tags -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+</head>
 <body>
+    <div class="container">
+        <h1>Data Visualization Course</h1>
+        <h4>Instructor: Annalisa Barla </h4>
+        <p></p>
+        <!-- Add description of your D3.js chart project here -->
+        <p>Group SAM:</p>
+        <ul>
+            <li>Soheil Samadian 5893603</li>
+            <li>Amin Habibi Shahri 5467299</li>
+            <li>Majid Mohammadi 5646621</li>
+          </ul>  
+          <ul class="nav nav-tabs" id="myTabs">
+            <li class="nav-item">
+                <a class="nav-link active" id="tab1" data-toggle="tab" href="#page1">Assignment 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab2" data-toggle="tab" href="#page2">Assignment 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab3" data-toggle="tab" href="#page3">Assignment 3</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab4" data-toggle="tab" href="#page4">Assignment 4</a>
+            </li>
+        </ul>
 
-<h2>Group SAM</h2>
+        <!-- Create tab content -->
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="page1">
+                <div>
+                <!-- Content for Page 1 -->
+                <h2>Bar Chart</h2>
+                <p>What is a bar chart? A bar chart (aka bar graph, column chart) plots numeric values for levels of a categorical feature as bars. Levels are plotted on one chart axis, and values are plotted on the other axis. Each categorical value claims one bar, and the length of each bar corresponds to the bar's value.</p>
+                <p><a href="https://www.w3schools.com/">View Bar Chart</a></p>
+                </div>
+                <div>
+                    <!-- Content for Page 1 -->
+                    <h2>Stacked Bar Chart</h2>
+                    <p>A stacked bar chart is a type of bar chart that portrays the compositions and comparisons of several variables through time. Stacked charts usually represent a series of bars or columns stacked on top of one another. They are widely used to effectively portray comparisons of total values across several categories.</p>
+                    <p><a href="https://www.w3schools.com/">View Stacked Bar Chart</a></p>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="page2">
+                <!-- Content for Page 2 -->
+                <h2>Tab 2</h2>
+                
+            </div>
+            <div class="tab-pane fade" id="page3">
+                <!-- Content for Page 3 -->
+                <h2>Tab 3</h2>
+                
+            </div>
+            <div class="tab-pane fade" id="page3">
+                <!-- Content for Page 3 -->
+                <h2>Tab 4</h2>
+                
+            </div>
+        </div>
+    </div>
 
-<ul>
-  <li>Soheil 5893603</li>
-  <li>Amin 5467299</li>
-  <li>Majid 5646621</li>
-</ul>  
-
-
+    <!-- Add Bootstrap JavaScript and jQuery links for tab functionality -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
