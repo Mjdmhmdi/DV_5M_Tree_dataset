@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+<!-- Add Google Fonts links for Roboto Slab and Fira Sans -->
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+
+
+<div class="a">
+  <h1>Trees</h1>
+  <p>In this chart, the data set of trees is used, which is sorted based on the number of trees from the highest to the lowest number.</p>
+  <p>Also, by placing the mouse on each bar, you can see more details including the scientific name, the average height and the diameter of the tree trunk.</p>
+</div>
+
+<!-- Create a div for the graph and legend -->
+<div id="chart-container">
+  <div class="right" id="legend"></div>
+  <div id="my_dataviz"></div>
+  
+</div>
+
+<!-- Add a CSS style for the tooltip -->
+<style>
+  .right {
+  float: right;
+  width: 300px;  
+  padding: 10px;
+}
+  .tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 6px;
+    font: 12px sans-serif;
+    background: #ccc;
+    border: 1px solid #333;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+  }
+  
+        /* Apply Roboto Slab to title and heading */
+        h1, h2 {
+            font-family: 'Roboto Slab', serif;
+        }
+
+        /* Apply Fira Sans to paragraphs and text */
+        p, span {
+            font-family: 'Fira Sans', sans-serif;
+        }
+
+        div.a {
+            text-align: center;
+        }
+</style>
+
+
+<script>
+  // set the dimensions and margins of the graph
+  var margin = { top: 10, right: 30, bottom: 100, left: 50 },
+    width = 1000 - margin.left - margin.right,
+    height = 550 - margin.top - margin.bottom;
+
+  // append the svg object to the body of the page
+  var svg = d3
+    .select("#my_dataviz")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  // Define a tooltip div
+  var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+  // Parse the Data
+  d3.csv("https://raw.githubusercontent.com/Mjdmhmdi/DV_5M_Tree_dataset/main/trees.csv", function(data) {
+    // Sort data by the "count" column in descending order
+    data.sort(function(a, b) {
+      return b.count - a.count;
+    });
+
+    // Select the top 5 data points
+    var top5Data = data.slice(0, 5);
+
+    // List of subgroups = header of the csv files = soil condition here
+    var subgroups = data.columns.slice(1);
+
+    // List of groups = species here = value of the first column called group -> I show them on the Y axis
+    var groups = top5Data.map(function(d) {
+      return d.common_name;
+    });
+
+    // Add Y axis
+    var y = d3
+      .scaleBand()
+      .domain(groups)
+      .range([0, height])
+      .padding([0.2]);
+    svg.append("g").call(d3.axisLeft(y));
+
+    // Find the maximum count in the top 5 data for setting the X domain
+    var maxCount = d3.max(top5Data, function(d) {
+      return d.count;
+    });
+
+    // Add X axis with the maximum count from the top 5 data
+    var x = d3
+      .scaleLinear()
+      .domain([0, 600])
+      .range([0, width]);
+    svg
+      .append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+    // color palette = one color per subgroup
+    var color = d3
+      .scaleOrdinal()
+      .domain(subgroups)
+      .range(['#e41a1c', '#377eb8', '#4daf4a']);
+
+    // Stack the data for the top 5
+    var stackedData = d3.stack().keys(subgroups)(top5Data);
+
+    // Show the bars
+    svg
+      .append("g")
+      .selectAll("g")
+      // Enter in the stack data = loop key per key = group per group
+      .data(stackedData)
+      .enter()
+      .append("g")
+      .attr("fill", function(d) {
+        return color(d.key);
+      })
+      .selectAll("rect")
+      // Enter a second time = loop subgroup per subgroup to add all rectangles
+      .data(function(d) {
+        return d;
+      })
+      .enter()
+      .append("rect")
+      .attr("y", function(d) {
+        return y(d.data.common_name);
+      })
+      .attr("x", function(d) {
+        return x(d[0]);
+      })
+      .attr("height", y.bandwidth())
+      .attr("width", function(d) {
+        return x(d[1]) - x(d[0]);
+      })
+      .on("mouseover", function (d) {
+        // Show tooltip on mouseover
+        tooltip.transition()
+          .duration(200)
+          .style("opacity", 0.9);
+        tooltip.html(d[1] - d[0])
+          .style("left", (d3.event.pageX + 5) + "px")
+          .style("top", (d3.event.pageY - 28) + "px");
+      })
+      .on("mouseout", function (d) {
+        // Hide tooltip on mouseout
+        tooltip.transition()
+          .duration(500)
+          .style("opacity", 0);
+      });
+
+    // Create a legend
+    var legend = d3
+      .select("#legend")
+      .append("svg")
+      .attr("width", 200)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(10," + margin.top + ")");
+
+    // Populate the legend
+    var legendData = subgroups.slice().reverse(); // Reverse to match the stack order
+    legendData.forEach(function(subgroup, i) {
+      var legendItem = legend
+        .append("g")
+        .attr("transform", "translate(0," + i * 20 + ")");
+
+      legendItem
+        .append("rect")
+        .attr("width", 18)
+        .attr("height", 18)
+        .attr("fill", color(subgroup));
+
+      legendItem
+        .append("text")
+        .attr("x", 25)
+        .attr("y", 9)
+        .attr("dy", "0.32em")
+        .text(subgroup);
+    });
+  });
+</script>
