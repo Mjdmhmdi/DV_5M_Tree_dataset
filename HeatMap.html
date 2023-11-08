@@ -12,10 +12,9 @@
 
 <div class="a">
     <h1>Trees : HeatMap Chart</h1>
-    <p>In this graph, the tree data set is used, which changes the color of each column based on the height of the trees. A value of 0 is white and a value of 250 is dark green</p>
+    <p>In this graph, the tree data set is used, which changes the color of each column based on the height of the trees. <FONT COLOR="green">  A value of 0 (0%) is white and a value of 250 (100%) is dark green</FONT></p>
     <p>Also, by placing the mouse on each bar, you can see more details including the scientific name, the average height and the diameter of the tree trunk.</p>
 </div>
-
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
 
@@ -51,8 +50,11 @@
     <div>
     <script>
 
+        
+
+
         // set the dimensions and margins of the graph
-        var margin = {top: 50, right: 50, bottom: 100, left: 50},
+        var margin = {top: 50, right: 50, bottom: 150, left: 50},
         width = 1450 - margin.left - margin.right,
         height = 300 - margin.top - margin.bottom;
         
@@ -168,6 +170,8 @@
     , "Vitex"
     , "White ash"]
         var myVars = [" Trees "]
+
+        
         
         // Build X scales and axis:
         var x = d3.scaleBand()
@@ -196,6 +200,8 @@
         
         //Read the data
         d3.csv("https://raw.githubusercontent.com/Mjdmhmdi/DV_5M_Tree_dataset/main/trees.csv", function(data) {
+
+            
         
         // create a tooltip
         var tooltip = d3.select("#my_dataviz")
@@ -241,6 +247,31 @@
             .on("mousemove", mousemove)
             .on("mouseleave", mouseleave);
         });
+
+                  
+// Define legend
+var legend = svg.selectAll(".legend")
+            .data(myColor.ticks(20))
+            .enter().append("g")
+            .attr("class", "legend")
+            .attr("transform", function(d, i) {
+                return "translate(" + (width/10 - 90 + i * 65 ) + "," + (height + margin.bottom -20) + ")"; // shift right by 50 pixels
+            });
+
+// Add colored squares to legend
+        legend.append("rect")
+            .attr("width", 65)
+            .attr("height", 65)
+            .style("fill", myColor);
+
+// Add legend text
+        legend.append("text")
+            .data(myColor.ticks(20))
+            .attr("x", 24)
+            .attr("y", 9)
+            .attr("dy", ".35em")
+            .text(function(d) { return d; });
+            
     </script>
     </div>
 </div>
