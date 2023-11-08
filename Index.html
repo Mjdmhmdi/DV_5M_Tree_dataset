@@ -1,279 +1,107 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization</title>
+    
+    <meta charset="utf-8">
+    <!-- Load d3.js -->
+    
+    
+    <!-- Add Bootstrap CSS link -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-<!-- Load d3.js -->
-<script src="https://d3js.org/d3.v4.js"></script>
-
-<!-- Add Google Fonts links for Roboto Slab and Fira Sans -->
-<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
-
-<div class="a">
-    <h1>Trees : HeatMap Chart</h1>
-    <p>In this graph, the tree data set is used, which changes the color of each column based on the height of the trees. <FONT COLOR="green">  A value of 0 (0%) is white and a value of 250 (100%) is dark green</FONT></p>
-    <p>Also, by placing the mouse on each bar, you can see more details including the scientific name, the average height and the diameter of the tree trunk.</p>
-</div>
-<!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
-
-<style>
-  .tooltip {
-    opacity: 0;
-    position: absolute;
-    background-color: white;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    transition: opacity 0.2s;
-  }
-
-  /* Apply Roboto Slab to title and heading */
-  h1, h2 {
-            font-family: 'Roboto Slab', serif;
+    <!-- Include Google Fonts for custom fonts -->
+    <style>
+        /* Font for title and headings */
+        h1, h2, .nav-tabs .nav-link {
+            font-family: 'Roboto Slab', sans-serif;
         }
 
-        /* Apply Fira Sans to paragraphs and text */
-        p, span {
+        /* Font for paragraphs and text */
+        p, .nav-tabs .nav-link, .tab-pane {
             font-family: 'Fira Sans', sans-serif;
         }
 
-        div.a {
-            text-align: center;
-        }
+        
 
-</style>
+    </style>
+
+    <!-- Include Google Fonts via link tags -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
 </head>
 <body>
-<div>      
-    <div>
-    <script>
+    <div class="container">
+        <h1>Data Visualization Course</h1>
+        <h4>Instructor: Annalisa Barla </h4>
+        <p></p>
+        <!-- Add description of your D3.js chart project here -->
+        <p>Group SAM:</p>
+        <ul>
+            <li>Soheil Samadian 5893603</li>
+            <li>Amin Habibi Shahri 5467299</li>
+            <li>Majid Mohammadi 5646621</li>
+          </ul>  
+          <ul class="nav nav-tabs" id="myTabs">
+            <li class="nav-item">
+                <a class="nav-link active" id="tab1" data-toggle="tab" href="#page1">Assignment 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab2" data-toggle="tab" href="#page2">Assignment 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab3" data-toggle="tab" href="#page3">Assignment 3</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab4" data-toggle="tab" href="#page4">Assignment 4</a>
+            </li>
+        </ul>
 
-        
-
-
-        // set the dimensions and margins of the graph
-        var margin = {top: 50, right: 50, bottom: 150, left: 50},
-        width = 1450 - margin.left - margin.right,
-        height = 300 - margin.top - margin.bottom;
-        
-        // append the svg object to the body of the page
-        var svg = d3.select("#my_dataviz")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform",
-                "translate(" + margin.left + "," + margin.top + ")");
-        
-        // Labels of row and columns
-        var myGroups = ["Afghan pine"
-    , "American basswood"
-    , "American elm"
-    , "American holly"
-    , "Amur maple"
-    , "Apple"
-    , "Apricot"
-    , "Arizona cypress"
-    , "Arizona sycamore"
-    , "Ash"
-    , "Austrian pine"
-    , "Basswood"
-    , "Bigtooth maple"
-    , "Black locust"
-    , "Blue atlas cedar"
-    , "Blue spruce"
-    , "Boxelder"
-    , "Bradford pear callery pear"
-    , "Bristlecone pine"
-    , "Broadleaf deciduous large"
-    , "Broadleaf deciduous medium"
-    , "Broadleaf deciduous small"
-    , "Bur oak"
-    , "Catalpa"
-    , "Cedar elm"
-    , "Cherry plum"
-    , "Chinese elm"
-    , "Chinese pistache"
-    , "Chinkapin oak"
-    , "Chitalpa"
-    , "Common chokecherry"
-    , "Conifer evergreen large"
-    , "Cottonwood"
-    , "Crabapple"
-    , "Crape myrtle"
-    , "Dawn redwood"
-    , "Deodar cedar"
-    , "Desert willow"
-    , "Douglas fir"
-    , "Eastern red cedar"
-    , "Eastern redbud"
-    , "Elderberry"
-    , "Elm"
-    , "Elm hybrid"
-    , "English oak"
-    , "Fremont cottonwood"
-    , "Ginkgo"
-    , "Globe willow"
-    , "Golden rain tree"
-    , "Green ash"
-    , "Greenstone"
-    , "Hardy rubber tree"
-    , "Honeylocust"
-    , "Italian stone pine"
-    , "Japanese black pine"
-    , "Japanese pagoda tree"
-    , "Japanese zelkova"
-    , "Juniper"
-    , "Kentucky coffeetree"
-    , "Lanceleaf cottonwood"
-    , "Leyland false cypress"
-    , "Limber pine"
-    , "Littleleaf linden"
-    , "Locust"
-    , "London plane"
-    , "Maple"
-    , "Mimosa"
-    , "Mountain ash"
-    , "Mulberry"
-    , "Netleaf hackberry"
-    , "New mexico locust"
-    , "New mexico olive"
-    , "Northern catalpa"
-    , "Northern hackberry"
-    , "Northern red oak"
-    , "Norway maple"
-    , "Oak"
-    , "Oklahoma redbud"
-    , "One seed juniper"
-    , "Osage orange"
-    , "Pear"
-    , "Pine"
-    , "Pinyon pine"
-    , "Plains cottonwood"
-    , "Plum"
-    , "Ponderosa pine"
-    , "Quaking aspen"
-    , "Raywood ash"
-    , "Red mulberry"
-    , "Rocky mountain juniper"
-    , "Russian olive"
-    , "Scotch pine"
-    , "Shumard oak"
-    , "Siberian elm"
-    , "Silver maple"
-    , "Spruce"
-    , "Texas red oak"
-    , "Tree of heaven"
-    , "Velvet ash arizona ash"
-    , "Vitex"
-    , "White ash"]
-        var myVars = [" Trees "]
-
-        
-        
-        // Build X scales and axis:
-        var x = d3.scaleBand()
-        .range([ 0, width ])
-        .domain(myGroups)
-        .padding(0.01);
-        svg.append("g")
-        .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(x))
-        .selectAll("text")
-            .attr("transform", "translate(-10,0)rotate(-45)")
-            .style("text-anchor", "end");
-        
-        // Build X scales and axis:
-        var y = d3.scaleBand()
-        .range([ height, 0 ])
-        .domain(myVars)
-        .padding(0.01);
-        svg.append("g")
-        .call(d3.axisLeft(y));
-        
-        // Build color scale
-        var myColor = d3.scaleLinear()
-        .range(["white", "#69b3a2"])
-        .domain([1,100])
-        
-        //Read the data
-        d3.csv("https://raw.githubusercontent.com/Mjdmhmdi/DV_5M_Tree_dataset/main/trees.csv", function(data) {
-
-            
-        
-        // create a tooltip
-        var tooltip = d3.select("#my_dataviz")
-            .append("div")
-            .style("opacity", 0)
-            .attr("class", "tooltip")
-            .style("background-color", "white")
-            .style("border", "1px solid #ccc")
-            .style("border-radius", "5px")
-            .style("padding", "10px")
-            .style("position", "absolute");
-        
-        // Three functions that change the tooltip when the user hovers, moves, or leaves a cell
-        var mouseover = function(d) {
-            tooltip.transition().duration(200).style("opacity", 0.9);
-        }
-        var mousemove = function(d) {
-            tooltip.html(
-            "<strong>Common Name:</strong> " + d.common_name + "<br>" +
-            "<strong>Scientific Name:</strong> " + d.scientific_name + "<br>" +
-            "<strong>Height Avg:</strong> " + d.height_M + " meters<br>" +
-            "<strong>Count:</strong> " + d.count
-            );
-            tooltip
-            .style("left", (d3.event.pageX + 10) + "px")
-            .style("top", (d3.event.pageY - 28) + "px");
-        }
-        var mouseleave = function(d) {
-            tooltip.transition().duration(200).style("opacity", 0);
-        }
-        
-        // add the squares
-        svg.selectAll()
-            .data(data, function(d) { return d.common_name + ':' + d.count; })
-            .enter()
-            .append("rect")
-            .attr("x", function(d) { return x(d.common_name); })
-            .attr("y", function(d) { return y(d.count); })
-            .attr("width", x.bandwidth())
-            .attr("height", y.bandwidth())
-            .style("fill", function(d) { return myColor(d.height_M); })
-            .on("mouseover", mouseover)
-            .on("mousemove", mousemove)
-            .on("mouseleave", mouseleave);
-        });
-
-                  
-// Define legend
-var legend = svg.selectAll(".legend")
-            .data(myColor.ticks(20))
-            .enter().append("g")
-            .attr("class", "legend")
-            .attr("transform", function(d, i) {
-                return "translate(" + (width/10 - 90 + i * 65 ) + "," + (height + margin.bottom -20) + ")"; // shift right by 50 pixels
-            });
-
-// Add colored squares to legend
-        legend.append("rect")
-            .attr("width", 65)
-            .attr("height", 65)
-            .style("fill", myColor);
-
-// Add legend text
-        legend.append("text")
-            .data(myColor.ticks(20))
-            .attr("x", 24)
-            .attr("y", 9)
-            .attr("dy", ".35em")
-            .text(function(d) { return d; });
-            
-    </script>
+        <!-- Create tab content -->
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="page1">
+                <div>
+                <!-- Content for Page 1 -->
+                <h2>Bar Chart</h2>
+                <p>What is a bar chart? A bar chart (aka bar graph, column chart) plots numeric values for levels of a categorical feature as bars. Levels are plotted on one chart axis, and values are plotted on the other axis. Each categorical value claims one bar, and the length of each bar corresponds to the bar's value.</p>
+                <p><a href="https://mjdmhmdi.github.io/DV_5M_Tree_dataset/vertical.html">View Bar Chart</a></p>
+                </div>
+                <div>
+                    <!-- Content for Page 1 -->
+                    <h2>Stacked Bar Chart</h2>
+                    <p>A stacked bar chart is a type of bar chart that portrays the compositions and comparisons of several variables through time. Stacked charts usually represent a series of bars or columns stacked on top of one another. They are widely used to effectively portray comparisons of total values across several categories.</p>
+                    <p><a href="https://mjdmhmdi.github.io/DV_5M_Tree_dataset/stacked%20chart%20bar.html">View Stacked Bar Chart</a></p>
+                </div>
+                <div>
+                  <!-- Content for Page 1 -->
+                  <h2>HeatMap Chart</h2>
+                  <p>What is a heatmap? A heatmap (aka heat map) depicts values for a main variable of interest across two axis variables as a grid of colored squares. The axis variables are divided into ranges like a bar chart or histogram, and each cell's color indicates the value of the main variable in the corresponding cell range.</p>
+                  <p><a href="https://mjdmhmdi.github.io/DV_5M_Tree_dataset/HeatMap.html">View Stacked Bar Chart</a></p>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="page2">
+                <!-- Content for Page 2 -->
+                <h2>Tab 2</h2>
+                
+            </div>
+            <div class="tab-pane fade" id="page3">
+                <!-- Content for Page 3 -->
+                <h2>Tab 3</h2>
+                
+            </div>
+            <div class="tab-pane fade" id="page3">
+                <!-- Content for Page 3 -->
+                <h2>Tab 4</h2>
+                
+            </div>
+        </div>
     </div>
-</div>
+
+    <!-- Add Bootstrap JavaScript and jQuery links for tab functionality -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
