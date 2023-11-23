@@ -1,0 +1,429 @@
+state,city,tree,count
+California,Anaheim,Acer rubrum,15
+California,Anaheim,Acer saccharinum,44
+California,Anaheim,Gleditsia triacanthos,270
+California,Anaheim,Platanus acerifolia,1264
+California,Anaheim,Pyrus calleryana,320
+California,Anaheim,Tilia cordata,3
+California,Fresno,Acer rubrum,16
+California,Fresno,Platanus acerifolia,294
+California,Fresno,Pyrus calleryana,55
+California,Garden Grove,Acer rubrum,3
+California,Garden Grove,Acer saccharinum,18
+California,Garden Grove,Gleditsia triacanthos,3
+California,Garden Grove,Platanus acerifolia,593
+California,Garden Grove,Pyrus calleryana,467
+Colorado,Aurora,Acer platanoides,4745
+Colorado,Aurora,Acer rubrum,133
+Colorado,Aurora,Acer saccharinum,3433
+Colorado,Aurora,Acer saccharum,42
+Colorado,Aurora,Fraxinus pennsylvanica,5465
+Colorado,Aurora,Gleditsia triacanthos,10428
+Colorado,Aurora,Malus,1536
+Colorado,Aurora,Platanus acerifolia,9
+Colorado,Aurora,Pyrus calleryana,1490
+Colorado,Aurora,Tilia cordata,280
+Colorado,Colorado Springs,Acer platanoides,495
+Colorado,Colorado Springs,Acer rubrum,39
+Colorado,Colorado Springs,Acer saccharinum,952
+Colorado,Colorado Springs,Acer saccharum,5
+Colorado,Colorado Springs,Fraxinus pennsylvanica,1844
+Colorado,Colorado Springs,Gleditsia triacanthos,559
+Colorado,Colorado Springs,Malus,299
+Colorado,Colorado Springs,Platanus acerifolia,2
+Colorado,Colorado Springs,Pyrus calleryana,23
+Colorado,Colorado Springs,Tilia cordata,199
+Florida,Cape Coral,Acer rubrum,138
+Florida,Cape Coral,Platanus acerifolia,7
+Georgia,Atlanta,Acer platanoides,1
+Georgia,Atlanta,Acer rubrum,1263
+Georgia,Atlanta,Acer saccharinum,10
+Georgia,Atlanta,Acer saccharum,224
+Georgia,Atlanta,Fraxinus pennsylvanica,117
+Georgia,Atlanta,Gleditsia triacanthos,30
+Georgia,Atlanta,Malus,258
+Georgia,Atlanta,Platanus acerifolia,21
+Georgia,Atlanta,Pyrus calleryana,3
+Georgia,Atlanta,Tilia cordata,6
+Georgia,AvondaleEstates,Acer rubrum,4
+Georgia,AvondaleEstates,Acer saccharum,12
+Georgia,Brookhaven,Acer rubrum,5
+Georgia,Chamblee,Acer rubrum,10
+Georgia,Clarkston,Acer rubrum,4
+Georgia,CollegePark,Acer rubrum,7
+Georgia,CollegePark,Acer saccharum,10
+Georgia,Decatur,Acer rubrum,45
+Georgia,Decatur,Acer saccharinum,1
+Georgia,Decatur,Acer saccharum,7
+Georgia,Decatur,Fraxinus pennsylvanica,6
+Georgia,Decatur,Gleditsia triacanthos,3
+Georgia,Decatur,Malus,50
+Georgia,Dunwoody,Acer rubrum,32
+Georgia,Dunwoody,Acer saccharum,10
+Georgia,Dunwoody,Gleditsia triacanthos,5
+Georgia,Dunwoody,Malus,22
+Georgia,EastPoint,Acer rubrum,48
+Georgia,EastPoint,Acer saccharum,2
+Georgia,EastPoint,Fraxinus pennsylvanica,9
+Georgia,EastPoint,Malus,8
+Georgia,Hapeville,Acer rubrum,6
+Georgia,Lithonia,Acer rubrum,1
+Georgia,SandySprings,Acer rubrum,7
+Georgia,SandySprings,Acer saccharum,1
+Georgia,Scottdale,Acer rubrum,11
+Georgia,Unincorporated,Acer platanoides,3
+Georgia,Unincorporated,Acer rubrum,33
+Georgia,Unincorporated,Acer saccharum,4
+Georgia,Unincorporated,Fraxinus pennsylvanica,11
+Iowa,Adair,Acer platanoides,27
+Iowa,Adair,Acer saccharinum,72
+Iowa,Adair,Acer saccharum,16
+Iowa,Adair,Fraxinus pennsylvanica,53
+Iowa,Adair,Gleditsia triacanthos,4
+Iowa,Adair,Malus,16
+Iowa,Adair,Tilia cordata,4
+Iowa,Adel,Acer platanoides,37
+Iowa,Adel,Acer rubrum,7
+Iowa,Adel,Acer saccharinum,89
+Iowa,Adel,Acer saccharum,29
+Iowa,Adel,Fraxinus pennsylvanica,97
+Iowa,Adel,Gleditsia triacanthos,12
+Iowa,Adel,Malus,57
+Iowa,Adel,Tilia cordata,14
+Iowa,Baxter,Acer platanoides,4
+Iowa,Baxter,Acer rubrum,8
+Iowa,Baxter,Acer saccharinum,18
+Iowa,Baxter,Acer saccharum,146
+Iowa,Baxter,Fraxinus pennsylvanica,5
+Iowa,Baxter,Gleditsia triacanthos,1
+Iowa,Baxter,Malus,4
+Iowa,Bayard,Acer platanoides,9
+Iowa,Bayard,Acer saccharinum,12
+Iowa,Bayard,Acer saccharum,11
+Iowa,Bayard,Fraxinus pennsylvanica,13
+Iowa,Bayard,Gleditsia triacanthos,3
+Iowa,Bondurant,Acer platanoides,13
+Iowa,Bondurant,Acer rubrum,15
+Iowa,Bondurant,Acer saccharinum,34
+Iowa,Bondurant,Acer saccharum,20
+Iowa,Bondurant,Fraxinus pennsylvanica,40
+Iowa,Bondurant,Gleditsia triacanthos,6
+Iowa,Bondurant,Malus,61
+Iowa,Bondurant,Tilia cordata,6
+Iowa,Bouton,Acer platanoides,5
+Iowa,Bouton,Acer saccharinum,27
+Iowa,Bouton,Fraxinus pennsylvanica,49
+Iowa,Bouton,Gleditsia triacanthos,6
+Iowa,Bouton,Malus,2
+Iowa,Carlisle,Acer platanoides,8
+Iowa,Carlisle,Acer rubrum,13
+Iowa,Carlisle,Acer saccharinum,33
+Iowa,Carlisle,Acer saccharum,18
+Iowa,Carlisle,Gleditsia triacanthos,8
+Iowa,Carlisle,Malus,24
+Iowa,Carlisle,Pyrus calleryana,3
+Iowa,Carlisle,Tilia cordata,8
+Iowa,Colfax,Acer platanoides,6
+Iowa,Colfax,Acer rubrum,6
+Iowa,Colfax,Acer saccharinum,53
+Iowa,Colfax,Acer saccharum,45
+Iowa,Colfax,Gleditsia triacanthos,13
+Iowa,Colfax,Malus,11
+Iowa,Colfax,Tilia cordata,2
+Iowa,Coon Rapids,Acer platanoides,88
+Iowa,Coon Rapids,Acer rubrum,9
+Iowa,Coon Rapids,Acer saccharinum,65
+Iowa,Coon Rapids,Acer saccharum,26
+Iowa,Coon Rapids,Fraxinus pennsylvanica,159
+Iowa,Coon Rapids,Gleditsia triacanthos,19
+Iowa,Coon Rapids,Malus,23
+Iowa,Coon Rapids,Tilia cordata,34
+Iowa,Dallas,Acer rubrum,76
+Iowa,Dallas,Acer saccharinum,27
+Iowa,Dallas,Acer saccharum,3
+Iowa,Dallas,Fraxinus pennsylvanica,17
+Iowa,Dallas,Gleditsia triacanthos,19
+Iowa,Dallas,Pyrus calleryana,152
+Iowa,Dallas Center,Acer platanoides,83
+Iowa,Dallas Center,Acer rubrum,25
+Iowa,Dallas Center,Acer saccharinum,103
+Iowa,Dallas Center,Acer saccharum,94
+Iowa,Dallas Center,Fraxinus pennsylvanica,148
+Iowa,Dallas Center,Gleditsia triacanthos,15
+Iowa,Dallas Center,Malus,41
+Iowa,Dallas Center,Tilia cordata,17
+Iowa,De Soto,Acer platanoides,2
+Iowa,De Soto,Acer saccharinum,6
+Iowa,De Soto,Acer saccharum,5
+Iowa,De Soto,Fraxinus pennsylvanica,9
+Iowa,De Soto,Malus,4
+Iowa,De Soto,Tilia cordata,1
+Iowa,Des Moines,Malus,3
+Iowa,Dexter,Acer platanoides,11
+Iowa,Dexter,Acer rubrum,8
+Iowa,Dexter,Acer saccharinum,19
+Iowa,Dexter,Acer saccharum,25
+Iowa,Dexter,Fraxinus pennsylvanica,11
+Iowa,Dexter,Gleditsia triacanthos,9
+Iowa,Dexter,Malus,31
+Iowa,Dexter,Pyrus calleryana,1
+Iowa,Dexter,Tilia cordata,2
+Iowa,Earlham,Acer platanoides,25
+Iowa,Earlham,Acer rubrum,35
+Iowa,Earlham,Acer saccharinum,26
+Iowa,Earlham,Acer saccharum,118
+Iowa,Earlham,Fraxinus pennsylvanica,54
+Iowa,Earlham,Gleditsia triacanthos,2
+Iowa,Earlham,Malus,151
+Iowa,Earlham,Tilia cordata,1
+Iowa,Elkhart,Acer platanoides,4
+Iowa,Elkhart,Acer saccharinum,28
+Iowa,Elkhart,Acer saccharum,7
+Iowa,Elkhart,Fraxinus pennsylvanica,17
+Iowa,Elkhart,Malus,12
+Iowa,Granger,Acer platanoides,12
+Iowa,Granger,Acer rubrum,6
+Iowa,Granger,Acer saccharinum,21
+Iowa,Granger,Acer saccharum,5
+Iowa,Granger,Fraxinus pennsylvanica,46
+Iowa,Granger,Malus,15
+Iowa,Granger,Tilia cordata,2
+Iowa,Guthrie Center,Acer platanoides,20
+Iowa,Guthrie Center,Acer rubrum,3
+Iowa,Guthrie Center,Acer saccharinum,27
+Iowa,Guthrie Center,Acer saccharum,68
+Iowa,Guthrie Center,Fraxinus pennsylvanica,38
+Iowa,Guthrie Center,Gleditsia triacanthos,2
+Iowa,Guthrie Center,Malus,6
+Iowa,Guthrie Center,Tilia cordata,7
+Iowa,Hartford,Acer platanoides,2
+Iowa,Hartford,Acer rubrum,1
+Iowa,Hartford,Acer saccharinum,4
+Iowa,Kellogg,Acer platanoides,2
+Iowa,Kellogg,Acer rubrum,2
+Iowa,Kellogg,Acer saccharinum,22
+Iowa,Kellogg,Acer saccharum,8
+Iowa,Kellogg,Fraxinus pennsylvanica,16
+Iowa,Kellogg,Gleditsia triacanthos,5
+Iowa,Kellogg,Tilia cordata,1
+Iowa,Milo,Acer platanoides,18
+Iowa,Milo,Acer rubrum,7
+Iowa,Milo,Acer saccharinum,32
+Iowa,Milo,Acer saccharum,19
+Iowa,Milo,Malus,48
+Iowa,Milo,Tilia cordata,2
+Iowa,Mitchellville,Acer platanoides,20
+Iowa,Mitchellville,Acer rubrum,12
+Iowa,Mitchellville,Acer saccharinum,51
+Iowa,Mitchellville,Acer saccharum,18
+Iowa,Mitchellville,Fraxinus pennsylvanica,26
+Iowa,Mitchellville,Gleditsia triacanthos,4
+Iowa,Mitchellville,Malus,8
+Iowa,Mitchellville,Tilia cordata,6
+Iowa,Monroe,Acer platanoides,5
+Iowa,Monroe,Acer rubrum,23
+Iowa,Monroe,Acer saccharinum,33
+Iowa,Monroe,Acer saccharum,28
+Iowa,Monroe,Fraxinus pennsylvanica,17
+Iowa,Monroe,Gleditsia triacanthos,7
+Iowa,Monroe,Malus,18
+Iowa,Monroe,Tilia cordata,4
+Iowa,Newton,Acer platanoides,38
+Iowa,Newton,Acer rubrum,55
+Iowa,Newton,Acer saccharinum,61
+Iowa,Newton,Acer saccharum,69
+Iowa,Newton,Fraxinus pennsylvanica,205
+Iowa,Newton,Gleditsia triacanthos,85
+Iowa,Newton,Malus,151
+Iowa,Newton,Pyrus calleryana,6
+Iowa,Newton,Tilia cordata,54
+Iowa,Oakland Acres,Acer rubrum,3
+Iowa,Oakland Acres,Acer saccharinum,1
+Iowa,Oakland Acres,Fraxinus pennsylvanica,4
+Iowa,Oakland Acres,Gleditsia triacanthos,1
+Iowa,Panora,Acer platanoides,21
+Iowa,Panora,Acer rubrum,14
+Iowa,Panora,Acer saccharinum,22
+Iowa,Panora,Acer saccharum,56
+Iowa,Panora,Fraxinus pennsylvanica,45
+Iowa,Panora,Malus,16
+Iowa,Panora,Tilia cordata,3
+Iowa,Pleasant Hill,Acer platanoides,19
+Iowa,Pleasant Hill,Acer rubrum,30
+Iowa,Pleasant Hill,Acer saccharinum,26
+Iowa,Pleasant Hill,Acer saccharum,4
+Iowa,Pleasant Hill,Fraxinus pennsylvanica,44
+Iowa,Pleasant Hill,Gleditsia triacanthos,19
+Iowa,Pleasant Hill,Malus,200
+Iowa,Pleasant Hill,Pyrus calleryana,11
+Iowa,Pleasant Hill,Tilia cordata,7
+Iowa,Polk City,Acer platanoides,4
+Iowa,Polk City,Acer rubrum,9
+Iowa,Polk City,Acer saccharum,3
+Iowa,Polk City,Fraxinus pennsylvanica,12
+Iowa,Polk City,Malus,55
+Iowa,Prairie City,Acer platanoides,16
+Iowa,Prairie City,Acer rubrum,14
+Iowa,Prairie City,Acer saccharinum,33
+Iowa,Prairie City,Acer saccharum,26
+Iowa,Prairie City,Gleditsia triacanthos,5
+Iowa,Prairie City,Malus,11
+Iowa,Redfield,Acer platanoides,5
+Iowa,Redfield,Acer rubrum,6
+Iowa,Redfield,Acer saccharinum,17
+Iowa,Redfield,Fraxinus pennsylvanica,15
+Iowa,Redfield,Gleditsia triacanthos,7
+Iowa,Redfield,Malus,20
+Iowa,Redfield,Tilia cordata,1
+Iowa,Runnells,Acer platanoides,2
+Iowa,Runnells,Acer rubrum,6
+Iowa,Runnells,Acer saccharinum,11
+Iowa,Runnells,Acer saccharum,1
+Iowa,Runnells,Fraxinus pennsylvanica,12
+Iowa,Runnells,Malus,3
+Iowa,Runnells,Tilia cordata,1
+Iowa,Stuart,Acer platanoides,50
+Iowa,Stuart,Acer rubrum,13
+Iowa,Stuart,Acer saccharinum,58
+Iowa,Stuart,Acer saccharum,94
+Iowa,Stuart,Fraxinus pennsylvanica,94
+Iowa,Stuart,Gleditsia triacanthos,18
+Iowa,Stuart,Malus,8
+Iowa,Stuart,Tilia cordata,6
+Iowa,Sully,Acer platanoides,7
+Iowa,Sully,Acer rubrum,6
+Iowa,Sully,Acer saccharinum,21
+Iowa,Sully,Acer saccharum,22
+Iowa,Sully,Fraxinus pennsylvanica,20
+Iowa,Sully,Gleditsia triacanthos,11
+Iowa,Sully,Malus,3
+Iowa,Sully,Tilia cordata,7
+Iowa,Union,Acer platanoides,19
+Iowa,Union,Acer rubrum,4
+Iowa,Union,Acer saccharinum,15
+Iowa,Union,Acer saccharum,47
+Iowa,Union,Gleditsia triacanthos,2
+Iowa,Union,Malus,7
+Iowa,Union,Pyrus calleryana,1
+Iowa,Union,Tilia cordata,2
+Iowa,Van Meter,Acer platanoides,3
+Iowa,Van Meter,Acer saccharinum,6
+Iowa,Van Meter,Acer saccharum,11
+Iowa,Van Meter,Fraxinus pennsylvanica,3
+Iowa,Van Meter,Gleditsia triacanthos,1
+Iowa,Van Meter,Malus,3
+Iowa,Waukee,Acer platanoides,40
+Iowa,Waukee,Acer rubrum,49
+Iowa,Waukee,Acer saccharinum,35
+Iowa,Waukee,Acer saccharum,27
+Iowa,Waukee,Fraxinus pennsylvanica,218
+Iowa,Waukee,Gleditsia triacanthos,103
+Iowa,Waukee,Malus,200
+Iowa,Waukee,Tilia cordata,122
+Iowa,Windsor Heights,Acer platanoides,6
+Iowa,Windsor Heights,Acer rubrum,1
+Iowa,Windsor Heights,Acer saccharinum,16
+Iowa,Windsor Heights,Acer saccharum,17
+Iowa,Windsor Heights,Fraxinus pennsylvanica,39
+Iowa,Windsor Heights,Gleditsia triacanthos,22
+Iowa,Windsor Heights,Malus,25
+Iowa,Windsor Heights,Pyrus calleryana,5
+Iowa,Windsor Heights,Tilia cordata,1
+Iowa,Woodward,Acer platanoides,81
+Iowa,Woodward,Acer rubrum,5
+Iowa,Woodward,Acer saccharinum,105
+Iowa,Woodward,Acer saccharum,5
+Iowa,Woodward,Fraxinus pennsylvanica,49
+Iowa,Woodward,Gleditsia triacanthos,15
+Iowa,Woodward,Malus,26
+Iowa,Woodward,Pyrus calleryana,1
+Iowa,Woodward,Tilia cordata,12
+Maryland,Baltimore,Acer platanoides,3717
+Maryland,Baltimore,Acer rubrum,12910
+Maryland,Baltimore,Acer saccharinum,2663
+Maryland,Baltimore,Acer saccharum,2723
+Maryland,Baltimore,Fraxinus pennsylvanica,1111
+Maryland,Baltimore,Gleditsia triacanthos,3289
+Maryland,Baltimore,Malus,786
+Maryland,Baltimore,Platanus acerifolia,6056
+Maryland,Baltimore,Pyrus calleryana,4747
+Maryland,Baltimore,Tilia cordata,5932
+Massachusetts,Boston,Acer platanoides,20
+Massachusetts,Boston,Acer rubrum,151
+Massachusetts,Boston,Acer saccharinum,1
+Massachusetts,Boston,Acer saccharum,59
+Massachusetts,Boston,Malus,19
+Massachusetts,Boston,Pyrus calleryana,3
+Massachusetts,Boston,Tilia cordata,2
+Michigan,Detroit,Acer platanoides,7
+Michigan,Detroit,Acer rubrum,1183
+Michigan,Detroit,Acer saccharinum,5
+Michigan,Detroit,Acer saccharum,470
+Michigan,Detroit,Fraxinus pennsylvanica,1
+Michigan,Detroit,Gleditsia triacanthos,18
+Michigan,Detroit,Malus,706
+Michigan,Detroit,Platanus acerifolia,980
+Michigan,Detroit,Pyrus calleryana,190
+Michigan,Detroit,Tilia cordata,571
+Michigan,Grand Rapids,Acer platanoides,20433
+Michigan,Grand Rapids,Acer rubrum,4523
+Michigan,Grand Rapids,Acer saccharinum,2554
+Michigan,Grand Rapids,Acer saccharum,3954
+Michigan,Grand Rapids,Fraxinus pennsylvanica,2057
+Michigan,Grand Rapids,Gleditsia triacanthos,5805
+Michigan,Grand Rapids,Malus,694
+Michigan,Grand Rapids,Platanus acerifolia,2
+Michigan,Grand Rapids,Pyrus calleryana,1662
+Michigan,Grand Rapids,Tilia cordata,3033
+New Mexico,Albuquerque,Acer platanoides,1
+New Mexico,Albuquerque,Acer saccharinum,1
+New Mexico,Albuquerque,Fraxinus pennsylvanica,20
+New Mexico,Albuquerque,Gleditsia triacanthos,159
+New Mexico,Albuquerque,Malus,127
+New Mexico,Albuquerque,Platanus acerifolia,186
+New Mexico,Albuquerque,Pyrus calleryana,13
+New Mexico,Albuquerque,Tilia cordata,28
+New York,Buffalo,Acer platanoides,13265
+New York,Buffalo,Acer rubrum,2601
+New York,Buffalo,Acer saccharinum,4725
+New York,Buffalo,Acer saccharum,642
+New York,Buffalo,Fraxinus pennsylvanica,718
+New York,Buffalo,Gleditsia triacanthos,2347
+New York,Buffalo,Malus,2731
+New York,Buffalo,Platanus acerifolia,1897
+New York,Buffalo,Pyrus calleryana,1443
+New York,Buffalo,Tilia cordata,9156
+North Carolina,Durham,Acer platanoides,2
+North Carolina,Durham,Acer rubrum,718
+North Carolina,Durham,Acer saccharinum,26
+North Carolina,Durham,Acer saccharum,145
+North Carolina,Durham,Fraxinus pennsylvanica,66
+North Carolina,Durham,Malus,9
+North Carolina,Durham,Platanus acerifolia,54
+North Carolina,Durham,Pyrus calleryana,237
+North Carolina,Durham,Tilia cordata,52
+North Carolina,Greensboro,Acer platanoides,2
+North Carolina,Greensboro,Acer rubrum,221
+North Carolina,Greensboro,Acer saccharinum,128
+North Carolina,Greensboro,Acer saccharum,238
+North Carolina,Greensboro,Fraxinus pennsylvanica,5
+North Carolina,Greensboro,Gleditsia triacanthos,14
+North Carolina,Greensboro,Platanus acerifolia,3
+North Carolina,Greensboro,Pyrus calleryana,87
+North Carolina,Greensboro,Tilia cordata,1
+Ohio,Columbus,Acer platanoides,4549
+Ohio,Columbus,Acer rubrum,8657
+Ohio,Columbus,Acer saccharinum,3156
+Ohio,Columbus,Acer saccharum,7512
+Ohio,Columbus,Fraxinus pennsylvanica,9402
+Ohio,Columbus,Gleditsia triacanthos,7090
+Ohio,Columbus,Malus,6924
+Ohio,Columbus,Platanus acerifolia,3916
+Ohio,Columbus,Pyrus calleryana,9245
+Ohio,Columbus,Tilia cordata,4102
+Texas,Arlington,Acer rubrum,50
+Texas,Arlington,Acer saccharinum,4
+Texas,Arlington,Fraxinus pennsylvanica,128
+Texas,Arlington,Gleditsia triacanthos,22
+Texas,Arlington,Pyrus calleryana,241
+Texas,Austin,Pyrus calleryana,62
