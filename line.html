@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+<style>
+svg {
+    font-family: Sans-Serif, Arial;
+}
+.line {
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+</style>
+</head>
+<body>
+  <div id="chart"></div>
+
+</body>
+</html>
+
+<script>
+var data = [
+  {
+    name: "Min",
+    values: [      
+      {date: "Jan-1895", temp: "33.4"},				
+      {date: "Feb-1895", temp: "26.8"},
+      {date: "Mar-1895", temp: "42.4"},
+      {date: "Apr-1895", temp: "51.2"},
+      {date: "May-1895", temp: "58.4"},
+      {date: "Jun-1895", temp: "66.5"},
+      {date: "Jul-1895", temp: "68.8"},
+      {date: "Aug-1895", temp: "69.3"},
+      {date: "Sep-1895", temp: "66.4"},
+      {date: "Oct-1895", temp: "45.2"},
+      {date: "Nov-1895", temp: "41.4"},
+      {date: "Dec-1895", temp: "32.7"},
+
+      {date: "Jan-1896", temp: "34"},											
+		  {date: "Feb-1896", temp: "36.4"},
+      {date: "Mar-1896", temp: "41.2"},
+      {date: "Apr-1896", temp: "55.6"},
+      {date: "May-1896", temp: "63.9"},
+      {date: "Jun-1896", temp: "66.9"},
+      {date: "Jul-1896", temp: "70.7"},
+      {date: "Aug-1896", temp: "70.4"},
+      {date: "Sep-1896", temp: "66.4"},
+      {date: "Oct-1896", temp: "62.6"},
+      {date: "Nov-1896", temp: "50.6"},
+      {date: "Dec-1896", temp: "45.8"},
+      								
+
+      {date: "Jan-1897", temp: "31.4"},											
+		  {date: "Feb-1897", temp: "41.2"},
+      {date: "Mar-1897", temp: "50.4"},
+      {date: "Apr-1897", temp: "50.1"},
+      {date: "May-1897", temp: "55.9"},
+      {date: "Jun-1897", temp: "68.3"},
+      {date: "Jul-1897", temp: "70.2"},
+      {date: "Aug-1897", temp: "68.1"},
+      {date: "Sep-1897", temp: "62.5"},
+      {date: "Oct-1897", temp: "53.1"},
+      {date: "Nov-1897", temp: "41.4"},
+      {date: "Dec-1897", temp: "36.9"},
+
+      {date: "Jan-1898", temp: "38.8"},												
+			{date: "Feb-1898", temp: "34.2"},
+      {date: "Mar-1898", temp: "48.5"},
+      {date: "Apr-1898", temp: "46.4"},
+      {date: "May-1898", temp: "60.2"},
+      {date: "Jun-1898", temp: "68"},
+      {date: "Jul-1898", temp: "69.6"},
+      {date: "Aug-1898", temp: "69.2"},
+      {date: "Sep-1898", temp: "65.1"},
+      {date: "Oct-1898", temp: "49.6"},
+      {date: "Nov-1898", temp: "38.7"},
+      {date: "Dec-1898", temp: "32.5"},
+
+      {date: "Jan-1899", temp: "33.1"}, 			
+			{date: "Feb-1899", temp: "28.6"},
+      {date: "Mar-1899", temp: "43.5"},
+      {date: "Apr-1899", temp: "50.84"},
+      {date: "May-1899", temp: "63.6"},
+      {date: "Jun-1899", temp: "67.6"},
+      {date: "Jul-1899", temp: "68.9"},
+      {date: "Aug-1899", temp: "69.9"},
+      {date: "Sep-1899", temp: "59.4"},
+      {date: "Oct-1899", temp: "54	"},
+      {date: "Nov-1899", temp: "42.8"},
+      {date: "Dec-1899", temp: "33.8"}
+    ]
+  },
+  {                         
+    name: "Max",
+    values: [
+    {date: "Jan-1895", temp: "52.80"},				
+      {date: "Feb-1895", temp: "48.00"},
+      {date: "Mar-1895", temp: "66.40"},
+      {date: "Apr-1895", temp: "75.60"},
+      {date: "May-1895", temp: "80.90"},
+      {date: "Jun-1895", temp: "88.90"},
+      {date: "Jul-1895", temp: "89.60"},
+      {date: "Aug-1895", temp: "89.50"},
+      {date: "Sep-1895", temp: "89.20"},
+      {date: "Oct-1895", temp: "74.60"},
+      {date: "Nov-1895", temp: "65.30"},
+      {date: "Dec-1895", temp: "57.80"},
+
+        
+
+
+      {date: "Jan-1896", temp: "53.50"},											
+		  {date: "Feb-1896", temp: "59.50"},
+      {date: "Mar-1896", temp: "63.90"},
+      {date: "Apr-1896", temp: "80.30"},
+      {date: "May-1896", temp: "87.90"},
+      {date: "Jun-1896", temp: "87.20"},
+      {date: "Jul-1896", temp: "91.00"},
+      {date: "Aug-1896", temp: "94.70"},
+      {date: "Sep-1896", temp: "89.10"},
+      {date: "Oct-1896", temp: "75.8"},
+      {date: "Nov-1896", temp: "68"},
+      {date: "Dec-1896", temp: "57.7"},
+      								
+                               
+ 
+      {date: "Jan-1897", temp: "52.40"},											
+		  {date: "Feb-1897", temp: "61.50	"},
+      {date: "Mar-1897", temp: "69.00"},
+      {date: "Apr-1897", temp: "71.90	"},
+      {date: "May-1897", temp: "82.10"},
+      {date: "Jun-1897", temp: "94.70"},
+      {date: "Jul-1897", temp: "92.40"},
+      {date: "Aug-1897", temp: "88.50"},
+      {date: "Sep-1897", temp: "88.90"},
+      {date: "Oct-1897", temp: "81.80	"},
+      {date: "Nov-1897", temp: "67.70"},
+      {date: "Dec-1897", temp: "58.20"},
+
+                               
+  
+
+      {date: "Jan-1898", temp: "59.30"},												
+			{date: "Feb-1898", temp: "58.00"},
+      {date: "Mar-1898", temp: "69.80"},
+      {date: "Apr-1898", temp: "71.20"},
+      {date: "May-1898", temp: "88.30"},
+      {date: "Jun-1898", temp: "92.30"},
+      {date: "Jul-1898", temp: "90.70"},
+      {date: "Aug-1898", temp: "88.10"},
+      {date: "Sep-1898", temp: "85.50"},
+      {date: "Oct-1898", temp: "72.80"},
+      {date: "Nov-1898", temp: "61.50"},
+      {date: "Dec-1898", temp: "54.20"},
+
+                           
+
+      {date: "Jan-1899", temp: "54.90"}, 			
+			{date: "Feb-1899", temp: "51.40"},
+      {date: "Mar-1899", temp: "67.70"},
+      {date: "Apr-1899", temp: "72.90"},
+      {date: "May-1899", temp: "88.80"},
+      {date: "Jun-1899", temp: "92.40"},
+      {date: "Jul-1899", temp: "91.80"},
+      {date: "Aug-1899", temp: "92.60"},
+      {date: "Sep-1899", temp: "86.60"},
+      {date: "Oct-1899", temp: "78.90"},
+      {date: "Nov-1899", temp: "67.40"},
+      {date: "Dec-1899", temp: "55.70"}
+    ]
+    
+  },
+  {                         
+    name: "AVG",
+    values: [
+    {date: "Jan-1895", temp: "43.80"},				
+      {date: "Feb-1895", temp: "37.00"},
+      {date: "Mar-1895", temp: "54.40"},
+      {date: "Apr-1895", temp: "63.60"},
+      {date: "May-1895", temp: "69.90"},
+      {date: "Jun-1895", temp: "77.90"},
+      {date: "Jul-1895", temp: "79.60"},
+      {date: "Aug-1895", temp: "79.50"},
+      {date: "Sep-1895", temp: "77.20"},
+      {date: "Oct-1895", temp: "59.60"},
+      {date: "Nov-1895", temp: "53.30"},
+      {date: "Dec-1895", temp: "44.80"},
+
+        
+
+
+      {date: "Jan-1896", temp: "43.50"},											
+		  {date: "Feb-1896", temp: "47.50"},
+      {date: "Mar-1896", temp: "52.90"},
+      {date: "Apr-1896", temp: "68.30"},
+      {date: "May-1896", temp: "75.90"},
+      {date: "Jun-1896", temp: "77.20"},
+      {date: "Jul-1896", temp: "81.00"},
+      {date: "Aug-1896", temp: "82.70"},
+      {date: "Sep-1896", temp: "75.10"},
+      {date: "Oct-1896", temp: "63.8"},
+      {date: "Nov-1896", temp: "57"},
+      {date: "Dec-1896", temp: "46.7"},
+      								
+                               
+ 
+      {date: "Jan-1897", temp: "41.40"},											
+		  {date: "Feb-1897", temp: "51.50	"},
+      {date: "Mar-1897", temp: "60.00"},
+      {date: "Apr-1897", temp: "62.90	"},
+      {date: "May-1897", temp: "69.10"},
+      {date: "Jun-1897", temp: "81.70"},
+      {date: "Jul-1897", temp: "81.40"},
+      {date: "Aug-1897", temp: "78.50"},
+      {date: "Sep-1897", temp: "75.90"},
+      {date: "Oct-1897", temp: "67.80	"},
+      {date: "Nov-1897", temp: "54.70"},
+      {date: "Dec-1897", temp: "47.20"},
+
+                               
+  
+
+      {date: "Jan-1898", temp: "49.30"},												
+			{date: "Feb-1898", temp: "46.00"},
+      {date: "Mar-1898", temp: "59.80"},
+      {date: "Apr-1898", temp: "58.20"},
+      {date: "May-1898", temp: "74.30"},
+      {date: "Jun-1898", temp: "80.30"},
+      {date: "Jul-1898", temp: "80.70"},
+      {date: "Aug-1898", temp: "78.10"},
+      {date: "Sep-1898", temp: "75.50"},
+      {date: "Oct-1898", temp: "61.80"},
+      {date: "Nov-1898", temp: "49.50"},
+      {date: "Dec-1898", temp: "43.20"},
+
+                           
+
+      {date: "Jan-1899", temp: "43.90"}, 			
+			{date: "Feb-1899", temp: "40.40"},
+      {date: "Mar-1899", temp: "55.70"},
+      {date: "Apr-1899", temp: "61.90"},
+      {date: "May-1899", temp: "76.80"},
+      {date: "Jun-1899", temp: "79.40"},
+      {date: "Jul-1899", temp: " 80.80"},
+      {date: "Aug-1899", temp: "80.60"},
+      {date: "Sep-1899", temp: "72.60"},
+      {date: "Oct-1899", temp: "66.90"},
+      {date: "Nov-1899", temp: " 55.40"},
+      {date: "Dec-1899", temp: "44.70"}
+    ]
+    
+  }
+];
+
+var width = 500;
+var height = 300;
+var margin = 50;
+var duration = 250;
+
+var lineOpacity = "0.25";
+var lineOpacityHover = "0.85";
+var otherLinesOpacityHover = "0.1";
+var lineStroke = "1.5px";
+var lineStrokeHover = "2.5px";
+
+var circleOpacity = '0.85';
+var circleOpacityOnLineHover = "0.25"
+var circleRadius = 3;
+var circleRadiusHover = 6;
+
+
+/* Format Data */
+var parseDate = d3.timeParse("%b-%Y");
+data.forEach(function(d) { 
+  d.values.forEach(function(d) {
+    d.date = parseDate(d.date);
+    d.temp = +d.temp;    
+  });
+});
+
+
+/* Scale */
+var xScale = d3.scaleTime()
+  .domain(d3.extent(data[0].values, d => d.date))
+  .range([0, width-margin]);
+
+var yScale = d3.scaleLinear()
+  .domain([0, 100])
+  .range([height-margin, 0]);
+
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+/* Add SVG */
+var svg = d3.select("#chart").append("svg")
+  .attr("width", (width+margin)+"px")
+  .attr("height", (height+margin)+"px")
+  .append('g')
+  .attr("transform", `translate(${margin}, ${margin})`);
+
+
+/* Add line into SVG */
+var line = d3.line()
+  .x(d => xScale(d.date))
+  .y(d => yScale(d.temp));
+
+let lines = svg.append('g')
+  .attr('class', 'lines');
+
+lines.selectAll('.line-group')
+  .data(data).enter()
+  .append('g')
+  .attr('class', 'line-group')  
+  .on("mouseover", function(d, i) {
+      svg.append("text")
+        .attr("class", "title-text")
+        .style("fill", color(i))        
+        .text(d.name)
+        .attr("text-anchor", "middle")
+        .attr("x", (width-margin)/2)
+        .attr("y", 5);
+    })
+  .on("mouseout", function(d) {
+      svg.select(".title-text").remove();
+    })
+  .append('path')
+  .attr('class', 'line')  
+  .attr('d', d => line(d.values))
+  .style('stroke', (d, i) => color(i))
+  .style('opacity', lineOpacity)
+  .on("mouseover", function(d) {
+      d3.selectAll('.line')
+					.style('opacity', otherLinesOpacityHover);
+      d3.selectAll('.circle')
+					.style('opacity', circleOpacityOnLineHover);
+      d3.select(this)
+        .style('opacity', lineOpacityHover)
+        .style("stroke-width", lineStrokeHover)
+        .style("cursor", "pointer");
+    })
+  .on("mouseout", function(d) {
+      d3.selectAll(".line")
+					.style('opacity', lineOpacity);
+      d3.selectAll('.circle')
+					.style('opacity', circleOpacity);
+      d3.select(this)
+        .style("stroke-width", lineStroke)
+        .style("cursor", "none");
+    });
+
+
+/* Add circles in the line */
+lines.selectAll("circle-group")
+  .data(data).enter()
+  .append("g")
+  .style("fill", (d, i) => color(i))
+  .selectAll("circle")
+  .data(d => d.values).enter()
+  .append("g")
+  .attr("class", "circle")  
+  .on("mouseover", function(d) {
+      d3.select(this)     
+        .style("cursor", "pointer")
+        .append("text")
+        .attr("class", "text")
+        .text(`${d.temp}`)
+        .attr("x", d => xScale(d.date) + 5)
+        .attr("y", d => yScale(d.temp) - 10);
+    })
+  .on("mouseout", function(d) {
+      d3.select(this)
+        .style("cursor", "none")  
+        .transition()
+        .duration(duration)
+        .selectAll(".text").remove();
+    })
+  .append("circle")
+  .attr("cx", d => xScale(d.date))
+  .attr("cy", d => yScale(d.temp))
+  .attr("r", circleRadius)
+  .style('opacity', circleOpacity)
+  .on("mouseover", function(d) {
+        d3.select(this)
+          .transition()
+          .duration(duration)
+          .attr("r", circleRadiusHover);
+      })
+    .on("mouseout", function(d) {
+        d3.select(this) 
+          .transition()
+          .duration(duration)
+          .attr("r", circleRadius);  
+      });
+
+
+/* Add Axis into SVG */
+var xAxis = d3.axisBottom(xScale).ticks(5);
+var yAxis = d3.axisLeft(yScale).ticks(5);
+
+svg.append("g")
+  .attr("class", "x axis")
+  .attr("transform", `translate(0, ${height-margin})`)
+  .call(xAxis);
+
+svg.append("g")
+  .attr("class", "y axis")
+  .call(yAxis)
+  .append('text')
+  .attr("y", 15)
+  .attr("transform", "rotate(-90)")
+  .attr("fill", "#000")
+  .text("Total values");
+
+</script>
