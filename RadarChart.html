@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>Radar chart</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+	<script src="RadarChartMin.js"></script>
+	<script src="RadarChartAvg.js"></script>
+	<script src="RadarChartMax.js"></script>
+		  
+	<style>
+		body {
+		  overflow: hidden;
+		  margin: 50px;		  
+		  font-size: 14px;
+		  font-family: "Helvetica Neue", Helvetica;
+		}
+
+		/* #chartMax {
+		  position: absolute;
+		  top: 50px;
+		  left: 1000px;
+		}	
+		#chartAvg {
+		  position: absolute;
+		  top: 50px;
+		  left: 500px;
+		}	
+		#chartMin {
+		  position: absolute;
+		  top: 50px;
+		  left: 100px;
+		}	 */
+	</style>
+  </head>
+  <body>
+    <div  id="body">
+		<div class="container-fluid">			
+			<div  class="row">
+			  <div class="col-sm-4" ><div id="chartMax" ></div ><h1><kbd>Max Temp Chart</kbd></h1></div>
+			  <div class="col-sm-4" ><div id="chartAvg" ></div><h1><kbd>AVG Temp Chart</kbd></h1></div>
+			  <div class="col-sm-4" ><div id="chartMin" ></div><h1><kbd>Min Temp Chart</kbd></h1></div>
+			</div>
+		  </div> 	
+		    
+    </div>	
+
+	<div class="container-fluid">			
+		<div  class="row">
+		  <div class="col-sm-4" ><script type="text/javascript" src="scriptMin.js"></script></div>
+		  <div class="col-sm-4" ><script type="text/javascript" src="scriptAvg.js"></script></div>
+		  <div class="col-sm-4" ><script type="text/javascript" src="scriptMax.js"></script></div>
+		</div>
+	  </div> 
+		
+		
+		
+
+	</body>
+</html>
