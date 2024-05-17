@@ -18,7 +18,7 @@ const path = d3.geoPath().projection(projection);
 // Load and display the world
 Promise.all([
     d3.json('./utils/countries.geo.json'), 
-    d3.csv('https://github.com/ErfanFathi/data-visualization/blob/main/data/average_life_expectancy_per_country.csv')
+    d3.csv('./data/average_life_expectancy_per_country.csv')
 ]).then(function([worldData, lifeExpectancyData]) {
     // Convert lifeExpectancyData to a map for easy lookup
     const lifeExpectancyMap = new Map();
