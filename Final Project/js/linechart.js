@@ -12,7 +12,7 @@ const svg = d3.select("#linechart")
     .attr("transform", `translate(${margin.left},${margin.top})`);
 
 // Read the data
-d3.csv("https://github.com/ErfanFathi/data-visualization/blob/main/data/stats_by_year.csv").then(function(data) {
+d3.csv("./data/stats_by_year.csv").then(function(data) {
 
     // Parse the data
     data.forEach(d => {
