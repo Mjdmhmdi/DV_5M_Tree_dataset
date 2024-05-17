@@ -12,7 +12,7 @@ const svg = d3.select("#bubblechart")
     .attr("transform", `translate(${margin.left},${margin.top})`);
 
 // Read the data
-d3.csv("https://github.com/ErfanFathi/data-visualization/blob/main/data/bubble_chart_data.csv").then(function(data) {
+d3.csv("./data/bubble_chart_data.csv").then(function(data) {
 
     // Format the data
     data.forEach(d => {
