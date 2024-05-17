@@ -1,1 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization Project</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet" />
+    <script type="module" src="js/barchart.js"></script>
+    <script type="module" src="js/linechart.js"></script>
+    <script type="module" src="js/scatterplot.js"></script>
+    <script type="module" src="js/bubblechart.js"></script>
+    <script type="module" src="js/choroplethmap.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="index.html">Data Visualization Final Project</a>
+    </nav>
 
+    <div class="container">
+        
+        <!-- Bar Chart Section -->
+        <div class="row">
+            <!-- First Half -->
+            <div class="col-md-7">     
+                <div id="barchart"></div>
+            </div>
+            <!-- Second Half -->
+            <div class="col-md-5">
+                <div>
+                    <p style="margin-top: 8%; border: 1px solid #69b3a2; border-radius: 5px; padding: 10px; background-color: lightcyan;">
+                        This bar chart showcases the life expectancy in the top 20 countries
+                        with the highest life expectancy rates. Each bar represents a country,
+                        arranged on the X-axis, with the corresponding life expectancy displayed
+                        on the Y-axis. The chart highlights the disparities in health outcomes and
+                        longevity across different nations, potentially reflecting the impact of factors 
+                        like healthcare quality, economic development, and lifestyle differences. 
+                        By focusing on the top 20 countries, this chart provides insights into
+                        the benchmarks for optimal health and longevity conditions worldwide.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Line Chart Section -->
+        <div class="row">
+            <!-- First Half -->
+            <div class="col-md-5">
+                <div>
+                    <p style="margin-top: 8%; border: 1px solid #69b3a2; border-radius: 5px; padding: 10px; background-color: lightcyan;">
+                        The line chart traces the evolution of life expectancy over the years,
+                        with the X-axis representing different years and the Y-axis depicting 
+                        life expectancy. It features three lines, each representing the minimum, 
+                        average, and maximum life expectancy recorded globally for each year.
+                        This visualization provides a clear depiction of global health trends,
+                        highlighting improvements or declines in global life expectancy over time.
+                        It also reflect the impact of major global health initiatives,
+                        economic developments, or widespread health crises.
+                    </p>
+                </div>
+            </div>
+            <!-- Second Half -->
+            <div class="col-md-7">
+                <div id="linechart"></div>
+            </div>
+
+        </div>
+        <!-- Scatter Plot Section -->
+        <div class="row">
+            <!-- First Half -->
+            <div class="col-md-7">      
+                <div id="scatterplot"></div>
+            </div>
+            <!-- Second Half -->
+            <div class="col-md-5">
+                <div>
+                    <p style="margin-top: 8%; border: 1px solid #69b3a2; border-radius: 5px; padding: 10px; background-color: lightcyan;">
+                        In this scatter plot, each point represents a country, plotted with its
+                        GDP per capita on the X-axis and life expectancy on the Y-axis. The color
+                        of each point varies according to the year, allowing for the observation of
+                        trends over time. This plot is crucial for analyzing the relationship between
+                        a country's economic status and the health of its population. It reveal
+                        patterns such as higher life expectancies in wealthier nations and indicate
+                        how economic growth and health outcomes are interconnected.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Bubble Chart Section -->
+        <div class="row">
+            <!-- First Half -->
+            <div class="col-md-5">
+                <div>
+                    <p style="margin-top: 8%; border: 1px solid #69b3a2; border-radius: 5px; padding: 10px; background-color: lightcyan;">
+                        This bubble chart plots countries with GDP per capita on the X-axis and
+                        life expectancy on the Y-axis, while the size of each bubble represents
+                        the population of the country. This multi-dimensional plot provides a
+                        comprehensive view of how population size correlates with economic and
+                        health metrics. Larger bubbles in areas of high GDP and life expectancy 
+                        indicate populous, prosperous nations with strong health outcomes,
+                        while smaller bubbles in lower GDP areas highlight countries with smaller
+                        populations and potentially challenging health and economic conditions.
+                    </p>
+                </div>
+            </div>
+            <!-- Second Half -->
+            <div class="col-md-7">
+                <div id="bubblechart"></div>
+            </div>
+
+        </div>
+        
+        <!-- Choropleth Map Section -->
+        <div class="row">
+            <!-- First Half -->
+            <div class="col-md-6">
+                <div id="map"></div>
+            </div>
+            <!-- Second Half -->
+            <div class="col-md-6">
+                <div>
+                    <p style="margin-top: 8%; margin-left: 8%; border: 1px solid #69b3a2; border-radius: 5px; padding: 10px; background-color: lightcyan;">
+                        The choropleth map provides a geographical visualization of life expectancy, 
+                        using varying colors to represent different life expectancy ranges across
+                        countries. This global map offers an immediate visual representation of regional
+                        disparities in health outcomes. Darker shades indicate lower life expectancies, 
+                        respectively. Such a map is instrumental in identifying global health patterns,
+                        highlighting regions that may require more health-focused interventions,
+                        and showcasing the successes in regions with high life expectancies.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div id="tooltip" style="position: absolute; visibility: hidden; padding: 10px; background-color: white; border: 1px solid #69b3a2; border-radius: 5px;"></div>
+    </div>
+
+    <!-- Load D3.js -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
