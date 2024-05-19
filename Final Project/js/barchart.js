@@ -15,7 +15,7 @@ const svg = d3.select("#barchart")
 d3.csv("./data/average_life_expectancy_per_country.csv").then( function(data2) {
 
   // Split data for top 20 countries
-  const data = data2.slice(20, 0);
+  const data = data2.slice(0, 10);
 
   // Add X axis
   const x = d3.scaleBand()
