@@ -1,0 +1,66 @@
+body {
+    background: rgba(94, 146, 176, 0.403);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+}
+
+.circular {
+    margin-top: 50px;
+}
+
+.axis-label {
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+.gdp-label {
+    font: 12px sans-serif;
+    text-anchor: start;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.year-text {
+    font: 60px sans-serif;
+    text-anchor: end;
+    fill: rgb(71, 71, 71);
+}
+
+.tooltip {
+    margin-top: -300px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.bubbles {
+    stroke-width: 1px;
+    stroke: black;
+    opacity: .8
+}
+
+.bubbles:hover {
+    stroke: black;
+}
+#my_dataviz {
+    height: 620px !important;
+}
+
+.legend-color-box {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#stack_legend{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
