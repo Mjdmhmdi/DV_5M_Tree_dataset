@@ -1,0 +1,2939 @@
+Country,Year,continent,Life expectancy ,GDP,Population
+Afghanistan,2015,Asia,65,584.25921,33736494
+Afghanistan,2014,Asia,59.9,612.696514,327582
+Afghanistan,2013,Asia,59.9,631.744976,31731688
+Afghanistan,2012,Asia,59.5,669.959,3696958
+Afghanistan,2011,Asia,59.2,63.537231,2978599
+Afghanistan,2010,Asia,58.8,553.32894,2883167
+Afghanistan,2009,Asia,58.6,445.8932979,284331
+Afghanistan,2008,Asia,58.1,373.3611163,2729431
+Afghanistan,2007,Asia,57.5,369.835796,26616792
+Afghanistan,2006,Asia,57.3,272.56377,2589345
+Afghanistan,2005,Asia,57.3,25.2941299,257798
+Afghanistan,2004,Asia,57,219.1413528,24118979
+Afghanistan,2003,Asia,56.7,198.7285436,2364851
+Afghanistan,2002,Asia,56.2,187.84595,21979923
+Afghanistan,2001,Asia,55.3,117.49698,2966463
+Afghanistan,2000,Asia,54.8,114.56,293756
+Albania,2015,Europe,77.8,3954.22783,28873
+Albania,2014,Europe,77.5,4575.763787,288914
+Albania,2013,Europe,77.2,4414.72314,289592
+Albania,2012,Europe,76.9,4247.61438,2941
+Albania,2011,Europe,76.6,4437.17868,295195
+Albania,2010,Europe,76.2,494.358832,291321
+Albania,2009,Europe,76.1,4114.136545,2927519
+Albania,2008,Europe,75.3,437.539647,2947314
+Albania,2007,Europe,75.9,363.13685,29717
+Albania,2006,Europe,74.2,35.1293,2992547
+Albania,2005,Europe,73.5,279.142931,311487
+Albania,2004,Europe,73,2416.588235,326939
+Albania,2003,Europe,72.8,189.681557,339616
+Albania,2002,Europe,73.3,1453.642777,3511
+Albania,2001,Europe,73.6,1326.97339,36173
+Albania,2000,Europe,72.6,1175.788981,38927
+Algeria,2015,Africa,75.6,4132.76292,39871528
+Algeria,2014,Africa,75.4,547.8517,39113313
+Algeria,2013,Africa,75.3,5471.866766,38338562
+Algeria,2012,Africa,75.1,5564.82566,37565847
+Algeria,2011,Africa,74.9,5432.2523,36819558
+Algeria,2010,Africa,74.7,4463.394675,36117637
+Algeria,2009,Africa,74.4,3868.83123,3546576
+Algeria,2008,Africa,74.1,495.254866,3486715
+Algeria,2007,Africa,73.8,3935.183343,34376
+Algeria,2006,Africa,73.4,3464.6179,33777915
+Algeria,2005,Africa,72.9,31.122378,33288437
+Algeria,2004,Africa,72.3,2598.9823,3283196
+Algeria,2003,Africa,71.7,294.33556,3243514
+Algeria,2002,Africa,71.6,1774.33673,3199546
+Algeria,2001,Africa,71.4,1732.857979,31592153
+Algeria,2000,Africa,71.3,1757.17797,3118366
+Angola,2015,Africa,52.4,3695.793748,2785935
+Angola,2014,Africa,51.7,479.31224,2692466
+Angola,2013,Africa,51.1,484.616884,2599834
+Angola,2012,Africa,56,4598.249988,259615
+Angola,2011,Africa,51,4299.12889,24218565
+Angola,2010,Africa,49.6,3529.53482,23369131
+Angola,2009,Africa,49.1,3347.84485,22549547
+Angola,2008,Africa,48.7,3868.578883,2175942
+Angola,2007,Africa,48.2,2878.837144,2997687
+Angola,2006,Africa,47.7,262.415149,2262399
+Angola,2005,Africa,47.4,1443.991929,19552542
+Angola,2004,Africa,47.1,141.86844,18865716
+Angola,2003,Africa,46.8,779.468356,1823369
+Angola,2002,Africa,46.5,711.181716,17572649
+Angola,2001,Africa,45.7,526.168743,16983266
+Angola,2000,Africa,45.3,555.2969419,1644924
+Antigua and Barbuda,2015,Americas,76.4,13566.9541,
+Antigua and Barbuda,2014,Americas,76.2,12888.29667,
+Antigua and Barbuda,2013,Americas,76.1,12224.86416,
+Antigua and Barbuda,2012,Americas,75.9,12565.44197,
+Antigua and Barbuda,2011,Americas,75.7,11929.34991,
+Antigua and Barbuda,2010,Americas,75.6,12126.87614,
+Antigua and Barbuda,2009,Americas,75.4,1312.46692,
+Antigua and Barbuda,2008,Americas,75.2,1473.31923,
+Antigua and Barbuda,2007,Americas,75,14252.29452,
+Antigua and Barbuda,2006,Americas,74.8,12724.39377,
+Antigua and Barbuda,2005,Americas,74.6,11371.93895,
+Antigua and Barbuda,2004,Americas,74.4,1352.8374,
+Antigua and Barbuda,2003,Americas,74.2,9739.82556,
+Antigua and Barbuda,2002,Americas,74,9386.716452,
+Antigua and Barbuda,2001,Americas,73.8,9358.154162,
+Antigua and Barbuda,2000,Americas,73.6,9875.161736,
+Argentina,2015,Americas,76.3,13467.1236,43417765
+Argentina,2014,Americas,76.2,12245.25645,42981515
+Argentina,2013,Americas,76,12976.63642,42539925
+Argentina,2012,Americas,75.9,12969.7712,4296739
+Argentina,2011,Americas,75.7,12726.9836,41656879
+Argentina,2010,Americas,75.5,1276.265,41223889
+Argentina,2009,Americas,75.6,8161.36966,479947
+Argentina,2008,Americas,75.4,8953.359275,4382389
+Argentina,2007,Americas,74.8,7193.61764,3997224
+Argentina,2006,Americas,75.2,5878.76127,3955889
+Argentina,2005,Americas,74.9,576.883829,39145488
+Argentina,2004,Americas,74.7,4251.574348,38728696
+Argentina,2003,Americas,74.1,333.4376,3839379
+Argentina,2002,Americas,74.1,2579.193168,3788937
+Argentina,2001,Americas,74,717.694674,3747159
+Argentina,2000,Americas,74.1,7669.273916,3757452
+Armenia,2015,Asia,74.8,369.654776,291695
+Armenia,2014,Asia,74.6,3994.712355,29622
+Armenia,2013,Asia,74.4,3843.591213,289359
+Armenia,2012,Asia,74.4,3684.8481,2881922
+Armenia,2011,Asia,73.9,3526.978143,2875581
+Armenia,2010,Asia,73.5,3218.381655,2877311
+Armenia,2009,Asia,73.3,2993.832531,2888584
+Armenia,2008,Asia,73.2,41.26997,29822
+Armenia,2007,Asia,73.5,3138.8873,293356
+Armenia,2006,Asia,72.9,2158.299,29585
+Armenia,2005,Asia,73,1643.758397,2981259
+Armenia,2004,Asia,73,1191.96192,3612
+Armenia,2003,Asia,72.7,93.1661567,31786
+Armenia,2002,Asia,72.6,783.261699,333897
+Armenia,2001,Asia,72.6,694.435119,35655
+Armenia,2000,Asia,72,622.7427477,369588
+Australia,2015,Oceania,82.8,56554.3876,23789338
+Australia,2014,Oceania,82.7,62214.6912,2346694
+Australia,2013,Oceania,82.5,67792.3386,23117353
+Australia,2012,Oceania,82.3,67677.63477,22728254
+Australia,2011,Oceania,82,62245.129,223424
+Australia,2010,Oceania,81.9,51874.848,223175
+Australia,2009,Oceania,81.7,42742.99898,216917
+Australia,2008,Oceania,81.3,49664.6854,212492
+Australia,2007,Oceania,81.3,4991.98289,28276
+Australia,2006,Oceania,81.2,36118.28381,26979
+Australia,2005,Oceania,81,3416.71483,23948
+Australia,2004,Oceania,86,3472.37977,21274
+Australia,2003,Oceania,83,23465.38559,198954
+Australia,2002,Oceania,79.9,281.81763,196514
+Australia,2001,Oceania,79.9,19517.84168,19413
+Australia,2000,Oceania,79.5,2169.921,19153
+Austria,2015,Europe,81.5,43665.947,8633169
+Austria,2014,Europe,81.4,51322.63997,8541575
+Austria,2013,Europe,81.1,554.71532,8479375
+Austria,2012,Europe,88,48333.57273,8429991
+Austria,2011,Europe,88,51126.74139,8391643
+Austria,2010,Europe,84,46657.629,836344
+Austria,2009,Europe,82,47654.18721,8343323
+Austria,2008,Europe,84,51386.37665,8321496
+Austria,2007,Europe,81,46586.6525,8295487
+Austria,2006,Europe,79.8,443.99361,8268641
+Austria,2005,Europe,79.4,38242.4252,8227829
+Austria,2004,Europe,79.3,36693.4262,8171966
+Austria,2003,Europe,78.8,3212.9355,8121423
+Austria,2002,Europe,78.7,26351.37568,881957
+Austria,2001,Europe,78.6,24489.73553,842293
+Austria,2000,Europe,78.1,24517.26745,811566
+Azerbaijan,2015,Asia,72.7,55.31382,9649341
+Azerbaijan,2014,Asia,72.5,7891.299776,953579
+Azerbaijan,2013,Asia,72.2,7875.756953,941681
+Azerbaijan,2012,Asia,71.9,7496.335728,9295784
+Azerbaijan,2011,Asia,71.6,7189.691229,917382
+Azerbaijan,2010,Asia,71.1,5842.85784,954332
+Azerbaijan,2009,Asia,78,495.294791,8947243
+Azerbaijan,2008,Asia,73,5574.6382,87634
+Azerbaijan,2007,Asia,73,3851.437869,85813
+Azerbaijan,2006,Asia,69.2,2473.85776,848455
+Azerbaijan,2005,Asia,68.4,1578.4239,839185
+Azerbaijan,2004,Asia,68.4,145.2163,8365
+Azerbaijan,2003,Asia,67.8,883.6439965,82341
+Azerbaijan,2002,Asia,67.8,763.73858,817195
+Azerbaijan,2001,Asia,67.5,73.6838434,81112
+Azerbaijan,2000,Asia,66.6,655.974326,8486
+Bahamas,2015,Americas,76.1,,
+Bahamas,2014,Americas,75.4,,
+Bahamas,2013,Americas,74.8,,
+Bahamas,2012,Americas,74.9,,
+Bahamas,2011,Americas,75,,
+Bahamas,2010,Americas,75,,
+Bahamas,2009,Americas,74.6,,
+Bahamas,2008,Americas,74.5,,
+Bahamas,2007,Americas,74.4,,
+Bahamas,2006,Americas,74.2,,
+Bahamas,2005,Americas,74.1,,
+Bahamas,2004,Americas,73.8,,
+Bahamas,2003,Americas,73.2,,
+Bahamas,2002,Americas,73.1,,
+Bahamas,2001,Americas,72.9,,
+Bahamas,2000,Americas,72.6,,
+Bahrain,2015,Asia,76.9,22688.87824,
+Bahrain,2014,Asia,76.8,24983.3792,
+Bahrain,2013,Asia,76.7,251.18329,
+Bahrain,2012,Asia,76.5,23649.36661,
+Bahrain,2011,Asia,76.1,2281.1242,
+Bahrain,2010,Asia,76.1,2722.1389,
+Bahrain,2009,Asia,76,19356.67236,
+Bahrain,2008,Asia,75.8,2367.56535,
+Bahrain,2007,Asia,75.6,2977.1153,
+Bahrain,2006,Asia,75.5,1937.99549,
+Bahrain,2005,Asia,75.3,17959.17854,
+Bahrain,2004,Asia,75.2,15846.47641,
+Bahrain,2003,Asia,75,14221.99259,
+Bahrain,2002,Asia,74.9,1312.33457,
+Bahrain,2001,Asia,74.7,12868.211,
+Bahrain,2000,Asia,74.5,13636.34668,
+Bangladesh,2015,Asia,71.8,121.15812,1612886
+Bangladesh,2014,Asia,71.4,184.56543,15945279
+Bangladesh,2013,Asia,71,951.8894535,157571292
+Bangladesh,2012,Asia,77,856.342857,15572753
+Bangladesh,2011,Asia,73,835.789341,153911916
+Bangladesh,2010,Asia,69.9,757.6717572,15214912
+Bangladesh,2009,Asia,69.5,681.125368,1545478
+Bangladesh,2008,Asia,69.1,615.7775411,14885814
+Bangladesh,2007,Asia,68.6,541.651484,147139191
+Bangladesh,2006,Asia,68.2,494.51466,1453684
+Bangladesh,2005,Asia,67.8,484.155471,14343111
+Bangladesh,2004,Asia,67.3,46.7579167,14137489
+Bangladesh,2003,Asia,66.8,432.7388972,139191
+Bangladesh,2002,Asia,66.3,4.6135745,1366667
+Bangladesh,2001,Asia,65.8,42.5981152,1341716
+Bangladesh,2000,Asia,65.3,45.63371,131581243
+Barbados,2015,Americas,75.5,15557.8381,
+Barbados,2014,Americas,75.4,15359.66971,
+Barbados,2013,Americas,75.2,15472.7814,
+Barbados,2012,Americas,75.1,15384.8749,
+Barbados,2011,Americas,74.9,15534.1574,
+Barbados,2010,Americas,74.7,1595.91232,
+Barbados,2009,Americas,74.6,16523.32388,
+Barbados,2008,Americas,74.4,1657.3228,
+Barbados,2007,Americas,74.2,16462.48556,
+Barbados,2006,Americas,74.1,15646.5591,
+Barbados,2005,Americas,73.9,14223.86576,
+Barbados,2004,Americas,73.8,12868.8639,
+Barbados,2003,Americas,73.7,1228.5447,
+Barbados,2002,Americas,73.5,11675.39395,
+Barbados,2001,Americas,73.4,11513.87189,
+Barbados,2000,Americas,73.3,11568.1111,
+Belarus,2015,Europe,72.3,5949.11677,9489616
+Belarus,2014,Europe,72,8318.429294,9474511
+Belarus,2013,Europe,71.7,7978.825443,9465997
+Belarus,2012,Europe,71.9,694.243915,9464495
+Belarus,2011,Europe,72,6519.71753,9473172
+Belarus,2010,Europe,73,63.38877,949583
+Belarus,2009,Europe,70,5176.172649,956765
+Belarus,2008,Europe,70,6376.183153,9527985
+Belarus,2007,Europe,69.8,4735.484827,956953
+Belarus,2006,Europe,68.9,3848.215966,964924
+Belarus,2005,Europe,68.1,3126.71767,9663915
+Belarus,2004,Europe,68.2,2378.33927,973146
+Belarus,2003,Europe,67.7,1819.525644,9796749
+Belarus,2002,Europe,67.2,1479.383142,9865548
+Belarus,2001,Europe,67.7,1244.373185,9928549
+Belarus,2000,Europe,68,1276.28834,997961
+Belgium,2015,Europe,81.1,4356.875,11274196
+Belgium,2014,Europe,89,47439.39684,112957
+Belgium,2013,Europe,87,4651.38647,11182817
+Belgium,2012,Europe,83,4474.5717,11128246
+Belgium,2011,Europe,83,4772.77415,1147744
+Belgium,2010,Europe,80,4438.23741,1895586
+Belgium,2009,Europe,79.8,4488.5615,1796493
+Belgium,2008,Europe,79.5,48424.58927,179973
+Belgium,2007,Europe,79.5,4443.83131,16257
+Belgium,2006,Europe,79.4,38852.3613,1547958
+Belgium,2005,Europe,78.9,36967.28292,1478617
+Belgium,2004,Europe,78.8,35589.71295,1421137
+Belgium,2003,Europe,78.3,3743.95693,1376133
+Belgium,2002,Europe,78,2552.3328,1332785
+Belgium,2001,Europe,78,23121.56635,128657
+Belgium,2000,Europe,77.6,2327.4591,125125
+Belize,2015,Americas,71,4849.997495,359288
+Belize,2014,Americas,70,4852.223666,351694
+Belize,2013,Americas,69.8,4688.538443,344181
+Belize,2012,Americas,69.4,4673.63848,33671
+Belize,2011,Americas,69.4,4516.24675,329192
+Belize,2010,Americas,69.5,4344.15177,32168
+Belize,2009,Americas,69.5,4258.788611,313929
+Belize,2008,Americas,69.6,447.22796,36165
+Belize,2007,Americas,69.6,4324.876427,29847
+Belize,2006,Americas,69.4,4187.3783,29747
+Belize,2005,Americas,69,3933.332215,283277
+Belize,2004,Americas,68.7,3831.53819,27689
+Belize,2003,Americas,68.4,3679.99523,26913
+Belize,2002,Americas,68.5,3556.561825,26226
+Belize,2001,Americas,68.2,3419.275719,254984
+Belize,2000,Americas,68.3,3364.423711,247315
+Benin,2015,Africa,60,783.94791,1575952
+Benin,2014,Africa,59.7,943.686575,1286712
+Benin,2013,Africa,59.5,915.2674586,14451
+Benin,2012,Africa,59.3,837.9551,972916
+Benin,2011,Africa,59.1,825.9427854,94682
+Benin,2010,Africa,58.7,757.695974,9199259
+Benin,2009,Africa,58.4,793.45243,894476
+Benin,2008,Africa,57.6,82.1513498,8696916
+Benin,2007,Africa,57.1,76.535419,8454791
+Benin,2006,Africa,56.8,625.8392,8216896
+Benin,2005,Africa,56.5,61.799977,7982225
+Benin,2004,Africa,56.1,583.493514,7754
+Benin,2003,Africa,55.8,519.2922847,752555
+Benin,2002,Africa,55.6,418.6985763,7295394
+Benin,2001,Africa,55.5,378.73654,776733
+Benin,2000,Africa,55.4,374.1923942,6865951
+Bhutan,2015,Asia,69.8,2613.645177,787386
+Bhutan,2014,Asia,69.4,2522.7968,776448
+Bhutan,2013,Asia,69.1,235.882889,764961
+Bhutan,2012,Asia,68.7,2422.816,752967
+Bhutan,2011,Asia,68.3,2458.45976,7451
+Bhutan,2010,Asia,67.9,2178.921383,727641
+Bhutan,2009,Asia,67.4,177.234497,714458
+Bhutan,2008,Asia,67,1795.18137,795
+Bhutan,2007,Asia,66.5,1741.142552,686958
+Bhutan,2006,Asia,65.8,1335.45696,672228
+Bhutan,2005,Asia,65,1247.61392,656639
+Bhutan,2004,Asia,64.2,197.45788,64282
+Bhutan,2003,Asia,63.3,997.7417141,623434
+Bhutan,2002,Asia,62.5,885.6382245,66399
+Bhutan,2001,Asia,61.7,87.9387673,5896
+Bhutan,2000,Asia,62,765.8632358,573416
+Bolivia (Plurinational State of),2015,Americas,77,,
+Bolivia (Plurinational State of),2014,Americas,74,,
+Bolivia (Plurinational State of),2013,Americas,71,,
+Bolivia (Plurinational State of),2012,Americas,69.8,,
+Bolivia (Plurinational State of),2011,Americas,69.3,,
+Bolivia (Plurinational State of),2010,Americas,68.7,,
+Bolivia (Plurinational State of),2009,Americas,68,,
+Bolivia (Plurinational State of),2008,Americas,67.4,,
+Bolivia (Plurinational State of),2007,Americas,66.8,,
+Bolivia (Plurinational State of),2006,Americas,66.2,,
+Bolivia (Plurinational State of),2005,Americas,65.7,,
+Bolivia (Plurinational State of),2004,Americas,65.1,,
+Bolivia (Plurinational State of),2003,Americas,64.5,,
+Bolivia (Plurinational State of),2002,Americas,63.9,,
+Bolivia (Plurinational State of),2001,Americas,63.3,,
+Bolivia (Plurinational State of),2000,Americas,62.6,,
+Bosnia and Herzegovina,2015,Europe,77.4,4574.9787,3535961
+Bosnia and Herzegovina,2014,Europe,77.2,5193.94932,35662
+Bosnia and Herzegovina,2013,Europe,77,535.86555,364999
+Bosnia and Herzegovina,2012,Europe,76.8,4716.673325,36482
+Bosnia and Herzegovina,2011,Europe,76.9,55.156834,3688865
+Bosnia and Herzegovina,2010,Europe,76.4,4611.47298,372284
+Bosnia and Herzegovina,2009,Europe,76.1,4697.89732,3746561
+Bosnia and Herzegovina,2008,Europe,76,575.31664,3763599
+Bosnia and Herzegovina,2007,Europe,75.4,418.292176,3774
+Bosnia and Herzegovina,2006,Europe,75.7,344.321698,3779468
+Bosnia and Herzegovina,2005,Europe,75,2968.41186,378153
+Bosnia and Herzegovina,2004,Europe,75.5,265.642661,3781287
+Bosnia and Herzegovina,2003,Europe,75.2,2214.732246,3779247
+Bosnia and Herzegovina,2002,Europe,75.4,1761.537647,377587
+Bosnia and Herzegovina,2001,Europe,74.9,1524.41222,3771284
+Bosnia and Herzegovina,2000,Europe,74.6,1461.7552,376676
+Botswana,2015,Africa,65.7,6532.651,229197
+Botswana,2014,Africa,65.1,7497.762376,2168573
+Botswana,2013,Africa,64.2,77.625783,212857
+Botswana,2012,Africa,63.4,729.231453,289315
+Botswana,2011,Africa,62.2,7645.21469,251339
+Botswana,2010,Africa,61.1,6346.15624,214866
+Botswana,2009,Africa,59.2,5185.729845,1979882
+Botswana,2008,Africa,57.5,5623.379566,1946351
+Botswana,2007,Africa,56.9,5714.47937,1914414
+Botswana,2006,Africa,54.8,5374.554867,1884238
+Botswana,2005,Africa,51.7,5351.253732,1855852
+Botswana,2004,Africa,48.1,4896.583835,182933
+Botswana,2003,Africa,46.4,4163.6596,184339
+Botswana,2002,Africa,46,355.618382,1779953
+Botswana,2001,Africa,46.7,3128.97793,1754935
+Botswana,2000,Africa,47.8,3349.68823,172834
+Brazil,2015,Americas,75,8757.2622,2596218
+Brazil,2014,Americas,74.8,1226.61731,24213133
+Brazil,2013,Americas,74.7,12216.9446,2248632
+Brazil,2012,Americas,74.5,12291.46685,256983
+Brazil,2011,Americas,74.1,13167.47289,198686688
+Brazil,2010,Americas,73.8,11224.1548,196796269
+Brazil,2009,Americas,73.6,8553.3847,194895996
+Brazil,2008,Americas,73.4,8787.61375,19297929
+Brazil,2007,Americas,73.3,7313.557962,19126637
+Brazil,2006,Americas,73,586.145975,18912412
+Brazil,2005,Americas,72.7,477.182746,186917361
+Brazil,2004,Americas,72,3623.47667,184738458
+Brazil,2003,Americas,71.8,359.587582,182482149
+Brazil,2002,Americas,71.4,2819.649531,1815121
+Brazil,2001,Americas,71,3146.95177,1777567
+Brazil,2000,Americas,75,3739.11936,175287587
+Brunei Darussalam,2015,Asia,77.7,3967.8951,
+Brunei Darussalam,2014,Asia,77.6,4159.8652,
+Brunei Darussalam,2013,Asia,77.1,44597.27968,
+Brunei Darussalam,2012,Asia,78.3,47651.2599,
+Brunei Darussalam,2011,Asia,77.4,4717.273,
+Brunei Darussalam,2010,Asia,76.9,35268.1117,
+Brunei Darussalam,2009,Asia,76.8,27965.4754,
+Brunei Darussalam,2008,Asia,77.2,37951.286,
+Brunei Darussalam,2007,Asia,76,32672.36717,
+Brunei Darussalam,2006,Asia,76.3,398.96692,
+Brunei Darussalam,2005,Asia,76.2,2612.13345,
+Brunei Darussalam,2004,Asia,76.4,21896.6527,
+Brunei Darussalam,2003,Asia,76,18555.56649,
+Brunei Darussalam,2002,Asia,74.8,16846.2198,
+Brunei Darussalam,2001,Asia,74.7,16468.12886,
+Brunei Darussalam,2000,Asia,74.4,188.44826,
+Bulgaria,2015,Europe,74.5,6993.47736,7177991
+Bulgaria,2014,Europe,74.3,7853.335191,7223938
+Bulgaria,2013,Europe,74.1,7674.86559,7265115
+Bulgaria,2012,Europe,73.9,7378.25539,735888
+Bulgaria,2011,Europe,73.7,7813.83499,7348328
+Bulgaria,2010,Europe,73.4,6843.263289,7395599
+Bulgaria,2009,Europe,73.2,6955.987733,7444443
+Bulgaria,2008,Europe,72.9,7296.122479,7492561
+Bulgaria,2007,Europe,72.6,5932.899677,7545338
+Bulgaria,2006,Europe,72.2,4513.13628,76122
+Bulgaria,2005,Europe,72.1,3893.68998,7658972
+Bulgaria,2004,Europe,72.2,3381.57837,771686
+Bulgaria,2003,Europe,72,271.46824,7775327
+Bulgaria,2002,Europe,71.8,287.534843,7837161
+Bulgaria,2001,Europe,71.6,1764.97387,89142
+Bulgaria,2000,Europe,71.1,169.28586,817172
+Burkina Faso,2015,Africa,59.9,615.592225,1811624
+Burkina Faso,2014,Africa,59.3,75.1464113,17585977
+Burkina Faso,2013,Africa,59,699.452847,1772723
+Burkina Faso,2012,Africa,58.6,673.8227,16571216
+Burkina Faso,2011,Africa,58.1,666.842783,168194
+Burkina Faso,2010,Africa,57.5,575.4464527,1565217
+Burkina Faso,2009,Africa,56.9,552.7455521,1514199
+Burkina Faso,2008,Africa,56.1,569.7612784,14689726
+Burkina Faso,2007,Africa,55.3,475.11122,1425221
+Burkina Faso,2006,Africa,54.3,422.6332374,13829177
+Burkina Faso,2005,Africa,53.3,46.998871,1342193
+Burkina Faso,2004,Africa,52.4,371.323865,133569
+Burkina Faso,2003,Africa,51.6,332.344351,12654621
+Burkina Faso,2002,Africa,51,26.7635413,122931
+Burkina Faso,2001,Africa,56,235.4912324,11944587
+Burkina Faso,2000,Africa,51,226.4759814,1167942
+Burundi,2015,Africa,59.6,33.681223,119927
+Burundi,2014,Africa,59.1,312.7489794,989179
+Burundi,2013,Africa,58.6,282.7555252,96186
+Burundi,2012,Africa,58,265.285651,931971
+Burundi,2011,Africa,57.4,26.479973,94358
+Burundi,2010,Africa,56.8,231.1943256,876693
+Burundi,2009,Africa,56.2,24.944652,848931
+Burundi,2008,Africa,55.3,196.2472628,8212264
+Burundi,2007,Africa,54.8,17.79995,7939573
+Burundi,2006,Africa,54.1,165.8794176,7675338
+Burundi,2005,Africa,53.4,15.57434,7423289
+Burundi,2004,Africa,52.6,127.4296648,7182451
+Burundi,2003,Africa,51.9,112.849373,6953113
+Burundi,2002,Africa,51.5,122.4335893,6741569
+Burundi,2001,Africa,51.3,133.7427689,6555829
+Burundi,2000,Africa,58,135.9984455,6476
+Côte d'Ivoire,2015,Africa,53.3,,
+Côte d'Ivoire,2014,Africa,52.8,,
+Côte d'Ivoire,2013,Africa,52.3,,
+Côte d'Ivoire,2012,Africa,52,,
+Côte d'Ivoire,2011,Africa,51.7,,
+Côte d'Ivoire,2010,Africa,51.5,,
+Côte d'Ivoire,2009,Africa,51,,
+Côte d'Ivoire,2008,Africa,54,,
+Côte d'Ivoire,2007,Africa,49.9,,
+Côte d'Ivoire,2006,Africa,49.4,,
+Côte d'Ivoire,2005,Africa,48.7,,
+Côte d'Ivoire,2004,Africa,48.2,,
+Côte d'Ivoire,2003,Africa,48,,
+Côte d'Ivoire,2002,Africa,47.7,,
+Côte d'Ivoire,2001,Africa,47.8,,
+Côte d'Ivoire,2000,Africa,47.9,,
+Cabo Verde,2015,Africa,73.3,2954.119467,532913
+Cabo Verde,2014,Africa,73,3529.61843,526437
+Cabo Verde,2013,Africa,72.8,3558.796314,5216
+Cabo Verde,2012,Africa,72.7,348.482762,513979
+Cabo Verde,2011,Africa,72.6,367.429453,5867
+Cabo Verde,2010,Africa,72.5,3312.825985,52384
+Cabo Verde,2009,Africa,72.4,3444.5566,496963
+Cabo Verde,2008,Africa,72.4,3638.95946,491723
+Cabo Verde,2007,Africa,72.3,3112.285712,486438
+Cabo Verde,2006,Africa,72.1,234.28992,48795
+Cabo Verde,2005,Africa,71.8,248.13459,474567
+Cabo Verde,2004,Africa,71.4,1976.45856,467664
+Cabo Verde,2003,Africa,71.1,1768.92132,46147
+Cabo Verde,2002,Africa,77,1373.515636,45216
+Cabo Verde,2001,Africa,73,1268.884564,443716
+Cabo Verde,2000,Africa,69.9,1239.377855,43579
+Cambodia,2015,Asia,68.7,1163.18977,15517635
+Cambodia,2014,Asia,68.3,198.687123,152779
+Cambodia,2013,Asia,67.8,128.419568,1522692
+Cambodia,2012,Asia,67.4,95.244132,14776866
+Cambodia,2011,Asia,67,882.491462,14537886
+Cambodia,2010,Asia,66.6,785.6928841,143874
+Cambodia,2009,Asia,66.1,738.2326684,14928
+Cambodia,2008,Asia,65.6,745.7877873,138859
+Cambodia,2007,Asia,65,631.675789,13676693
+Cambodia,2006,Asia,64.1,539.8791529,13474489
+Cambodia,2005,Asia,62.9,474.2238766,132721
+Cambodia,2004,Asia,61.5,48.615184,1363377
+Cambodia,2003,Asia,63,362.4213785,12853124
+Cambodia,2002,Asia,59.3,339.676984,12634729
+Cambodia,2001,Asia,58.5,321.22634,1242473
+Cambodia,2000,Asia,57.7,3.685949,12152354
+Cameroon,2015,Africa,57.3,1244.429421,22834522
+Cameroon,2014,Africa,56.7,1441.1417,2223994
+Cameroon,2013,Africa,56.4,1365.34419,21655715
+Cameroon,2012,Africa,55.9,1255.648189,2182383
+Cameroon,2011,Africa,55.6,1295.649726,252447
+Cameroon,2010,Africa,55.3,1182.869227,1997495
+Cameroon,2009,Africa,54.8,123.19538,19432541
+Cameroon,2008,Africa,54.2,1233.524316,18978
+Cameroon,2007,Africa,53.6,111.71186,18395389
+Cameroon,2006,Africa,53.3,12.989164,17899562
+Cameroon,2005,Africa,52.8,952.1872484,1742795
+Cameroon,2004,Africa,52.1,93.211716,1695981
+Cameroon,2003,Africa,51.8,824.8689393,16513822
+Cameroon,2002,Africa,51.6,676.397661,1684886
+Cameroon,2001,Africa,51.5,614.6729339,15671927
+Cameroon,2000,Africa,51.4,68.414399,15274234
+Canada,2015,Americas,82.2,43315.744,3584861
+Canada,2014,Americas,82,544.43376,35544564
+Canada,2013,Americas,81.8,52413.72116,35155451
+Canada,2012,Americas,81.6,52496.69487,3475545
+Canada,2011,Americas,81.5,5282.2176,3434278
+Canada,2010,Americas,81.2,47447.4762,345274
+Canada,2009,Americas,81,4773.45436,33628571
+Canada,2008,Americas,87,46596.33599,33245773
+Canada,2007,Americas,85,44544.5268,32887928
+Canada,2006,Americas,85,4386.69948,325755
+Canada,2005,Americas,81,36189.58838,32312
+Canada,2004,Americas,80,31979.87195,31995
+Canada,2003,Americas,79.7,28172.14883,31676
+Canada,2002,Americas,79.5,24167.8431,31362
+Canada,2001,Americas,79.4,23691.59472,31819
+Canada,2000,Americas,79.1,24124.16917,37697
+Central African Republic,2015,Africa,52.5,348.381417,45461
+Central African Republic,2014,Africa,58,377.132274,4515392
+Central African Republic,2013,Africa,49.9,337.4849614,4499653
+Central African Republic,2012,Africa,53,486.41114,449416
+Central African Republic,2011,Africa,49.8,494.336779,4476153
+Central African Republic,2010,Africa,49.2,446.4434494,4448525
+Central African Republic,2009,Africa,48.6,449.961839,44423
+Central African Republic,2008,Africa,47.6,456.8614334,4345386
+Central African Republic,2007,Africa,46.8,397.148467,42758
+Central African Republic,2006,Africa,46.3,347.673678,421758
+Central African Republic,2005,Africa,45.9,327.1149461,412791
+Central African Republic,2004,Africa,45.7,313.21598,45536
+Central African Republic,2003,Africa,45.7,286.25819,3981665
+Central African Republic,2002,Africa,45.6,253.768343,397612
+Central African Republic,2001,Africa,45.6,243.1586486,383223
+Central African Republic,2000,Africa,46,243.5429317,3754986
+Chad,2015,Africa,53.1,777.248751,149413
+Chad,2014,Africa,52.6,125.998515,13569438
+Chad,2013,Africa,52.2,986.13177,13133589
+Chad,2012,Africa,51.8,973.472574,1275135
+Chad,2011,Africa,51.6,989.2363633,12288651
+Chad,2010,Africa,51.2,896.5697341,1188722
+Chad,2009,Africa,57,84.455939,1152786
+Chad,2008,Africa,49.6,929.772391,11133861
+Chad,2007,Africa,49.4,81.683884,177578
+Chad,2006,Africa,48.5,712.1847694,1421597
+Chad,2005,Africa,48.6,66.2421396,1679
+Chad,2004,Africa,48.5,454.6765879,97143
+Chad,2003,Africa,48.4,292.5914364,935321
+Chad,2002,Africa,48.1,22.854821,91689
+Chad,2001,Africa,48,197.3156442,866312
+Chad,2000,Africa,47.6,166.231785,8342559
+Chile,2015,Americas,85,13653.2264,17762681
+Chile,2014,Americas,83,14817.37778,17613798
+Chile,2013,Americas,81,15941.39722,17462982
+Chile,2012,Americas,79.9,15431.9293,1739746
+Chile,2011,Americas,79.8,1475.69242,17153357
+Chile,2010,Americas,79.1,1286.17764,16993354
+Chile,2009,Americas,79.3,1243.32824,16829442
+Chile,2008,Americas,79.6,1781.3668,16661942
+Chile,2007,Americas,78.9,1526.87746,16491687
+Chile,2006,Americas,78.9,9484.681227,16319792
+Chile,2005,Americas,78.4,7615.3468,1614764
+Chile,2004,Americas,78,621.828325,15973778
+Chile,2003,Americas,77.9,4787.699532,15799542
+Chile,2002,Americas,77.8,4463.545867,15623635
+Chile,2001,Americas,77.3,4595.666327,15444969
+Chile,2000,Americas,77.3,511.368479,15262754
+China,2015,Asia,76.1,869.211938,137122
+China,2014,Asia,75.8,7683.5238,136427
+China,2013,Asia,75.6,777.77594,135738
+China,2012,Asia,75.4,6337.882993,135695
+China,2011,Asia,75.2,5633.79616,134413
+China,2010,Asia,75,456.512487,133775
+China,2009,Asia,74.9,3838.434292,133126
+China,2008,Asia,74.5,3471.247547,1324655
+China,2007,Asia,74.4,2695.366223,1317885
+China,2006,Asia,74.2,299.229676,13112
+China,2005,Asia,73.9,1753.4178,13372
+China,2004,Asia,73.5,158.668462,129675
+China,2003,Asia,73.1,1288.642924,12884
+China,2002,Asia,72.7,1148.5857,1284
+China,2001,Asia,72.2,153.1824,127185
+China,2000,Asia,71.7,959.372181,1262645
+Colombia,2015,Americas,74.8,644.525556,48228697
+Colombia,2014,Americas,74.6,7913.383432,47791911
+Colombia,2013,Americas,74.4,83.5863,47342981
+Colombia,2012,Americas,74.3,7884.984429,46881475
+Colombia,2011,Americas,74.2,7227.73968,4646646
+Colombia,2010,Americas,73.6,625.65544,4591897
+Colombia,2009,Americas,73.6,5148.422113,45416181
+Colombia,2008,Americas,73.5,5433.7245,4491544
+Colombia,2007,Americas,73.5,4674.21961,44374572
+Colombia,2006,Americas,73.1,379.78776,43835722
+Colombia,2005,Americas,73.1,3386.256,43285634
+Colombia,2004,Americas,72.8,274.249442,42724163
+Colombia,2003,Americas,72.4,2246.257472,42152151
+Colombia,2002,Americas,71.8,2355.725857,41572491
+Colombia,2001,Americas,71.5,2395.856551,498899
+Colombia,2000,Americas,71.4,2472.197831,443958
+Comoros,2015,Africa,63.5,727.6463868,777424
+Comoros,2014,Africa,63.2,852.954379,759385
+Comoros,2013,Africa,62.9,834.341949,7415
+Comoros,2012,Africa,62.5,788.632653,723868
+Comoros,2011,Africa,62.2,829.7586885,76569
+Comoros,2010,Africa,61.8,769.1742883,689692
+Comoros,2009,Africa,61.3,778.5454199,673252
+Comoros,2008,Africa,61,795.97519,657229
+Comoros,2007,Africa,66,72.759313,64162
+Comoros,2006,Africa,63,648.38717,626425
+Comoros,2005,Africa,60,621.93372,611627
+Comoros,2004,Africa,59.8,616.4197236,597228
+Comoros,2003,Africa,59.6,544.566526,583211
+Comoros,2002,Africa,59.5,433.2691451,569479
+Comoros,2001,Africa,59.5,395.9319363,555888
+Comoros,2000,Africa,59.5,375.8528566,542357
+Congo,2015,Africa,64.7,,
+Congo,2014,Africa,64.2,,
+Congo,2013,Africa,63.9,,
+Congo,2012,Africa,63.7,,
+Congo,2011,Africa,62.9,,
+Congo,2010,Africa,62,,
+Congo,2009,Africa,68,,
+Congo,2008,Africa,59.4,,
+Congo,2007,Africa,58.2,,
+Congo,2006,Africa,56.9,,
+Congo,2005,Africa,55.3,,
+Congo,2004,Africa,54.1,,
+Congo,2003,Africa,53.2,,
+Congo,2002,Africa,52.6,,
+Congo,2001,Africa,52.7,,
+Congo,2000,Africa,52.9,,
+Cook Islands,2013,,,,
+Costa Rica,2015,Americas,79.6,1146.36273,487852
+Costa Rica,2014,Americas,79.5,1647.44179,4757575
+Costa Rica,2013,Americas,79.4,1569.66631,47641
+Costa Rica,2012,Americas,79.2,9985.36959,4654122
+Costa Rica,2011,Americas,79,9186.59639,46474
+Costa Rica,2010,Americas,78.1,8199.414621,454528
+Costa Rica,2009,Americas,79.2,689.396224,4488263
+Costa Rica,2008,Americas,78.9,6911.136136,442958
+Costa Rica,2007,Americas,78.9,612.623418,4369469
+Costa Rica,2006,Americas,78,5245.187372,438794
+Costa Rica,2005,Americas,78.6,4697.11135,4247841
+Costa Rica,2004,Americas,77.7,4425.57467,418738
+Costa Rica,2003,Americas,78,4167.71417,4125971
+Costa Rica,2002,Americas,78.3,462.14965,46324
+Costa Rica,2001,Americas,77.5,3981.52847,3996798
+Costa Rica,2000,Americas,77.6,388.363689,3925443
+Croatia,2015,Europe,78,11579.6674,42364
+Croatia,2014,Europe,77.8,13467.46827,4238389
+Croatia,2013,Europe,77.7,13574.749,4255689
+Croatia,2012,Europe,77.1,13235.97757,4267558
+Croatia,2011,Europe,77,14539.18421,428622
+Croatia,2010,Europe,76.6,1355.74586,4417781
+Croatia,2009,Europe,76.3,14157.14416,442978
+Croatia,2008,Europe,76,15893.8656,443458
+Croatia,2007,Europe,75.8,13546.69872,4436
+Croatia,2006,Europe,75.9,11363.41845,444
+Croatia,2005,Europe,75.2,1224.2459,4442
+Croatia,2004,Europe,75.4,9365.742468,4439
+Croatia,2003,Europe,74.7,785.881418,444
+Croatia,2002,Europe,74.8,653.71637,444
+Croatia,2001,Europe,74.9,5245.421419,444
+Croatia,2000,Europe,74.7,4919.62869,4426
+Cuba,2015,Americas,79.1,762.261218,
+Cuba,2014,Americas,79,75.5199,
+Cuba,2013,Americas,78.7,676.15344,
+Cuba,2012,Americas,78.7,6425.941119,
+Cuba,2011,Americas,78.8,675.92436,
+Cuba,2010,Americas,78,5676.14143,
+Cuba,2009,Americas,78.1,5484.7763,
+Cuba,2008,Americas,77.9,5376.447622,
+Cuba,2007,Americas,78.1,5184.494227,
+Cuba,2006,Americas,78,4669.6916,
+Cuba,2005,Americas,77.2,3779.577,
+Cuba,2004,Americas,77.3,339.716256,
+Cuba,2003,Americas,77.4,3192.669378,
+Cuba,2002,Americas,77.7,2994.339988,
+Cuba,2001,Americas,76.7,2832.188893,
+Cuba,2000,Americas,76.9,2741.11542,
+Cyprus,2015,Europe,85,2375.1127,116985
+Cyprus,2014,Europe,83,2734.88382,115239
+Cyprus,2013,Europe,81,2797.96736,1143896
+Cyprus,2012,Europe,80,28951.15556,113562
+Cyprus,2011,Europe,79.7,32233.83942,1124835
+Cyprus,2010,Europe,79.5,3818.46396,111267
+Cyprus,2009,Europe,79.3,3215.8159,19876
+Cyprus,2008,Europe,79.1,3539.7488,181563
+Cyprus,2007,Europe,78.9,31386.63265,163712
+Cyprus,2006,Europe,78.8,27169.99256,14559
+Cyprus,2005,Europe,78.7,25324.48666,127658
+Cyprus,2004,Europe,78.6,23932.49128,1141
+Cyprus,2003,Europe,78.5,2293.4789,993563
+Cyprus,2002,Europe,78.4,16372.29152,976966
+Cyprus,2001,Europe,78.2,1562.92433,96282
+Cyprus,2000,Europe,78.1,14672.8826,943286
+Czechia,2015,Europe,78.8,,
+Czechia,2014,Europe,78.6,,
+Czechia,2013,Europe,78.2,,
+Czechia,2012,Europe,78,,
+Czechia,2011,Europe,77.8,,
+Czechia,2010,Europe,77.5,,
+Czechia,2009,Europe,77.1,,
+Czechia,2008,Europe,77,,
+Czechia,2007,Europe,76.8,,
+Czechia,2006,Europe,76.5,,
+Czechia,2005,Europe,75.9,,
+Czechia,2004,Europe,75.8,,
+Czechia,2003,Europe,75.2,,
+Czechia,2002,Europe,75.3,,
+Czechia,2001,Europe,75.1,,
+Czechia,2000,Europe,74.7,,
+Democratic People's Republic of Korea,2015,Asia,76,,
+Democratic People's Republic of Korea,2014,Asia,73,,
+Democratic People's Republic of Korea,2013,Asia,71,,
+Democratic People's Republic of Korea,2012,Asia,69.8,,
+Democratic People's Republic of Korea,2011,Asia,69.4,,
+Democratic People's Republic of Korea,2010,Asia,69,,
+Democratic People's Republic of Korea,2009,Asia,68.7,,
+Democratic People's Republic of Korea,2008,Asia,68.6,,
+Democratic People's Republic of Korea,2007,Asia,68.5,,
+Democratic People's Republic of Korea,2006,Asia,68.5,,
+Democratic People's Republic of Korea,2005,Asia,68.5,,
+Democratic People's Republic of Korea,2004,Asia,68.4,,
+Democratic People's Republic of Korea,2003,Asia,68.1,,
+Democratic People's Republic of Korea,2002,Asia,67.6,,
+Democratic People's Republic of Korea,2001,Asia,66.6,,
+Democratic People's Republic of Korea,2000,Asia,65.4,,
+Democratic Republic of the Congo,2015,Africa,59.8,,
+Democratic Republic of the Congo,2014,Africa,59.3,,
+Democratic Republic of the Congo,2013,Africa,58.8,,
+Democratic Republic of the Congo,2012,Africa,58.3,,
+Democratic Republic of the Congo,2011,Africa,57.9,,
+Democratic Republic of the Congo,2010,Africa,57.4,,
+Democratic Republic of the Congo,2009,Africa,56.7,,
+Democratic Republic of the Congo,2008,Africa,56.3,,
+Democratic Republic of the Congo,2007,Africa,55.7,,
+Democratic Republic of the Congo,2006,Africa,55,,
+Democratic Republic of the Congo,2005,Africa,54.3,,
+Democratic Republic of the Congo,2004,Africa,53.5,,
+Democratic Republic of the Congo,2003,Africa,52.8,,
+Democratic Republic of the Congo,2002,Africa,52.1,,
+Democratic Republic of the Congo,2001,Africa,51.8,,
+Democratic Republic of the Congo,2000,Africa,51.3,,
+Denmark,2015,Europe,86,5314.64416,5683483
+Denmark,2014,Europe,84,62425.5392,5643475
+Denmark,2013,Europe,81,61191.19263,5614932
+Denmark,2012,Europe,80,5857.521,5591572
+Denmark,2011,Europe,79.7,61753.667,557572
+Denmark,2010,Europe,79.2,5841.41122,5547683
+Denmark,2009,Europe,78.9,58163.29359,552395
+Denmark,2008,Europe,78.8,64322.6664,5493621
+Denmark,2007,Europe,78.4,58487.451,5461438
+Denmark,2006,Europe,78.1,5226.99311,5437272
+Denmark,2005,Europe,78.1,48799.8237,5419432
+Denmark,2004,Europe,77.7,46511.6457,544523
+Denmark,2003,Europe,77.3,4458.7764,539574
+Denmark,2002,Europe,77,33228.69291,5375931
+Denmark,2001,Europe,77,3751.64946,5358783
+Denmark,2000,Europe,76.9,3743.55917,5339616
+Djibouti,2015,Africa,63.5,1862.167274,927414
+Djibouti,2014,Africa,63,174.91511,912164
+Djibouti,2013,Africa,62.7,1622.637974,896688
+Djibouti,2012,Africa,62.2,1536.15685,881185
+Djibouti,2011,Africa,61.8,143.986898,865937
+Djibouti,2010,Africa,61.3,1325.99724,851146
+Djibouti,2009,Africa,69,1253.657431,83684
+Djibouti,2008,Africa,62,1214.77118,822934
+Djibouti,2007,Africa,59.8,147.586896,8942
+Djibouti,2006,Africa,59.1,965.6693779,79628
+Djibouti,2005,Africa,58.6,94.7297489,783254
+Djibouti,2004,Africa,58.1,864.184726,77752
+Djibouti,2003,Africa,58,819.974118,758615
+Djibouti,2002,Africa,57.9,792.15412,746221
+Djibouti,2001,Africa,57.7,781.2322196,732711
+Djibouti,2000,Africa,57.4,768.176767,717584
+Dominica,2013,Americas,,722.75665,
+Dominican Republic,2015,Americas,73.9,6468.471648,1528394
+Dominican Republic,2014,Americas,73.6,6268.692122,145844
+Dominican Republic,2013,Americas,73.4,627.55544,1281296
+Dominican Republic,2012,Americas,72.1,5968.876767,115495
+Dominican Republic,2011,Americas,73.1,5759.643,12795
+Dominican Republic,2010,Americas,72.7,5451.6696,9897985
+Dominican Republic,2009,Americas,73.6,4952.67753,9767758
+Dominican Republic,2008,Americas,73.3,511.37937,963652
+Dominican Republic,2007,Americas,72.9,4647.31359,954353
+Dominican Republic,2006,Americas,72.3,3836.468771,9371338
+Dominican Republic,2005,Americas,69.7,3681.5993,9237566
+Dominican Republic,2004,Americas,69.3,2421.9662,912998
+Dominican Republic,2003,Americas,73,2372.628827,896776
+Dominican Republic,2002,Americas,71.4,38.46578,8832285
+Dominican Republic,2001,Americas,71.2,2862.154836,8697126
+Dominican Republic,2000,Americas,72,282.4242,8562622
+Ecuador,2015,Americas,76.2,625.62224,16144368
+Ecuador,2014,Americas,76,6432.216537,1593112
+Ecuador,2013,Americas,76,674.9829,15661547
+Ecuador,2012,Americas,75.5,572.14313,15419666
+Ecuador,2011,Americas,75.3,5223.351763,15177355
+Ecuador,2010,Americas,75,4657.32361,1493469
+Ecuador,2009,Americas,75.1,4255.56571,14691275
+Ecuador,2008,Americas,74.6,4274.95265,14447562
+Ecuador,2007,Americas,74.7,359.71886,1425453
+Ecuador,2006,Americas,74.4,335.786541,1396748
+Ecuador,2005,Americas,74.2,321.942547,13735233
+Ecuador,2004,Americas,74.4,278.557892,1359647
+Ecuador,2003,Americas,74.4,244.46898,1328961
+Ecuador,2002,Americas,73.6,2183.966796,13726
+Ecuador,2001,Americas,73.4,193.741571,12852755
+Ecuador,2000,Americas,72.8,1451.29776,12628596
+Egypt,2015,Africa,79,,
+Egypt,2014,Africa,78,,
+Egypt,2013,Africa,79,,
+Egypt,2012,Africa,72,,
+Egypt,2011,Africa,74,,
+Egypt,2010,Africa,70,,
+Egypt,2009,Africa,69.9,,
+Egypt,2008,Africa,69.8,,
+Egypt,2007,Africa,69.7,,
+Egypt,2006,Africa,69.5,,
+Egypt,2005,Africa,69.4,,
+Egypt,2004,Africa,69,,
+Egypt,2003,Africa,68.6,,
+Egypt,2002,Africa,68.7,,
+Egypt,2001,Africa,68.6,,
+Egypt,2000,Africa,68.8,,
+El Salvador,2015,Americas,73.5,4127.11775,6312478
+El Salvador,2014,Americas,73.3,3988.771871,6281189
+El Salvador,2013,Americas,73,3895.664491,625777
+El Salvador,2012,Americas,73,3827.786267,6221246
+El Salvador,2011,Americas,72,3736.58713,619256
+El Salvador,2010,Americas,72,3474.392445,6164626
+El Salvador,2009,Americas,71.4,3366.482133,6137276
+El Salvador,2008,Americas,71.7,357.347674,61131
+El Salvador,2007,Americas,71.2,334.83817,683475
+El Salvador,2006,Americas,75,362.951768,656478
+El Salvador,2005,Americas,71,2835.281237,628961
+El Salvador,2004,Americas,70,2632.79942,6775
+El Salvador,2003,Americas,69.9,2519.737387,5971535
+El Salvador,2002,Americas,73,248.4125,59433
+El Salvador,2001,Americas,68.9,2338.772244,595962
+El Salvador,2000,Americas,69,2238.4116,5867626
+Equatorial Guinea,2015,Africa,58.2,1347.31257,1175389
+Equatorial Guinea,2014,Africa,57.9,192.59733,1129424
+Equatorial Guinea,2013,Africa,57.4,2246.9938,183746
+Equatorial Guinea,2012,Africa,56.7,21557.6528,138593
+Equatorial Guinea,2011,Africa,56.2,21451.88617,99429
+Equatorial Guinea,2010,Africa,56.1,17136.44568,95114
+Equatorial Guinea,2009,Africa,55.7,1653.2937,99111
+Equatorial Guinea,2008,Africa,55.4,22742.38159,868418
+Equatorial Guinea,2007,Africa,55,15761.83913,829327
+Equatorial Guinea,2006,Africa,54.8,12732.2759,792217
+Equatorial Guinea,2005,Africa,54.4,185.63334,757317
+Equatorial Guinea,2004,Africa,54.1,685.34897,724817
+Equatorial Guinea,2003,Africa,53.8,3577.176197,694611
+Equatorial Guinea,2002,Africa,53.5,2711.17114,66647
+Equatorial Guinea,2001,Africa,53.1,2283.87939,639762
+Equatorial Guinea,2000,Africa,52.7,172.68491,614323
+Eritrea,2015,Africa,64.7,,
+Eritrea,2014,Africa,64.4,,
+Eritrea,2013,Africa,64,,
+Eritrea,2012,Africa,63.6,,
+Eritrea,2011,Africa,62.9,582.775532,447469
+Eritrea,2010,Africa,62.1,482.14994,43984
+Eritrea,2009,Africa,61.4,43.7544499,431334
+Eritrea,2008,Africa,67,326.825642,4232636
+Eritrea,2007,Africa,62,317.3294336,4153332
+Eritrea,2006,Africa,59.7,297.828588,466648
+Eritrea,2005,Africa,59.4,276.75896,39697
+Eritrea,2004,Africa,59.1,287.4222243,3858623
+Eritrea,2003,Africa,58.8,232.7945459,3738265
+Eritrea,2002,Africa,58.5,21.7687981,3614639
+Eritrea,2001,Africa,58.1,215.139213,3497124
+Eritrea,2000,Africa,45.3,28.1969487,339281
+Estonia,2015,Europe,77.6,1774.9291,131547
+Estonia,2014,Europe,77.3,19941.45532,1314545
+Estonia,2013,Europe,76.9,1929.7746,1317997
+Estonia,2012,Europe,76.3,17421.8922,1322696
+Estonia,2011,Europe,76.1,17454.84342,1327439
+Estonia,2010,Europe,75.6,14638.6482,1331475
+Estonia,2009,Europe,74.9,14726.31828,1334515
+Estonia,2008,Europe,74.2,1894.5485,13379
+Estonia,2007,Europe,73,16586.452,13468
+Estonia,2006,Europe,73,12595.4165,134681
+Estonia,2005,Europe,72.8,1338.31322,1354775
+Estonia,2004,Europe,72.3,885.465115,136255
+Estonia,2003,Europe,71.9,7174.237415,13772
+Estonia,2002,Europe,71.2,538.347781,137935
+Estonia,2001,Europe,78,4498.95727,1388115
+Estonia,2000,Europe,78,47.32827,1396985
+Ethiopia,2015,Africa,64.8,645.4637627,9987333
+Ethiopia,2014,Africa,64.2,571.1622759,97366774
+Ethiopia,2013,Africa,63.7,52.1535887,94887724
+Ethiopia,2012,Africa,63.3,468.567249,92444183
+Ethiopia,2011,Africa,62.6,354.8463544,946756
+Ethiopia,2010,Africa,61.8,341.39992,877267
+Ethiopia,2009,Africa,68,379.7566385,85416253
+Ethiopia,2008,Africa,59.8,325.3825543,83184892
+Ethiopia,2007,Africa,58.5,243.326822,8149
+Ethiopia,2006,Africa,57.2,193.794956,7885689
+Ethiopia,2005,Africa,56,161.6266248,7672783
+Ethiopia,2004,Africa,55,135.7623858,7462445
+Ethiopia,2003,Africa,54,118.8734466,72545144
+Ethiopia,2002,Africa,53.2,111.3634356,7497192
+Ethiopia,2001,Africa,52.5,12.1789279,68492257
+Ethiopia,2000,Africa,51.2,123.876257,66537331
+Fiji,2015,Oceania,69.9,4921.89629,892149
+Fiji,2014,Oceania,69.7,546.3728,88586
+Fiji,2013,Oceania,69.6,4763.68956,879715
+Fiji,2012,Oceania,69.4,4546.73854,873596
+Fiji,2011,Oceania,69.2,4353.121392,86786
+Fiji,2010,Oceania,69.1,3651.966784,85995
+Fiji,2009,Oceania,68.9,3369.48247,851967
+Fiji,2008,Oceania,68.7,4177.657789,84334
+Fiji,2007,Oceania,68.6,478.82327,834812
+Fiji,2006,Oceania,68.5,3749.939813,827411
+Fiji,2005,Oceania,68.3,3658.63832,821817
+Fiji,2004,Oceania,68.1,3332.918533,818354
+Fiji,2003,Oceania,68,2835.973972,816628
+Fiji,2002,Oceania,67.9,2259.55796,815691
+Fiji,2001,Oceania,67.8,238.891729,814218
+Fiji,2000,Oceania,67.7,276.1338,811223
+Finland,2015,Europe,81.1,4245.39744,5479531
+Finland,2014,Europe,89,49914.61864,5461512
+Finland,2013,Europe,87,49638.7713,5438972
+Finland,2012,Europe,84,47415.55987,5413971
+Finland,2011,Europe,83,579.72415,5388272
+Finland,2010,Europe,79.9,4622.41516,5363352
+Finland,2009,Europe,79.7,4717.15571,5338871
+Finland,2008,Europe,79.6,5341.31487,5313399
+Finland,2007,Europe,79.3,48288.5491,528872
+Finland,2006,Europe,79.2,4112.67651,5266268
+Finland,2005,Europe,78.9,38969.17163,524696
+Finland,2004,Europe,78.7,37636.11173,5228172
+Finland,2003,Europe,78.4,32816.1688,521314
+Finland,2002,Europe,78.1,26834.2625,52598
+Finland,2001,Europe,78,24913.24452,51888
+Finland,2000,Europe,77.5,24253.2542,517629
+France,2015,Europe,82.4,36526.7711,6662468
+France,2014,Europe,82.2,42955.24287,66331957
+France,2013,Europe,82,42554.1225,6599857
+France,2012,Europe,81.5,4838.2444,6565979
+France,2011,Europe,81.7,4381.288,65342776
+France,2010,Europe,81.3,473.34279,6527512
+France,2009,Europe,81.1,41631.13141,647744
+France,2008,Europe,89,45413.6571,6437499
+France,2007,Europe,89,416.58397,6416229
+France,2006,Europe,86,36544.5853,63621376
+France,2005,Europe,81,34879.72633,63179356
+France,2004,Europe,82,33874.74255,6274897
+France,2003,Europe,79.3,29691.18158,62244884
+France,2002,Europe,79.2,24275.2426,6185267
+France,2001,Europe,79,22527.31775,61357431
+France,2000,Europe,78.8,22465.64184,6912498
+Gabon,2015,Africa,66,7388.984144,193175
+Gabon,2014,Africa,65.5,9692.163874,1875713
+Gabon,2013,Africa,64.6,9679.742995,1817271
+Gabon,2012,Africa,63.5,9774.18117,1756817
+Gabon,2011,Africa,62.8,1716.2258,169711
+Gabon,2010,Africa,62.3,8754.113376,16421
+Gabon,2009,Africa,61.7,763.66223,1586754
+Gabon,2008,Africa,61.6,194.2746,1536411
+Gabon,2007,Africa,61.6,8352.81711,1489193
+Gabon,2006,Africa,61.4,727.777345,1444844
+Gabon,2005,Africa,65,6741.293948,143126
+Gabon,2004,Africa,59.7,5685.577736,136425
+Gabon,2003,Africa,59.7,4892.11618,1328146
+Gabon,2002,Africa,59.7,412.55271,129449
+Gabon,2001,Africa,59.8,3976.14887,1262259
+Gabon,2000,Africa,61,4116.46693,1231122
+Gambia,2015,Africa,61.1,,
+Gambia,2014,Africa,68,,
+Gambia,2013,Africa,66,,
+Gambia,2012,Africa,62,,
+Gambia,2011,Africa,59.8,,
+Gambia,2010,Africa,59.3,,
+Gambia,2009,Africa,59,,
+Gambia,2008,Africa,58.7,,
+Gambia,2007,Africa,58.5,,
+Gambia,2006,Africa,58.2,,
+Gambia,2005,Africa,57.7,,
+Gambia,2004,Africa,57.3,,
+Gambia,2003,Africa,57,,
+Gambia,2002,Africa,56.6,,
+Gambia,2001,Africa,56.3,,
+Gambia,2000,Africa,55.9,,
+Georgia,2015,Europe,74.4,3764.64912,37171
+Georgia,2014,Europe,74.5,4429.6575,3727
+Georgia,2013,Europe,74.5,4274.376857,3776
+Georgia,2012,Europe,74.2,4142.869175,3825
+Georgia,2011,Europe,73.9,3725.63221,3875
+Georgia,2010,Europe,73.8,2964.47734,3926
+Georgia,2009,Europe,73.2,276.588512,3978
+Georgia,2008,Europe,73.9,3174.9491,43
+Georgia,2007,Europe,74.4,2492.12878,482
+Georgia,2006,Europe,73.9,1872.68416,4136
+Georgia,2005,Europe,73.9,153.57521,419
+Georgia,2004,Europe,72.3,127.367228,4245
+Georgia,2003,Europe,72.7,928.18227,431
+Georgia,2002,Europe,71.7,779.3845935,4357
+Georgia,2001,Europe,73,733.974142,43864
+Georgia,2000,Europe,71.8,691.997711,44183
+Germany,2015,Europe,81,41176.88158,81686611
+Germany,2014,Europe,89,4792.65288,89825
+Germany,2013,Europe,86,4653.91143,864565
+Germany,2012,Europe,86,4465.24891,8425823
+Germany,2011,Europe,85,4681.32796,8274983
+Germany,2010,Europe,81,41785.55691,8177693
+Germany,2009,Europe,80,41732.7725,819237
+Germany,2008,Europe,79.9,45699.19832,821197
+Germany,2007,Europe,79.8,41814.8191,82266372
+Germany,2006,Europe,79.6,36447.87232,82376451
+Germany,2005,Europe,79.2,34696.6292,82469422
+Germany,2004,Europe,79.1,34165.9343,8251626
+Germany,2003,Europe,78.5,3359.95215,82534176
+Germany,2002,Europe,78.4,2525.16445,82488495
+Germany,2001,Europe,78.3,23687.31689,82349925
+Germany,2000,Europe,78,23718.7467,8221158
+Ghana,2015,Africa,62.4,1361.11395,27582821
+Ghana,2014,Africa,62.1,1432.227943,26962563
+Ghana,2013,Africa,61.9,1814.492297,26346251
+Ghana,2012,Africa,61.6,1629.8222,2573349
+Ghana,2011,Africa,61.2,1574.978653,25121796
+Ghana,2010,Africa,69,1312.67557,2451214
+Ghana,2009,Africa,66,186.76538,2393831
+Ghana,2008,Africa,63,1224.41554,2329864
+Ghana,2007,Africa,59.9,19.686718,227212
+Ghana,2006,Africa,59.4,922.9351677,22113425
+Ghana,2005,Africa,58.9,498.172394,215429
+Ghana,2004,Africa,58.3,423.1936389,2986536
+Ghana,2003,Africa,57.9,373.2815537,2446782
+Ghana,2002,Africa,57.6,39.484473,19924522
+Ghana,2001,Africa,57.4,273.6596668,1942165
+Ghana,2000,Africa,57.2,263.1124679,18938762
+Greece,2015,Europe,81,187.78991,182883
+Greece,2014,Europe,88,21673.7817,1892413
+Greece,2013,Europe,86,21874.8195,1965211
+Greece,2012,Europe,84,22242.68193,114511
+Greece,2011,Europe,85,25916.29353,1114899
+Greece,2010,Europe,83,26917.75898,11121341
+Greece,2009,Europe,80,2971.973,111717
+Greece,2008,Europe,79.9,31997.2821,1177841
+Greece,2007,Europe,79.4,28827.32636,1148473
+Greece,2006,Europe,79.7,2481.15781,112362
+Greece,2005,Europe,79.3,22551.73574,1987314
+Greece,2004,Europe,79.2,21955.149,1955141
+Greece,2003,Europe,79.1,18477.57841,19287
+Greece,2002,Europe,79,1411.31339,19222
+Greece,2001,Europe,78.7,12538.17883,1862132
+Greece,2000,Europe,78.2,1242.95373,18588
+Grenada,2015,Americas,73.6,9212.192824,
+Grenada,2014,Americas,73.5,8569.776998,
+Grenada,2013,Americas,73.3,7955.615985,
+Grenada,2012,Americas,73.1,7583.1872,
+Grenada,2011,Americas,72.9,741.48438,
+Grenada,2010,Americas,72.6,7365.666659,
+Grenada,2009,Americas,72.4,7395.88125,
+Grenada,2008,Americas,72.1,7946.944346,
+Grenada,2007,Americas,71.9,7322.596862,
+Grenada,2006,Americas,71.7,6764.722867,
+Grenada,2005,Americas,71.5,6754.512393,
+Grenada,2004,Americas,73,5836.17763,
+Grenada,2003,Americas,71.1,5773.73577,
+Grenada,2002,Americas,79,5292.232379,
+Grenada,2001,Americas,77,519.958715,
+Grenada,2000,Americas,74,5117.589923,
+Guatemala,2015,Americas,71.9,3923.573344,16252429
+Guatemala,2014,Americas,71.7,3687.763767,15923559
+Guatemala,2013,Americas,71.4,3452.828934,15596214
+Guatemala,2012,Americas,71.3,3299.65139,1527156
+Guatemala,2011,Americas,71.1,3187.845296,14948919
+Guatemala,2010,Americas,77,2825.5247,1463417
+Guatemala,2009,Americas,76,2635.753474,1431628
+Guatemala,2008,Americas,79,2794.22189,146366
+Guatemala,2007,Americas,75,2489.955836,137286
+Guatemala,2006,Americas,69.7,2256.56724,133978
+Guatemala,2005,Americas,69.2,277.83438,139628
+Guatemala,2004,Americas,69.6,1872.73783,12796925
+Guatemala,2003,Americas,69.4,1753.349471,125478
+Guatemala,2002,Americas,69.3,171.771491,1228848
+Guatemala,2001,Americas,68.4,1568.376276,11924946
+Guatemala,2000,Americas,67.7,1655.596261,1165743
+Guinea,2015,Africa,59,554.48766,1291533
+Guinea,2014,Africa,58.1,561.997387,118559
+Guinea,2013,Africa,58.8,54.169324,11536615
+Guinea,2012,Africa,58.4,52.3485646,11281469
+Guinea,2011,Africa,58.1,459.2912,113517
+Guinea,2010,Africa,57.8,438.7513346,179417
+Guinea,2009,Africa,57.3,436.6895539,1556524
+Guinea,2008,Africa,56.8,437.4467238,1323142
+Guinea,2007,Africa,56.4,49.456775,196727
+Guinea,2006,Africa,55.6,296.68382,9881428
+Guinea,2005,Africa,54.7,33.424498,9679745
+Guinea,2004,Africa,54,386.3288283,949229
+Guinea,2003,Africa,53.3,37.1931781,939848
+Guinea,2002,Africa,52.9,322.811171,9137345
+Guinea,2001,Africa,52.5,315.83983,8971139
+Guinea,2000,Africa,52.5,34.516918,888546
+Guinea-Bissau,2015,Africa,58.9,596.8717189,177526
+Guinea-Bissau,2014,Africa,58.4,642.6256154,1725744
+Guinea-Bissau,2013,Africa,58.1,61.566347,1681495
+Guinea-Bissau,2012,Africa,57.6,67.7518833,1638139
+Guinea-Bissau,2011,Africa,57.1,692.69989,1596154
+Guinea-Bissau,2010,Africa,56.7,543.957418,155588
+Guinea-Bissau,2009,Africa,56.3,544.222779,1517448
+Guinea-Bissau,2008,Africa,55.6,583.5445622,148841
+Guinea-Bissau,2007,Africa,55,481.694976,1445958
+Guinea-Bissau,2006,Africa,54.4,418.94454,1412669
+Guinea-Bissau,2005,Africa,53.9,424.9534585,138838
+Guinea-Bissau,2004,Africa,53.5,393.3138244,135345
+Guinea-Bissau,2003,Africa,53,36.5718585,132122
+Guinea-Bissau,2002,Africa,52.8,321.481324,1293523
+Guinea-Bissau,2001,Africa,52.5,39.486749,1267512
+Guinea-Bissau,2000,Africa,52.1,297.7519443,1243229
+Guyana,2015,Africa,66.2,4136.689919,768514
+Guyana,2014,Africa,66,43.82321,763393
+Guyana,2013,Africa,65.9,3944.178173,75881
+Guyana,2012,Africa,65.8,3785.935665,75391
+Guyana,2011,Africa,65.6,3439.597513,7491
+Guyana,2010,Africa,65.9,326.281212,746556
+Guyana,2009,Africa,66.1,2716.35256,745693
+Guyana,2008,Africa,66.3,2576.124957,746314
+Guyana,2007,Africa,65.7,2327.58324,747869
+Guyana,2006,Africa,65.2,1945.6395,74961
+Guyana,2005,Africa,65,198.455216,75946
+Guyana,2004,Africa,65.1,145.58861,751652
+Guyana,2003,Africa,65.3,986.7958173,751857
+Guyana,2002,Africa,65.3,96.8674827,751884
+Guyana,2001,Africa,65.4,925.582546,752263
+Guyana,2000,Africa,65.4,946.599372,75331
+Haiti,2015,Americas,63.5,814.5463952,171161
+Haiti,2014,Americas,63.1,83.1148117,1572466
+Haiti,2013,Americas,62.7,81.265673,1431776
+Haiti,2012,Americas,62.3,766.8437623,128921
+Haiti,2011,Americas,62.3,74.9358452,114554
+Haiti,2010,Americas,36.3,662.2795182,9999617
+Haiti,2009,Americas,62.5,668.297646,985287
+Haiti,2008,Americas,62.1,674.7564147,97529
+Haiti,2007,Americas,61.8,615.8198192,9556889
+Haiti,2006,Americas,61.1,55.47626,949457
+Haiti,2005,Americas,65,465.311876,926344
+Haiti,2004,Americas,58.7,387.9429725,9119178
+Haiti,2003,Americas,59.7,329.782946,8976552
+Haiti,2002,Americas,59.3,393.16327,8834733
+Haiti,2001,Americas,58.9,413.7383164,8692567
+Haiti,2000,Americas,58.6,462.486524,85492
+Honduras,2015,Americas,74.6,2326.15856,896829
+Honduras,2014,Americas,74.5,2242.711912,889216
+Honduras,2013,Americas,74.3,2136.77395,8657785
+Honduras,2012,Americas,74.1,2178.38325,855646
+Honduras,2011,Americas,73.9,212.584798,83516
+Honduras,2010,Americas,73.6,1932.85829,8194778
+Honduras,2009,Americas,73.4,1815.489496,83521
+Honduras,2008,Americas,73.2,1751.595857,7872658
+Honduras,2007,Americas,73,1592.572182,777972
+Honduras,2006,Americas,72.8,1437.628785,754146
+Honduras,2005,Americas,72.5,1311.741714,737343
+Honduras,2004,Americas,72.2,1217.657961,724153
+Honduras,2003,Americas,71.9,1157.3427,733821
+Honduras,2002,Americas,71.6,1132.8721,6863157
+Honduras,2001,Americas,71.3,113.4546,669361
+Honduras,2000,Americas,71,188.783165,6524283
+Hungary,2015,Europe,75.8,12365.6263,984328
+Hungary,2014,Europe,75.6,14117.97668,9866468
+Hungary,2013,Europe,75.5,13613.6147,989382
+Hungary,2012,Europe,75,12834.32349,992362
+Hungary,2011,Europe,74.8,1448.87958,9971727
+Hungary,2010,Europe,74.5,1325.53379,123
+Hungary,2009,Europe,74.2,12967.16543,12265
+Hungary,2008,Europe,74.1,15669.25929,138188
+Hungary,2007,Europe,73.5,13842.6549,15578
+Hungary,2006,Europe,73.4,11398.76584,17137
+Hungary,2005,Europe,72.9,11161.72441,18765
+Hungary,2004,Europe,72.9,1259.5266,117146
+Hungary,2003,Europe,72.5,8396.25323,1129552
+Hungary,2002,Europe,72.5,665.6443,115868
+Hungary,2001,Europe,72.3,527.85364,1187576
+Hungary,2000,Europe,71.7,4623.46712,121971
+Iceland,2015,Europe,82.7,5734.4436,33815
+Iceland,2014,Europe,82.5,52473.11356,327386
+Iceland,2013,Europe,82.4,4781.3888,323764
+Iceland,2012,Europe,82.5,44333.8518,32716
+Iceland,2011,Europe,82.1,46.217,31914
+Iceland,2010,Europe,81.8,41676.44527,31841
+Iceland,2009,Europe,81.6,4461.89251,318499
+Iceland,2008,Europe,81.4,55575.29196,317414
+Iceland,2007,Europe,81.3,68348.31817,311566
+Iceland,2006,Europe,81.1,5613.54115,33782
+Iceland,2005,Europe,81,56249.7555,296734
+Iceland,2004,Europe,88,46917.27216,29274
+Iceland,2003,Europe,87,3944.999,289521
+Iceland,2002,Europe,84,31996.2172,287523
+Iceland,2001,Europe,80,28585.9254,284968
+Iceland,2000,Europe,79.7,31813.37344,28125
+India,2015,Asia,68.3,1613.18878,1395398
+India,2014,Asia,68,1573.11889,1293859294
+India,2013,Asia,67.6,1452.195373,127856227
+India,2012,Asia,67.3,1446.98541,126365852
+India,2011,Asia,66.8,1461.671957,124723629
+India,2010,Asia,66.4,1345.77153,12398691
+India,2009,Asia,66,19.317765,121427132
+India,2008,Asia,65.5,991.484634,119714696
+India,2007,Asia,65.2,118.166373,1179681239
+India,2006,Asia,64.8,792.259698,1161977719
+India,2005,Asia,64.4,77.819,1144118674
+India,2004,Asia,64,621.3183767,1126135777
+India,2003,Asia,63.7,541.1352279,11827848
+India,2002,Asia,63.3,466.2842,18987112
+India,2001,Asia,62.9,447.138966,171477855
+India,2000,Asia,62.5,438.864634,1535912
+Indonesia,2015,Asia,69.1,3336.16686,258162113
+Indonesia,2014,Asia,68.9,3491.595887,255131116
+Indonesia,2013,Asia,68.7,362.663981,25232263
+Indonesia,2012,Asia,68.5,3687.953996,248883232
+Indonesia,2011,Asia,68.3,3634.27685,24577511
+Indonesia,2010,Asia,68.1,3113.48635,242524123
+Indonesia,2009,Asia,67.9,2254.44566,23934478
+Indonesia,2008,Asia,67.7,216.52766,236159276
+Indonesia,2007,Asia,67.5,1855.93915,232989141
+Indonesia,2006,Asia,67.3,1586.254,22983822
+Indonesia,2005,Asia,67.2,126.928834,22671273
+Indonesia,2004,Asia,65.3,1148.56996,223614649
+Indonesia,2003,Asia,66.9,164.59447,22545214
+Indonesia,2002,Asia,66.7,899.5556857,2175859
+Indonesia,2001,Asia,66.5,747.9817455,2145652
+Indonesia,2000,Asia,66.3,78.92744,21154429
+Iran (Islamic Republic of),2015,Asia,75.5,,
+Iran (Islamic Republic of),2014,Asia,75.4,,
+Iran (Islamic Republic of),2013,Asia,75.3,,
+Iran (Islamic Republic of),2012,Asia,75.1,,
+Iran (Islamic Republic of),2011,Asia,74.7,,
+Iran (Islamic Republic of),2010,Asia,74.1,,
+Iran (Islamic Republic of),2009,Asia,73.3,,
+Iran (Islamic Republic of),2008,Asia,72.7,,
+Iran (Islamic Republic of),2007,Asia,72.4,,
+Iran (Islamic Republic of),2006,Asia,72.2,,
+Iran (Islamic Republic of),2005,Asia,72,,
+Iran (Islamic Republic of),2004,Asia,71.8,,
+Iran (Islamic Republic of),2003,Asia,75,,
+Iran (Islamic Republic of),2002,Asia,71.2,,
+Iran (Islamic Republic of),2001,Asia,78,,
+Iran (Islamic Republic of),2000,Asia,73,,
+Iraq,2015,Asia,68.9,4974.2693,36115649
+Iraq,2014,Asia,67.9,673.74737,3568
+Iraq,2013,Asia,69.5,6925.22446,33883145
+Iraq,2012,Asia,76,6651.12242,32776571
+Iraq,2011,Asia,77,5854.614497,3172753
+Iraq,2010,Asia,76,452.74948,376271
+Iraq,2009,Asia,74,3735.144836,29894652
+Iraq,2008,Asia,69.3,4521.3247,29111417
+Iraq,2007,Asia,65.9,3129.224922,2839433
+Iraq,2006,Asia,64.7,2351.812429,27697912
+Iraq,2005,Asia,66.8,1849.63911,278426
+Iraq,2004,Asia,67.2,1391.816923,2631669
+Iraq,2003,Asia,66.5,,25627626
+Iraq,2002,Asia,74,,24939299
+Iraq,2001,Asia,72,,24251649
+Iraq,2000,Asia,70,,23565413
+Ireland,2015,Europe,81.4,6664.144,4676835
+Ireland,2014,Europe,81.2,5553.32623,4617225
+Ireland,2013,Europe,81,5234.76736,4598294
+Ireland,2012,Europe,85,49231.36254,4586897
+Ireland,2011,Europe,84,52567.52568,4576794
+Ireland,2010,Europe,86,48538.58776,456155
+Ireland,2009,Europe,79.7,51983.78892,4535375
+Ireland,2008,Europe,79.8,61235.415,4489544
+Ireland,2007,Europe,79.5,61388.17457,4398942
+Ireland,2006,Europe,79,54326.9713,4273591
+Ireland,2005,Europe,78.7,5886.82789,4159914
+Ireland,2004,Europe,78.3,47631.6377,47262
+Ireland,2003,Europe,78,4117.15532,3996521
+Ireland,2002,Europe,77.4,32539.1937,3931947
+Ireland,2001,Europe,77,28223.55528,3866243
+Ireland,2000,Europe,76.4,26241.91883,385174
+Israel,2015,Asia,82.5,35729.37253,8381
+Israel,2014,Asia,82.2,37582.84624,82157
+Israel,2013,Asia,82.1,36393.66932,8595
+Israel,2012,Asia,81.8,32569.59683,7915
+Israel,2011,Asia,81.8,33657.15727,77658
+Israel,2010,Asia,81.7,3661.994,76236
+Israel,2009,Asia,81.5,27795.87671,74856
+Israel,2008,Asia,81,29657.4421,7388
+Israel,2007,Asia,84,258.637,7181
+Israel,2006,Asia,84,2195.1769,7537
+Israel,2005,Asia,80,2611.17931,6931
+Israel,2004,Asia,81,19888.172,689
+Israel,2003,Asia,79.7,18946.99942,66897
+Israel,2002,Asia,79.3,18431.15696,657
+Israel,2001,Asia,79.3,236.19646,6439
+Israel,2000,Asia,78.9,2152.1432,6289
+Italy,2015,Europe,82.7,349.14755,673582
+Italy,2014,Europe,82.5,35396.66517,678914
+Italy,2013,Europe,82.3,3537.27441,6233948
+Italy,2012,Europe,82,34814.12436,59539717
+Italy,2011,Europe,82,38334.68477,59379449
+Italy,2010,Europe,81.8,35849.37364,59277417
+Italy,2009,Europe,81.6,36976.84512,5995365
+Italy,2008,Europe,81.5,464.18465,58826731
+Italy,2007,Europe,81.3,37698.78573,5843831
+Italy,2006,Europe,81.2,3341.7482,58143979
+Italy,2005,Europe,88,31959.26215,57969484
+Italy,2004,Europe,89,31174.56118,57685327
+Italy,2003,Europe,79.9,27387.2258,5731323
+Italy,2002,Europe,80,22196.5736,57597
+Italy,2001,Europe,79.8,24.819,569741
+Italy,2000,Europe,79.4,251.2426,5694218
+Jamaica,2015,Americas,76.2,4965.989857,2871934
+Jamaica,2014,Americas,75.8,4855.743789,286287
+Jamaica,2013,Americas,75.6,56.144952,285187
+Jamaica,2012,Americas,75.3,521.33363,284992
+Jamaica,2011,Americas,75.2,513.549487,2829493
+Jamaica,2010,Americas,75,4682.728424,281721
+Jamaica,2009,Americas,74.7,4293.383274,28482
+Jamaica,2008,Americas,74.5,492.492378,279122
+Jamaica,2007,Americas,74.2,462.517913,2775467
+Jamaica,2006,Americas,74,4313.1682,276279
+Jamaica,2005,Americas,73.5,482.24762,2744673
+Jamaica,2004,Americas,73.3,3719.97351,2728777
+Jamaica,2003,Americas,73.1,3465.221998,2712511
+Jamaica,2002,Americas,73,3596.496282,2695446
+Jamaica,2001,Americas,72.7,3394.878,267711
+Jamaica,2000,Americas,72.6,336.8742,2656864
+Japan,2015,Asia,83.7,34474.13736,127141
+Japan,2014,Asia,83.5,3896.21151,127276
+Japan,2013,Asia,83.5,4454.44746,127445
+Japan,2012,Asia,83.3,4863.47665,127629
+Japan,2011,Asia,82.5,48167.99727,127833
+Japan,2010,Asia,83,4457.67639,1287
+Japan,2009,Asia,83,4855.17564,12847
+Japan,2008,Asia,82.7,39339.29757,12863
+Japan,2007,Asia,82.6,35275.22843,1281
+Japan,2006,Asia,82.4,35433.98896,127854
+Japan,2005,Asia,82,37217.64873,127773
+Japan,2004,Asia,82.1,37688.72234,127761
+Japan,2003,Asia,81.9,3488.3992,127718
+Japan,2002,Asia,81.8,32289.3554,127445
+Japan,2001,Asia,81.5,33846.46564,127149
+Japan,2000,Asia,81.1,38532.488,126843
+Jordan,2015,Asia,74.1,496.99275,915932
+Jordan,2014,Asia,74,466.94775,88936
+Jordan,2013,Asia,73.9,3992.86717,8413464
+Jordan,2012,Asia,73.7,387.753211,7992573
+Jordan,2011,Asia,73.6,387.324145,7574943
+Jordan,2010,Asia,73.4,3679.19275,718239
+Jordan,2009,Asia,73.3,3492.1396,6821116
+Jordan,2008,Asia,73.1,3385.69665,6489822
+Jordan,2007,Asia,73,2762.86354,6193191
+Jordan,2006,Asia,72.8,2537.349,5934232
+Jordan,2005,Asia,72.4,223.83787,5714111
+Jordan,2004,Asia,72.5,261.456882,5535595
+Jordan,2003,Asia,72.3,1889.213962,5396774
+Jordan,2002,Asia,72.1,1812.288374,5287488
+Jordan,2001,Asia,71.9,1728.2659,5193482
+Jordan,2000,Asia,71.7,1657.889256,51313
+Kazakhstan,2015,Asia,72,159.9817,17544126
+Kazakhstan,2014,Asia,69.9,1286.56511,17289224
+Kazakhstan,2013,Asia,69.5,1389.8561,1735275
+Kazakhstan,2012,Asia,69.1,12387.18982,16791425
+Kazakhstan,2011,Asia,68.5,11634.42422,165566
+Kazakhstan,2010,Asia,67.8,97.649972,16321581
+Kazakhstan,2009,Asia,67.8,7165.2775,169271
+Kazakhstan,2008,Asia,66.6,8513.564645,15674
+Kazakhstan,2007,Asia,65.3,6771.414797,15484192
+Kazakhstan,2006,Asia,65,5291.57565,153884
+Kazakhstan,2005,Asia,64.6,3771.278957,1514729
+Kazakhstan,2004,Asia,64.7,2874.288291,1512985
+Kazakhstan,2003,Asia,64.4,268.123657,149918
+Kazakhstan,2002,Asia,64.7,1658.31146,14858948
+Kazakhstan,2001,Asia,64.4,149.926751,14858335
+Kazakhstan,2000,Africa,63.9,1229.958,14883626
+Kenya,2015,Africa,63.4,1349.97144,47236259
+Kenya,2014,Africa,62.9,1335.6458,462425
+Kenya,2013,Africa,62.6,1229.114798,44826849
+Kenya,2012,Africa,62.1,1155.2582,43646629
+Kenya,2011,Africa,61.2,987.4453967,42486839
+Kenya,2010,Africa,63,967.34773,4135152
+Kenya,2009,Africa,59.1,92.816252,423724
+Kenya,2008,Africa,57.9,916.8992515,39148416
+Kenya,2007,Africa,56.8,839.181117,388599
+Kenya,2006,Africa,55.3,697.66385,37525
+Kenya,2005,Africa,54.1,519.7999346,3648288
+Kenya,2004,Africa,53,458.8843551,3574931
+Kenya,2003,Africa,52.4,436.6875357,3413852
+Kenya,2002,Africa,52.1,395.8493511,332149
+Kenya,2001,Africa,51.9,41.7763612,32321482
+Kenya,2000,Africa,51.9,43.9797132,3145483
+Kiribati,2015,Oceania,66.3,1424.483611,11247
+Kiribati,2014,Oceania,66.1,1684.54274,11458
+Kiribati,2013,Oceania,65.8,1724.361737,18535
+Kiribati,2012,Oceania,65.7,1763.815497,16613
+Kiribati,2011,Oceania,65.5,1692.613277,14656
+Kiribati,2010,Oceania,65.3,1493.1651,12652
+Kiribati,2009,Oceania,65.2,1297.285141,1568
+Kiribati,2008,Oceania,65.1,1413.3234,9844
+Kiribati,2007,Oceania,65,1357.632211,96311
+Kiribati,2006,Oceania,65,1151.555618,9426
+Kiribati,2005,Oceania,64.9,1214.556667,92325
+Kiribati,2004,Oceania,64.8,113.6286,9542
+Kiribati,2003,Oceania,64.7,115.3865,88895
+Kiribati,2002,Oceania,64.6,826.58554,87343
+Kiribati,2001,Oceania,64.3,734.9492461,85858
+Kiribati,2000,Oceania,64.1,796.7937634,8446
+Kuwait,2015,Asia,74.7,28975.418,
+Kuwait,2014,Asia,74.6,42996.4812,
+Kuwait,2013,Asia,74.5,48399.9581,
+Kuwait,2012,Asia,74.3,51264.7134,
+Kuwait,2011,Asia,74.2,48268.5912,
+Kuwait,2010,Asia,74,38497.61696,
+Kuwait,2009,Asia,73.9,37567.3121,
+Kuwait,2008,Asia,73.8,55571.9986,
+Kuwait,2007,Asia,73.7,45793.97614,
+Kuwait,2006,Asia,73.6,42717.55725,
+Kuwait,2005,Asia,73.6,3549.26132,
+Kuwait,2004,Asia,73.5,26921.8278,
+Kuwait,2003,Asia,73.4,2271.56961,
+Kuwait,2002,Asia,73.3,17789.41981,
+Kuwait,2001,Asia,73.2,1654.96761,
+Kuwait,2000,Asia,73.2,18389.38433,
+Kyrgyzstan,2015,Asia,71.1,,
+Kyrgyzstan,2014,Asia,78,,
+Kyrgyzstan,2013,Asia,77,,
+Kyrgyzstan,2012,Asia,69.9,,
+Kyrgyzstan,2011,Asia,69.4,,
+Kyrgyzstan,2010,Asia,68.8,,
+Kyrgyzstan,2009,Asia,68.5,,
+Kyrgyzstan,2008,Asia,67.6,,
+Kyrgyzstan,2007,Asia,67.2,,
+Kyrgyzstan,2006,Asia,66.7,,
+Kyrgyzstan,2005,Asia,66.9,,
+Kyrgyzstan,2004,Asia,67.1,,
+Kyrgyzstan,2003,Asia,66.6,,
+Kyrgyzstan,2002,Asia,66.7,,
+Kyrgyzstan,2001,Asia,67.2,,
+Kyrgyzstan,2000,Asia,66.6,,
+Lao People's Democratic Republic,2015,Asia,65.7,,
+Lao People's Democratic Republic,2014,Asia,65.3,,
+Lao People's Democratic Republic,2013,Asia,64.9,,
+Lao People's Democratic Republic,2012,Asia,64.4,,
+Lao People's Democratic Republic,2011,Asia,64,,
+Lao People's Democratic Republic,2010,Asia,63.6,,
+Lao People's Democratic Republic,2009,Asia,63.1,,
+Lao People's Democratic Republic,2008,Asia,62.6,,
+Lao People's Democratic Republic,2007,Asia,62.1,,
+Lao People's Democratic Republic,2006,Asia,61.5,,
+Lao People's Democratic Republic,2005,Asia,61,,
+Lao People's Democratic Republic,2004,Asia,64,,
+Lao People's Democratic Republic,2003,Asia,59.8,,
+Lao People's Democratic Republic,2002,Asia,59.3,,
+Lao People's Democratic Republic,2001,Asia,58.7,,
+Lao People's Democratic Republic,2000,Asia,58.1,,
+Latvia,2015,Europe,74.6,13666.58336,1977527
+Latvia,2014,Europe,74.4,15725.1374,1993782
+Latvia,2013,Europe,74.1,1532.22924,212647
+Latvia,2012,Europe,73.8,13822.8559,234319
+Latvia,2011,Europe,73.6,1372.68947,25979
+Latvia,2010,Europe,72.8,11326.21947,297555
+Latvia,2009,Europe,72.6,12219.37379,2141669
+Latvia,2008,Europe,71.9,16348.53121,2177322
+Latvia,2007,Europe,78,1444.1589,22325
+Latvia,2006,Europe,75,9667.9757,2218357
+Latvia,2005,Europe,76,7558.7426,2238799
+Latvia,2004,Europe,71,6351.8125,2263122
+Latvia,2003,Europe,78,5134.95694,2287955
+Latvia,2002,Europe,73,4132.34927,231173
+Latvia,2001,Europe,69.9,3572.8513,233717
+Latvia,2000,Asia,71,3352.731296,236755
+Lebanon,2015,Asia,74.9,846.632851,5851479
+Lebanon,2014,Asia,74.8,8161.4614,563279
+Lebanon,2013,Asia,74.9,846.285153,527612
+Lebanon,2012,Asia,75,8787.94668,491644
+Lebanon,2011,Asia,75,8734.9653,4588368
+Lebanon,2010,Asia,74.9,8763.826274,4337141
+Lebanon,2009,Asia,74.7,84.268878,4183156
+Lebanon,2008,Asia,74.5,712.775759,411147
+Lebanon,2007,Asia,74.4,614.271115,486466
+Lebanon,2006,Asia,74.1,5372.65899,45735
+Lebanon,2005,Asia,73.9,5339.441291,3986852
+Lebanon,2004,Asia,73.7,5424.22356,3863267
+Lebanon,2003,Asia,73.5,5425.6697,371464
+Lebanon,2002,Asia,73.2,5436.595223,3522837
+Lebanon,2001,Asia,73,5253.122599,3359859
+Lebanon,2000,Asia,72.7,5334.93329,3235366
+Lesotho,2015,Africa,53.7,173.82893,2174645
+Lesotho,2014,Africa,52.1,1174.839214,2145785
+Lesotho,2013,Africa,52.1,1196.1335,2117361
+Lesotho,2012,Africa,52.2,1281.516,289928
+Lesotho,2011,Africa,52.3,1352.38433,264166
+Lesotho,2010,Africa,51.1,1173.26212,24551
+Lesotho,2009,Africa,49.4,923.136931,21929
+Lesotho,2008,Africa,47.8,934.428563,199993
+Lesotho,2007,Africa,46.2,918.432717,1982287
+Lesotho,2006,Africa,45.3,915.775754,1965662
+Lesotho,2005,Africa,44.5,862.9463118,1949543
+Lesotho,2004,Africa,44.8,781.5145936,1933728
+Lesotho,2003,Africa,45.5,63.636279,191897
+Lesotho,2002,Africa,46.4,47.89395,192312
+Lesotho,2001,Africa,47.8,437.819184,1885955
+Lesotho,2000,Africa,49.3,474.8197876,1868699
+Liberia,2015,Africa,61.4,452.38717,4499621
+Liberia,2014,Africa,58.1,458.4651734,439737
+Liberia,2013,Africa,61.1,454.1222236,4286291
+Liberia,2012,Africa,67,415.361958,4181563
+Liberia,2011,Africa,62,379.689583,47167
+Liberia,2010,Africa,59.7,327.42597,3948125
+Liberia,2009,Africa,59.2,33.667491,3811528
+Liberia,2008,Africa,58.6,232.61732,3662993
+Liberia,2007,Africa,57.9,21.3733292,3512932
+Liberia,2006,Africa,56.7,178.92799,3375838
+Liberia,2005,Africa,55.3,168.648254,326123
+Liberia,2004,Africa,54,149.4452549,3176414
+Liberia,2003,Africa,50,133.494518,3116233
+Liberia,2002,Africa,56,177.285187,362863
+Liberia,2001,Africa,51.5,174.1815473,2991132
+Liberia,2000,Africa,51.9,183.4149991,2884522
+Libya,2015,Africa,72.7,,
+Libya,2014,Africa,72.4,,
+Libya,2013,Africa,72.9,,
+Libya,2012,Africa,72.9,,
+Libya,2011,Africa,71.3,562.549434,
+Libya,2010,Africa,72.8,1212.56217,
+Libya,2009,Africa,72.7,1296.97353,
+Libya,2008,Africa,72.6,14396.4865,
+Libya,2007,Africa,72.5,1138.56661,
+Libya,2006,Africa,72.2,9344.987518,
+Libya,2005,Africa,71.9,8171.361651,
+Libya,2004,Africa,71.5,586.8364,
+Libya,2003,Africa,71.3,4676.96753,
+Libya,2002,Africa,71.1,375.442638,
+Libya,2001,Africa,71,6269.58123,
+Libya,2000,Africa,78,7145.628494,
+Lithuania,2015,Europe,73.6,14252.42853,29491
+Lithuania,2014,Europe,73.4,16554.97139,2932367
+Lithuania,2013,Europe,73,15712.82376,2957689
+Lithuania,2012,Europe,73,14341.836,2987773
+Lithuania,2011,Europe,72.8,14357.73679,328115
+Lithuania,2010,Europe,72.4,11984.86857,397282
+Lithuania,2009,Europe,72.2,11837.3913,3162916
+Lithuania,2008,Europe,71.1,14961.56818,3198231
+Lithuania,2007,Europe,72,12297.91535,3231294
+Lithuania,2006,Europe,76,924.642548,326999
+Lithuania,2005,Europe,78,7863.1629,3322528
+Lithuania,2004,Europe,71.6,676.966998,337775
+Lithuania,2003,Europe,71.6,555.535669,3415213
+Lithuania,2002,Europe,71.4,4146.987928,344367
+Lithuania,2001,Europe,71.2,353.147337,347818
+Lithuania,2000,Europe,71.6,3297.35471,3499536
+Luxembourg,2015,Europe,82,1199.8223,56964
+Luxembourg,2014,Europe,81.7,119172.7418,556319
+Luxembourg,2013,Europe,81.4,113751.85,54336
+Luxembourg,2012,Europe,81.1,16749.136,53946
+Luxembourg,2011,Europe,88,115761.577,518347
+Luxembourg,2010,Europe,86,14965.361,56953
+Luxembourg,2009,Europe,83,13198.6693,497783
+Luxembourg,2008,Europe,80,114293.8433,48865
+Luxembourg,2007,Europe,79.7,1618.4928,479993
+Luxembourg,2006,Europe,79.4,89739.7117,472637
+Luxembourg,2005,Europe,78.8,8289.69641,465158
+Luxembourg,2004,Europe,78.7,75716.3518,45895
+Luxembourg,2003,Europe,78.6,65445.8853,45163
+Luxembourg,2002,Europe,78.3,5293.64115,446175
+Luxembourg,2001,Europe,78,48179.4285,441525
+Luxembourg,2000,Europe,77.8,48735.99549,4363
+Madagascar,2015,Africa,65.5,41.8575951,2423488
+Madagascar,2014,Africa,65.1,452.4631926,2358981
+Madagascar,2013,Africa,64.7,461.723722,22961146
+Madagascar,2012,Africa,64.3,443.9611,22346573
+Madagascar,2011,Africa,63.8,454.963464,21743949
+Madagascar,2010,Africa,63.3,412.739341,2115164
+Madagascar,2009,Africa,62.8,415.6893226,2569121
+Madagascar,2008,Africa,62.3,47.733254,19996469
+Madagascar,2007,Africa,61.9,377.8482928,19433523
+Madagascar,2006,Africa,61.4,292.157443,1888268
+Madagascar,2005,Africa,69,274.819723,18336724
+Madagascar,2004,Africa,64,245.1235876,1782997
+Madagascar,2003,Africa,59.9,316.7998965,17279141
+Madagascar,2002,Africa,59.3,262.2859481,16765117
+Madagascar,2001,Africa,58.7,278.555732,1626932
+Madagascar,2000,Africa,57.9,245.939659,1576686
+Malawi,2015,Africa,58.3,362.6575444,1757367
+Malawi,2014,Africa,57.6,354.7253961,1768838
+Malawi,2013,Africa,56.7,332.922339,16577147
+Malawi,2012,Africa,55.3,374.51882,169735
+Malawi,2011,Africa,54.1,512.125451,15627618
+Malawi,2010,Africa,52.9,458.8681744,1516795
+Malawi,2009,Africa,51.5,42.7379657,1471462
+Malawi,2008,Africa,50,372.842678,14271234
+Malawi,2007,Africa,48.5,32.2227274,1384969
+Malawi,2006,Africa,47.1,297.6971211,13429262
+Malawi,2005,Africa,46,28.3673842,1339711
+Malawi,2004,Africa,45.1,274.2256294,1267638
+Malawi,2003,Africa,44.6,26.152517,12336687
+Malawi,2002,Africa,44,29.9798977,1213711
+Malawi,2001,Africa,43.5,146.7615397,11695863
+Malawi,2000,Africa,43.1,153.2594872,11376172
+Malaysia,2015,Asia,75,9643.644683,3723155
+Malaysia,2014,Asia,74.8,11183.96191,322817
+Malaysia,2013,Asia,74.6,1882.27842,2976724
+Malaysia,2012,Asia,74.5,1779.49641,2917456
+Malaysia,2011,Asia,74.3,145.1262,28635128
+Malaysia,2010,Asia,74.1,971.356987,28112289
+Malaysia,2009,Asia,74,7326.744435,2765383
+Malaysia,2008,Asia,73.8,8513.629541,2711169
+Malaysia,2007,Asia,73.7,7269.17114,26625845
+Malaysia,2006,Asia,73.6,6222.982955,26143566
+Malaysia,2005,Asia,73.4,5593.822995,25659393
+Malaysia,2004,Asia,73.2,4955.477743,2517419
+Malaysia,2003,Asia,73.1,4463.675893,2468873
+Malaysia,2002,Asia,72.9,4167.364387,24198811
+Malaysia,2001,Asia,72.7,3915.11546,2369897
+Malaysia,2000,Asia,72.4,445.17471,2318568
+Maldives,2015,Asia,78.5,8395.785198,49163
+Maldives,2014,Asia,78.2,7716.2415,41
+Maldives,2013,Asia,77.9,7112.33575,393
+Maldives,2012,Asia,77.6,6541.7465,385
+Maldives,2011,Asia,77.3,6497.55443,377
+Maldives,2010,Asia,76.7,633.79498,367
+Maldives,2009,Asia,76.3,597.1659,36
+Maldives,2008,Asia,75.9,5828.621374,362
+Maldives,2007,Asia,75.4,52.862285,349
+Maldives,2006,Asia,75,4428.522898,333
+Maldives,2005,Asia,74.3,3488.493769,321
+Maldives,2004,Asia,73.4,3853.33348,312
+Maldives,2003,Asia,72.7,3432.247841,34
+Maldives,2002,Asia,71.8,32.37239,297
+Maldives,2001,Asia,78,298.67598,292
+Maldives,2000,Asia,69.6,2182.99711,286
+Mali,2015,Africa,58.2,729.725338,1746795
+Mali,2014,Africa,57.8,825.5729915,16962846
+Mali,2013,Africa,57.3,777.659139,16477818
+Mali,2012,Africa,57.2,777.3476868,16667
+Mali,2011,Africa,56.8,835.88998,1554989
+Mali,2010,Africa,56.5,78.377632,157585
+Mali,2009,Africa,56,697.153124,1466597
+Mali,2008,Africa,55.5,689.6784228,14138216
+Mali,2007,Africa,55,595.6368319,1367566
+Mali,2006,Africa,54.3,521.6425796,1322764
+Mali,2005,Africa,53.6,487.942556,12798763
+Mali,2004,Africa,52.8,439.3572924,1239196
+Mali,2003,Africa,52,391.791281,125128
+Mali,2002,Africa,51.2,334.22416,11638929
+Mali,2001,Africa,55,36.8473237,11293258
+Mali,2000,Africa,49.8,269.3483829,196769
+Malta,2015,Europe,81.7,23819.4636,431874
+Malta,2014,Europe,81.4,2618.92599,427364
+Malta,2013,Europe,81.1,2393.1888,423374
+Malta,2012,Europe,81,2193.8836,419455
+Malta,2011,Europe,87,22821.847,416268
+Malta,2010,Europe,83,2187.79469,41458
+Malta,2009,Europe,82,2675.58259,412477
+Malta,2008,Europe,80,21928.767,49379
+Malta,2007,Europe,79.6,19375.5696,46724
+Malta,2006,Europe,79.3,16671.5672,4538
+Malta,2005,Europe,79,15835.34667,43834
+Malta,2004,Europe,78.7,1519.5497,41268
+Malta,2003,Europe,78.5,13689.98999,398582
+Malta,2002,Europe,78.2,11843.9392,395969
+Malta,2001,Europe,77.8,1121.78636,39328
+Malta,2000,Europe,77.5,1139.5651,3987
+Marshall Islands,2013,Europe,,3617.752354,
+Mauritania,2015,Africa,63.1,1158.256469,4182341
+Mauritania,2014,Africa,63,1326.66882,46392
+Mauritania,2013,Africa,62.7,145.57838,394617
+Mauritania,2012,Africa,62.5,1364.283745,383239
+Mauritania,2011,Africa,62.2,1393.261593,3717672
+Mauritania,2010,Africa,62,123.383675,369543
+Mauritania,2009,Africa,61.7,146.83851,356288
+Mauritania,2008,Africa,61.4,1167.535689,347541
+Mauritania,2007,Africa,61.2,113.3128,3312665
+Mauritania,2006,Africa,69,944.134851,322653
+Mauritania,2005,Africa,66,697.7451989,31372
+Mauritania,2004,Africa,64,62.547286,342823
+Mauritania,2003,Africa,63,528.586613,2957117
+Mauritania,2002,Africa,62,46.9542322,2873228
+Mauritania,2001,Africa,61,464.229758,279729
+Mauritania,2000,Africa,60,477.476124,279359
+Mauritius,2015,Africa,74.6,9252.11724,126265
+Mauritius,2014,Africa,74.2,1153.93822,126934
+Mauritius,2013,Africa,74.1,9637.265,1258653
+Mauritius,2012,Africa,73.9,9291.227619,1255882
+Mauritius,2011,Africa,73.6,9197.26972,125244
+Mauritius,2010,Africa,73.3,8.376432,1254
+Mauritius,2009,Africa,72.8,7318.12641,1247429
+Mauritius,2008,Africa,72.7,83.635,1244121
+Mauritius,2007,Africa,72.9,6574.654338,123963
+Mauritius,2006,Africa,71.8,5695.969327,1233996
+Mauritius,2005,Africa,72.1,5116.45424,1228254
+Mauritius,2004,Africa,71.9,5229.876738,12213
+Mauritius,2003,Africa,71.5,4623.347642,121337
+Mauritius,2002,Africa,71.5,3957.51296,124621
+Mauritius,2001,Africa,71.5,3792.182152,1196287
+Mauritius,2000,Africa,71,3861.32414,1186873
+Mexico,2015,Americas,76.7,9143.128494,12589949
+Mexico,2014,Americas,76.6,1452.27766,1242216
+Mexico,2013,Americas,76.6,1298.86766,122535969
+Mexico,2012,Americas,76.3,982.532572,1282837
+Mexico,2011,Americas,76.1,9834.472689,119917
+Mexico,2010,Americas,75.6,8959.581416,117318941
+Mexico,2009,Americas,75.7,7748.12331,11555228
+Mexico,2008,Americas,75.6,9689.52887,11366189
+Mexico,2007,Americas,76,933.341687,111836346
+Mexico,2006,Americas,75.8,8767.92258,1192378
+Mexico,2005,Americas,75.3,7986.798439,18472228
+Mexico,2004,Americas,75.4,7199.59665,16995583
+Mexico,2003,Americas,75,6751.998987,1564453
+Mexico,2002,Americas,75,716.8219,1435568
+Mexico,2001,Americas,75,731.378864,136768
+Mexico,2000,Americas,74.8,672.92113,11719673
+Micronesia (Federated States of),2015,Oceania,69.4,,
+Micronesia (Federated States of),2014,Oceania,69.4,,
+Micronesia (Federated States of),2013,Oceania,69.2,,
+Micronesia (Federated States of),2012,Oceania,69,,
+Micronesia (Federated States of),2011,Oceania,68.9,,
+Micronesia (Federated States of),2010,Oceania,68.7,,
+Micronesia (Federated States of),2009,Oceania,68.5,,
+Micronesia (Federated States of),2008,Oceania,68.4,,
+Micronesia (Federated States of),2007,Oceania,68.2,,
+Micronesia (Federated States of),2006,Oceania,68,,
+Micronesia (Federated States of),2005,Oceania,67.9,,
+Micronesia (Federated States of),2004,Oceania,67.7,,
+Micronesia (Federated States of),2003,Oceania,67.5,,
+Micronesia (Federated States of),2002,Oceania,66.2,,
+Micronesia (Federated States of),2001,Oceania,67.2,,
+Micronesia (Federated States of),2000,Oceania,67,,
+Monaco,2013,Europe,,,
+Mongolia,2015,Asia,68.8,3944.1839,2976877
+Mongolia,2014,Asia,68.4,4181.583321,2923896
+Mongolia,2013,Asia,68.1,4385.379355,286917
+Mongolia,2012,Asia,67.8,4368.82248,2814226
+Mongolia,2011,Asia,67.3,3769.595255,2761516
+Mongolia,2010,Asia,66.3,265.353659,271265
+Mongolia,2009,Asia,66.9,1717.898761,2668289
+Mongolia,2008,Asia,67.4,2139.625631,2628131
+Mongolia,2007,Asia,65.9,1634.81431,259167
+Mongolia,2006,Asia,65,1334.651896,255812
+Mongolia,2005,Asia,64.5,998.8226671,2526446
+Mongolia,2004,Asia,64,797.8377432,2496832
+Mongolia,2003,Asia,64,646.561295,2469286
+Mongolia,2002,Asia,63.8,571.51883,2443659
+Mongolia,2001,Asia,63.2,524.145924,2419776
+Mongolia,2000,Asia,62.8,474.2133361,2397436
+Montenegro,2015,Europe,76.1,6461.192554,622159
+Montenegro,2014,Europe,75.9,7378.345289,62181
+Montenegro,2013,Europe,75.8,7186.429787,62127
+Montenegro,2012,Europe,75.6,6586.71929,6261
+Montenegro,2011,Europe,75.4,7318.742449,6279
+Montenegro,2010,Europe,75.3,6682.281158,619428
+Montenegro,2009,Europe,75,6698.79439,618294
+Montenegro,2008,Europe,74.6,7325.73474,616969
+Montenegro,2007,Europe,74.2,5957.145693,615875
+Montenegro,2006,Europe,73.8,4383.59597,61525
+Montenegro,2005,Europe,73.6,3674.617924,614261
+Montenegro,2004,Europe,73.5,338.199535,613353
+Montenegro,2003,Europe,73.5,2789.1735,612267
+Montenegro,2002,Europe,73.4,216.243274,69828
+Montenegro,2001,Europe,73.3,199.583957,67389
+Montenegro,2000,Europe,73,1627.42893,6495
+Morocco,2015,Africa,74.3,2847.285569,3483322
+Morocco,2014,Africa,74.1,3154.513484,3431882
+Morocco,2013,Africa,73.9,3111.762887,33824769
+Morocco,2012,Africa,73.6,294.746728,33333789
+Morocco,2011,Africa,73.3,339.91616,32858823
+Morocco,2010,Africa,72.8,2834.2472,3249639
+Morocco,2009,Africa,72.3,2861.5545,31989897
+Morocco,2008,Africa,71.8,2884.94776,31596855
+Morocco,2007,Africa,71.4,2494.353552,31225881
+Morocco,2006,Africa,71,2191.478567,3869346
+Morocco,2005,Africa,77,213.755559,35217
+Morocco,2004,Africa,72,1948.812275,3179285
+Morocco,2003,Africa,69.9,1721.973863,29843937
+Morocco,2002,Africa,69.5,1413.757176,29512368
+Morocco,2001,Africa,69,1336.775376,29181832
+Morocco,2000,Africa,68.6,1332.382358,28849621
+Mozambique,2015,Africa,57.6,528.3125597,281691
+Mozambique,2014,Africa,56.7,623.2871141,27212382
+Mozambique,2013,Africa,55.3,65.985681,26434372
+Mozambique,2012,Africa,54.8,566.513873,2567666
+Mozambique,2011,Africa,54.3,526.5313517,249395
+Mozambique,2010,Africa,54,419.2258149,2422145
+Mozambique,2009,Africa,53.8,463.852618,2352463
+Mozambique,2008,Africa,53.2,53.127719,22846758
+Mozambique,2007,Africa,52.1,422.1461573,22188387
+Mozambique,2006,Africa,51.2,385.7567141,21547463
+Mozambique,2005,Africa,58,369.1545359,29237
+Mozambique,2004,Africa,54,336.3318145,231275
+Mozambique,2003,Africa,51,283.8911588,19716598
+Mozambique,2002,Africa,49.8,262.884551,19139658
+Mozambique,2001,Africa,49.5,256.4414872,18588758
+Mozambique,2000,Africa,49,277.6486591,1867687
+Myanmar,2015,Asia,66.6,1194.59137,5243669
+Myanmar,2014,Asia,66.4,1262.893782,51924182
+Myanmar,2013,Asia,66.2,1168.83947,51448196
+Myanmar,2012,Asia,65.9,1171.58257,5986514
+Myanmar,2011,Asia,65.6,1186.423937,555331
+Myanmar,2010,Asia,65.4,987.7365832,5155896
+Myanmar,2009,Asia,65.2,741.777116,49869
+Myanmar,2008,Asia,59.2,643.951373,49479752
+Myanmar,2007,Asia,64.5,41.451,49171586
+Myanmar,2006,Asia,64.2,296.97284,48846474
+Myanmar,2005,Asia,63.9,247.24276,48482614
+Myanmar,2004,Asia,63.5,219.8156688,487377
+Myanmar,2003,Asia,63.2,219.782326,47624894
+Myanmar,2002,Asia,62.8,143.77651,471422
+Myanmar,2001,Asia,62.5,138.9249275,46627994
+Myanmar,2000,Asia,62.1,193.187484,4695462
+Namibia,2015,Africa,65.8,4737.66996,2425561
+Namibia,2014,Africa,65.9,5421.343953,237992
+Namibia,2013,Africa,66.1,5488.131712,231652
+Namibia,2012,Africa,65.8,5749.44752,2263934
+Namibia,2011,Africa,64.3,56.971392,2215621
+Namibia,2010,Africa,63,5191.58381,217317
+Namibia,2009,Africa,62.4,4153.497885,21374
+Namibia,2008,Africa,61.7,429.6561,216375
+Namibia,2007,Africa,60,422.51968,279915
+Namibia,2006,Africa,57,3881.29535,255734
+Namibia,2005,Africa,55.1,3573.146387,232196
+Namibia,2004,Africa,54.7,3288.257373,29228
+Namibia,2003,Africa,55,2482.36862,1986535
+Namibia,2002,Africa,55.7,1713.47594,1962147
+Namibia,2001,Africa,56.5,1834.29486,1933596
+Namibia,2000,Africa,57.4,257.99557,1899257
+Nauru,2013,Oceania,,136.18321,
+Nepal,2015,Asia,69.2,743.7653489,28656282
+Nepal,2014,Asia,69.6,76.2386977,28323241
+Nepal,2013,Asia,69.3,688.6172788,2798531
+Nepal,2012,Asia,68.9,681.7925868,27649925
+Nepal,2011,Asia,68.4,692.1166842,27327147
+Nepal,2010,Asia,68,592.1835216,2723137
+Nepal,2009,Asia,67.5,48.7299,2674113
+Nepal,2008,Asia,67,473.844449,26475859
+Nepal,2007,Asia,66.6,393.8843518,26214847
+Nepal,2006,Asia,66,348.6314534,2594618
+Nepal,2005,Asia,65.4,317.89198,2564287
+Nepal,2004,Asia,64.7,287.4156,2539449
+Nepal,2003,Asia,64.3,253.72412,2495623
+Nepal,2002,Asia,63.1,246.375621,24566342
+Nepal,2001,Asia,63.2,248.6183539,24161777
+Nepal,2000,Asia,62.5,231.42554,2374911
+Netherlands,2015,Europe,81.9,44292.88473,16939923
+Netherlands,2014,Europe,81.7,52157.4687,168658
+Netherlands,2013,Europe,81.4,51574.48942,1684432
+Netherlands,2012,Europe,81.1,49474.7561,16754962
+Netherlands,2011,Europe,81.1,5354.6536,1669374
+Netherlands,2010,Europe,88,5338.25483,16615394
+Netherlands,2009,Europe,86,519.349,1653388
+Netherlands,2008,Europe,83,56928.8248,16445593
+Netherlands,2007,Europe,82,51241.31562,16381696
+Netherlands,2006,Europe,79.8,44453.97119,1634611
+Netherlands,2005,Europe,79.4,41577.169,16319868
+Netherlands,2004,Europe,79.2,39954.64222,16281779
+Netherlands,2003,Europe,78.7,35245.1647,1622532
+Netherlands,2002,Europe,78.4,28817.32321,16148929
+Netherlands,2001,Europe,78.3,26584.12169,164618
+Netherlands,2000,Europe,78.1,25921.12794,15925513
+New Zealand,2015,Oceania,81.6,3821.8937,
+New Zealand,2014,Oceania,81.5,4453.24673,
+New Zealand,2013,Oceania,81.3,42889.88141,
+New Zealand,2012,Oceania,81.1,3997.25624,
+New Zealand,2011,Oceania,86,38426.5581,
+New Zealand,2010,Oceania,89,33691.34837,
+New Zealand,2009,Oceania,85,282.94193,
+New Zealand,2008,Oceania,81,31287.77865,
+New Zealand,2007,Oceania,81,3259.73471,
+New Zealand,2006,Oceania,79.9,2667.86452,
+New Zealand,2005,Oceania,79.9,2775.89515,
+New Zealand,2004,Oceania,79.2,2542.39935,
+New Zealand,2003,Oceania,79.1,21913.7817,
+New Zealand,2002,Oceania,78.7,16874.31232,
+New Zealand,2001,Oceania,78.5,13882.85683,
+New Zealand,2000,Oceania,78.6,13641.1272,
+Nicaragua,2015,Americas,74.8,295.966488,68235
+Nicaragua,2014,Americas,74.5,1975.46477,613997
+Nicaragua,2013,Americas,73.9,1847.19849,5945747
+Nicaragua,2012,Americas,73.9,1792.3845,587718
+Nicaragua,2011,Americas,74.5,1682.957924,58782
+Nicaragua,2010,Americas,73.2,1526.497938,5737723
+Nicaragua,2009,Americas,73.2,1464.497754,5666581
+Nicaragua,2008,Americas,72.5,1518.85386,559456
+Nicaragua,2007,Americas,72.5,1344.31871,552216
+Nicaragua,2006,Americas,73,124.992617,545211
+Nicaragua,2005,Americas,71.2,1175.116225,5379328
+Nicaragua,2004,Americas,71,191.55157,53973
+Nicaragua,2003,Americas,76,115.565314,524879
+Nicaragua,2002,Americas,75,11.147277,5171734
+Nicaragua,2001,Americas,73,143.6758,5175
+Nicaragua,2000,Americas,73,116.2743,526796
+Niger,2015,Africa,61.8,358.99731,19896965
+Niger,2014,Africa,61.4,43.646498,19148219
+Niger,2013,Africa,69,416.14838,18426372
+Niger,2012,Africa,63,391.515524,17731634
+Niger,2011,Africa,59.4,375.5819866,1764636
+Niger,2010,Africa,58.2,348.151511,16425578
+Niger,2009,Africa,57.1,341.2894618,15813913
+Niger,2008,Africa,56,354.8185998,15228525
+Niger,2007,Africa,55.2,292.55962,14668338
+Niger,2006,Africa,54.5,258.463873,1413264
+Niger,2005,Africa,53.7,25.383731,13618449
+Niger,2004,Africa,52.9,232.5661574,1312712
+Niger,2003,Africa,52.1,215.8548,1265687
+Niger,2002,Africa,51.4,177.828384,12262
+Niger,2001,Africa,56,165.257247,11771976
+Niger,2000,Africa,50,158.455972,11352973
+Nigeria,2015,Africa,54.5,2655.157977,181181744
+Nigeria,2014,Africa,53.6,3221.678128,1764652
+Nigeria,2013,Africa,53.2,2996.96432,17182933
+Nigeria,2012,Africa,52.7,2755.297787,167297284
+Nigeria,2011,Africa,52.3,2527.9423,16287776
+Nigeria,2010,Africa,52,2327.3267,158578261
+Nigeria,2009,Africa,51.6,197.661422,15442181
+Nigeria,2008,Africa,59,1383.893354,1534739
+Nigeria,2007,Africa,55,1136.829645,14641724
+Nigeria,2006,Africa,49.8,119.743286,14261494
+Nigeria,2005,Africa,49.2,87.8938738,138939478
+Nigeria,2004,Africa,48.5,648.815852,135393616
+Nigeria,2003,Africa,48.1,512.65719,131972533
+Nigeria,2002,Africa,47.7,459.4572117,12866671
+Nigeria,2001,Africa,47.4,351.7996666,125463434
+Nigeria,2000,Africa,47.1,379.1193264,1223529
+Niue,2013,Oceania,,,
+Norway,2015,Europe,81.8,7455.24654,518867
+Norway,2014,Europe,81.6,975.49856,5137232
+Norway,2013,Europe,81.5,1291.435,579623
+Norway,2012,Europe,81.3,11563.727,518573
+Norway,2011,Europe,81.1,1574.9861,495388
+Norway,2010,Europe,81,87646.75346,4889252
+Norway,2009,Europe,89,817.77681,4828726
+Norway,2008,Europe,86,9688.5961,4768212
+Norway,2007,Europe,85,85128.65759,479153
+Norway,2006,Europe,84,74114.69715,466677
+Norway,2005,Europe,81,66775.3944,4623291
+Norway,2004,Europe,79.8,5757.26916,459191
+Norway,2003,Europe,79.4,5111.65445,4564855
+Norway,2002,Europe,78.9,4361.1538,4538159
+Norway,2001,Europe,78.8,38549.58934,4513751
+Norway,2000,Europe,78.5,38146.71539,449967
+Oman,2015,Asia,76.6,16627.36433,
+Oman,2014,Asia,76.4,2458.45226,
+Oman,2013,Asia,76.2,21268.7564,
+Oman,2012,Asia,76,22134.916,
+Oman,2011,Asia,75.8,2986.36,
+Oman,2010,Asia,75.6,1928.74739,
+Oman,2009,Asia,75.4,16784.34616,
+Oman,2008,Asia,75.2,2275.3536,
+Oman,2007,Asia,74.9,1585.13226,
+Oman,2006,Asia,74.7,1448.55,
+Oman,2005,Asia,74.3,12376.97936,
+Oman,2004,Asia,74,1129.28886,
+Oman,2003,Asia,73.6,969.8126,
+Oman,2002,Asia,73.3,8629.11774,
+Oman,2001,Asia,72.9,8476.61511,
+Oman,2000,Asia,72.6,861.18596,
+Pakistan,2015,Asia,66.4,1431.244865,18938513
+Pakistan,2014,Asia,66.2,1316.98966,185546257
+Pakistan,2013,Asia,66,1272.44161,181712595
+Pakistan,2012,Asia,65.7,1261.28967,177911533
+Pakistan,2011,Asia,65.5,1226.215314,174184265
+Pakistan,2010,Asia,65.1,14.142268,1756182
+Pakistan,2009,Asia,64.8,16.63999,1674958
+Pakistan,2008,Asia,64.6,139.31288,16364463
+Pakistan,2007,Asia,64.4,95.4327931,16332974
+Pakistan,2006,Asia,64.2,873.772727,15793993
+Pakistan,2005,Asia,62.9,711.4699463,15399667
+Pakistan,2004,Asia,63.7,649.848233,15783
+Pakistan,2003,Asia,63.5,563.594342,1477341
+Pakistan,2002,Asia,63.2,499.8633,144654143
+Pakistan,2001,Asia,63,51.6568157,14161437
+Pakistan,2000,Asia,62.8,533.8624114,138523285
+Palau,2013,Asia,,1932.12237,292
+Panama,2015,Americas,77.8,13134.4367,3969249
+Panama,2014,Americas,77.6,12593.7374,393986
+Panama,2013,Americas,77.5,11685.97983,3838462
+Panama,2012,Americas,77.2,1589.82713,3772938
+Panama,2011,Americas,77.3,927.723171,377782
+Panama,2010,Americas,76.5,7937.259931,3643222
+Panama,2009,Americas,76.8,7429.628274,3579385
+Panama,2008,Americas,76.5,6973.9284,3516268
+Panama,2007,Americas,76.4,668.8667,345387
+Panama,2006,Americas,76.2,5348.518399,339195
+Panama,2005,Americas,75.8,4916.54886,333465
+Panama,2004,Americas,75.8,4591.892776,3269541
+Panama,2003,Americas,75.5,4267.13578,329174
+Panama,2002,Americas,75.7,4126.14671,3149265
+Panama,2001,Americas,75.5,446.372833,389684
+Panama,2000,Americas,75.7,46.29935,33347
+Papua New Guinea,2015,Oceania,62.9,,7919825
+Papua New Guinea,2014,Oceania,62.7,2182.716565,7755785
+Papua New Guinea,2013,Oceania,62.4,229.95364,7592865
+Papua New Guinea,2012,Oceania,62.2,271.318741,743836
+Papua New Guinea,2011,Oceania,62,177.867119,7269348
+Papua New Guinea,2010,Oceania,61.8,1366.879112,718239
+Papua New Guinea,2009,Oceania,61.6,1166.66337,6947447
+Papua New Guinea,2008,Oceania,61.4,1178.72469,6787187
+Papua New Guinea,2007,Oceania,61.1,956.668952,6627922
+Papua New Guinea,2006,Oceania,68,854.346921,647272
+Papua New Guinea,2005,Oceania,64,77.5773486,631479
+Papua New Guinea,2004,Oceania,59.9,637.3616215,6161517
+Papua New Guinea,2003,Oceania,59.6,588.3582595,61724
+Papua New Guinea,2002,Oceania,59.3,511.665773,5862316
+Papua New Guinea,2001,Oceania,59.1,539.41528,5716152
+Papua New Guinea,2000,Oceania,58.9,631.9468526,5572222
+Paraguay,2015,Americas,74,419.367724,6639119
+Paraguay,2014,Americas,73.9,4712.822736,6552584
+Paraguay,2013,Americas,73.8,4479.95858,646574
+Paraguay,2012,Americas,73.6,3855.537735,6379219
+Paraguay,2011,Americas,73.4,3988.11894,6293783
+Paraguay,2010,Americas,73.2,3225.591754,629877
+Paraguay,2009,Americas,73,2599.596259,6127837
+Paraguay,2008,Americas,72.7,359.992184,647117
+Paraguay,2007,Americas,72.5,2312.192926,5966159
+Paraguay,2006,Americas,72.3,189.71539,5882796
+Paraguay,2005,Americas,72.1,157.145691,5795494
+Paraguay,2004,Americas,71.9,148.527976,57374
+Paraguay,2003,Americas,71.7,1174.779347,56795
+Paraguay,2002,Americas,71.5,1148.229882,558611
+Paraguay,2001,Americas,71.2,1417.26582,546624
+Paraguay,2000,Americas,79,1545.626423,5327
+Peru,2015,Americas,75.5,63.343259,31376671
+Peru,2014,Americas,75.3,6491.5245,3973354
+Peru,2013,Americas,75.3,6583.116248,3565716
+Peru,2012,Americas,74.9,6387.785281,3158966
+Peru,2011,Americas,74.5,5771.565878,29759989
+Peru,2010,Americas,73.7,522.493191,29373646
+Peru,2009,Americas,73.8,4166.93387,29157
+Peru,2008,Americas,73.9,428.87811,2864198
+Peru,2007,Americas,74,3611.2147,28292724
+Peru,2006,Americas,74.2,3171.49856,27949944
+Peru,2005,Americas,72.8,2754.7829,276141
+Peru,2004,Americas,72.2,2448.143899,27273194
+Peru,2003,Americas,72.1,218.25997,26937738
+Peru,2002,Americas,72.6,259.192958,2661467
+Peru,2001,Americas,72.4,1981.243653,26261363
+Peru,2000,Americas,71.4,1996.719689,25914879
+Philippines,2015,Asia,68.5,2878.33837,11716359
+Philippines,2014,Asia,68.4,2842.938353,112249
+Philippines,2013,Asia,68.1,276.289146,9848132
+Philippines,2012,Asia,68.1,2581.818554,96866642
+Philippines,2011,Asia,68,2352.518156,9527794
+Philippines,2010,Asia,67.9,2129.499242,93726624
+Philippines,2009,Asia,68,1825.341521,9222879
+Philippines,2008,Asia,67.5,1919.466195,9751864
+Philippines,2007,Asia,67.5,1672.685433,8929349
+Philippines,2006,Asia,67.3,1391.772325,8789419
+Philippines,2005,Asia,67,1194.697155,86274237
+Philippines,2004,Asia,67.3,179.3715,84678493
+Philippines,2003,Asia,67.2,11.553196,8331954
+Philippines,2002,Asia,66.8,1.68135,813526
+Philippines,2001,Asia,66.8,957.287441,79665315
+Philippines,2000,Asia,66.8,138.91977,77991569
+Poland,2015,Europe,77.5,12565.9876,37986412
+Poland,2014,Europe,77.3,14341.675,3811735
+Poland,2013,Europe,77.1,1378.54911,384196
+Poland,2012,Europe,76.8,13145.1484,3863164
+Poland,2011,Europe,76.7,13893.18768,3863255
+Poland,2010,Europe,76.3,12599.52486,3842794
+Poland,2009,Europe,75.7,11527.59323,3815163
+Poland,2008,Europe,75.5,141.44688,38125759
+Poland,2007,Europe,75.3,1126.31852,381256
+Poland,2006,Europe,75.2,94.7726,38141267
+Poland,2005,Europe,75,821.251569,38165445
+Poland,2004,Europe,74.9,6681.178818,38182222
+Poland,2003,Europe,74.7,5693.52416,382457
+Poland,2002,Europe,74.5,5196.932921,3823364
+Poland,2001,Europe,74.2,4981.198619,3824876
+Poland,2000,Europe,73.7,4492.72764,38258629
+Portugal,2015,Europe,81.1,1922.681,135876
+Portugal,2014,Europe,89,2277.53613,14162
+Portugal,2013,Europe,86,21618.73534,1457295
+Portugal,2012,Europe,83,2577.4264,1514844
+Portugal,2011,Europe,82,23196.18375,155756
+Portugal,2010,Europe,79.6,22538.6548,15731
+Portugal,2009,Europe,79.3,2363.97161,1568247
+Portugal,2008,Europe,79,24815.6884,1558177
+Portugal,2007,Europe,78.7,2278.5845,1542964
+Portugal,2006,Europe,78.5,19821.44463,1522288
+Portugal,2005,Europe,77.7,18784.9485,15333
+Portugal,2004,Europe,78,1845.5881,1483861
+Portugal,2003,Europe,77.3,15772.7334,1458821
+Portugal,2002,Europe,77.2,12882.28897,1419631
+Portugal,2001,Europe,76.9,11729.14616,1362722
+Portugal,2000,Europe,76.6,1152.39681,1289898
+Qatar,2015,Asia,78.2,66346.52267,
+Qatar,2014,Asia,78.1,86852.7119,
+Qatar,2013,Asia,77.9,8834.87958,
+Qatar,2012,Asia,77.8,88564.82298,
+Qatar,2011,Asia,77.5,85948.746,
+Qatar,2010,Asia,77.3,736.22784,
+Qatar,2009,Asia,77,61478.23813,
+Qatar,2008,Asia,76.8,82967.37228,
+Qatar,2007,Asia,76.7,675.61258,
+Qatar,2006,Asia,76.6,6256.55926,
+Qatar,2005,Asia,76.6,51488.49529,
+Qatar,2004,Asia,76.6,41818.35256,
+Qatar,2003,Asia,76.5,34176.98183,
+Qatar,2002,Asia,76.4,2999.65492,
+Qatar,2001,Asia,76.3,2843.63635,
+Qatar,2000,Asia,76.2,29986.2915,
+Republic of Korea,2015,Asia,82.3,,
+Republic of Korea,2014,Asia,82,,
+Republic of Korea,2013,Asia,81.7,,
+Republic of Korea,2012,Asia,81.2,,
+Republic of Korea,2011,Asia,81.1,,
+Republic of Korea,2010,Asia,87,,
+Republic of Korea,2009,Asia,86,,
+Republic of Korea,2008,Asia,83,,
+Republic of Korea,2007,Asia,79.8,,
+Republic of Korea,2006,Asia,79.4,,
+Republic of Korea,2005,Asia,78.7,,
+Republic of Korea,2004,Asia,78.2,,
+Republic of Korea,2003,Asia,77.6,,
+Republic of Korea,2002,Asia,77.1,,
+Republic of Korea,2001,Asia,76.7,,
+Republic of Korea,2000,Asia,76,,
+Republic of Moldova,2015,Europe,72.1,,
+Republic of Moldova,2014,Europe,71.8,,
+Republic of Moldova,2013,Europe,71.7,,
+Republic of Moldova,2012,Europe,79,,
+Republic of Moldova,2011,Europe,77,,
+Republic of Moldova,2010,Europe,68.8,,
+Republic of Moldova,2009,Europe,69,,
+Republic of Moldova,2008,Europe,68.9,,
+Republic of Moldova,2007,Europe,68.3,,
+Republic of Moldova,2006,Europe,68,,
+Republic of Moldova,2005,Europe,67.3,,
+Republic of Moldova,2004,Europe,68,,
+Republic of Moldova,2003,Europe,67.6,,
+Republic of Moldova,2002,Europe,67.5,,
+Republic of Moldova,2001,Europe,67.6,,
+Republic of Moldova,2000,Europe,67.1,,
+Romania,2015,Europe,75,8958.788593,19815481
+Romania,2014,Europe,74.8,12.27733,1998979
+Romania,2013,Europe,74.6,9585.266593,19983693
+Romania,2012,Europe,74.4,8558.39766,25835
+Romania,2011,Europe,74.3,92.277825,2147528
+Romania,2010,Europe,73.4,8297.483621,2246871
+Romania,2009,Europe,73.1,822.18329,2367487
+Romania,2008,Europe,73.1,1136.47356,2537875
+Romania,2007,Europe,72.9,8214.185378,2882982
+Romania,2006,Europe,72.5,5828.745662,2119376
+Romania,2005,Europe,71.9,4676.315183,21319685
+Romania,2004,Europe,71.7,3552.92452,21451748
+Romania,2003,Europe,71.1,2774.95586,21574326
+Romania,2002,Europe,77,2124.873613,2173496
+Romania,2001,Europe,78,1839.72945,2213197
+Romania,2000,Europe,77,1668.162731,22442971
+Russian Federation,2015,Europe,75,9329.298351,1449687
+Russian Federation,2014,Europe,73,14125.961,143819666
+Russian Federation,2013,Europe,70,15543.67653,14356911
+Russian Federation,2012,Europe,69.6,15154.45687,14321676
+Russian Federation,2011,Europe,69.4,14212.687,14296868
+Russian Federation,2010,Europe,68.4,1674.98771,142849449
+Russian Federation,2009,Europe,68.2,8562.89598,142785342
+Russian Federation,2008,Europe,67.5,11635.2637,14274235
+Russian Federation,2007,Europe,67.3,911.25385,1428588
+Russian Federation,2006,Europe,66.4,692.194398,14349528
+Russian Federation,2005,Europe,65,5323.473877,143518523
+Russian Federation,2004,Europe,64.9,412.372294,1446754
+Russian Federation,2003,Europe,64.6,2975.132778,144648257
+Russian Federation,2002,Europe,64.8,2375.5944,1453646
+Russian Federation,2001,Europe,65.1,21.362386,14597683
+Russian Federation,2000,Europe,65,1771.58662,146596557
+Rwanda,2015,Africa,66.1,71.348397,11629553
+Rwanda,2014,Africa,65.7,76.5699517,11345357
+Rwanda,2013,Africa,65.2,688.8768557,1165151
+Rwanda,2012,Africa,64.6,678.796973,1788853
+Rwanda,2011,Africa,63.8,617.317648,151671
+Rwanda,2010,Africa,62.8,563.491487,1246842
+Rwanda,2009,Africa,61,539.1538211,9977446
+Rwanda,2008,Africa,68,5.6687264,978169
+Rwanda,2007,Africa,59.6,44.853339,944742
+Rwanda,2006,Africa,57.6,342.3656294,92658
+Rwanda,2005,Africa,55.3,287.931877,8991735
+Rwanda,2004,Africa,53.4,236.9114381,8818438
+Rwanda,2003,Africa,52,212.6619491,868346
+Rwanda,2002,Africa,57,196.59778,853625
+Rwanda,2001,Africa,48.6,21.569654,832946
+Rwanda,2000,Africa,48.3,216.172747,82573
+Saint Kitts and Nevis,2013,Americas,,,
+Saint Lucia,2015,Americas,75.2,,
+Saint Lucia,2014,Americas,75,,
+Saint Lucia,2013,Americas,74.8,,
+Saint Lucia,2012,Americas,74.7,,
+Saint Lucia,2011,Americas,74.6,,
+Saint Lucia,2010,Americas,74.2,,
+Saint Lucia,2009,Americas,74.3,,
+Saint Lucia,2008,Americas,74.1,,
+Saint Lucia,2007,Americas,73.9,,
+Saint Lucia,2006,Americas,73.5,,
+Saint Lucia,2005,Americas,73.1,,
+Saint Lucia,2004,Americas,72.6,,
+Saint Lucia,2003,Americas,72.2,,
+Saint Lucia,2002,Americas,72,,
+Saint Lucia,2001,Americas,71.8,,
+Saint Lucia,2000,Americas,71.6,,
+Saint Vincent and the Grenadines,2015,Americas,73.2,,
+Saint Vincent and the Grenadines,2014,Americas,73.1,,
+Saint Vincent and the Grenadines,2013,Americas,72.7,,
+Saint Vincent and the Grenadines,2012,Americas,72.8,,
+Saint Vincent and the Grenadines,2011,Americas,72.7,,
+Saint Vincent and the Grenadines,2010,Americas,72.5,,
+Saint Vincent and the Grenadines,2009,Americas,72.3,,
+Saint Vincent and the Grenadines,2008,Americas,72.1,,
+Saint Vincent and the Grenadines,2007,Americas,71.9,,
+Saint Vincent and the Grenadines,2006,Americas,71.7,,
+Saint Vincent and the Grenadines,2005,Americas,71.4,,
+Saint Vincent and the Grenadines,2004,Americas,71.2,,
+Saint Vincent and the Grenadines,2003,Americas,71,,
+Saint Vincent and the Grenadines,2002,Americas,79,,
+Saint Vincent and the Grenadines,2001,Americas,79,,
+Saint Vincent and the Grenadines,2000,Americas,79,,
+Samoa,2015,Oceania,74,4149.363444,193759
+Samoa,2014,Oceania,73.8,4178.973369,19229
+Samoa,2013,Oceania,73.6,4219.65123,19757
+Samoa,2012,Oceania,73.2,4234.554443,189194
+Samoa,2011,Oceania,73,3942.9827,187665
+Samoa,2010,Oceania,72.6,3453.487434,18625
+Samoa,2009,Oceania,76,335.112838,184826
+Samoa,2008,Oceania,72.5,359.82223,183526
+Samoa,2007,Oceania,72.2,322.543121,182286
+Samoa,2006,Oceania,72,287.963899,18194
+Samoa,2005,Oceania,71.6,2571.262348,179929
+Samoa,2004,Oceania,71.4,2351.33814,178781
+Samoa,2003,Oceania,79,197.29417,177662
+Samoa,2002,Oceania,76,1631.41727,176582
+Samoa,2001,Oceania,75,1555.47451,175566
+Samoa,2000,Oceania,72,154.68923,17461
+San Marino,2013,Oceania,,,
+Sao Tome and Principe,2015,Africa,67.5,1624.63963,195553
+Sao Tome and Principe,2014,Africa,67.3,1821.878734,191266
+Sao Tome and Principe,2013,Africa,67.1,1619.532678,18745
+Sao Tome and Principe,2012,Africa,66.9,138.949959,182889
+Sao Tome and Principe,2011,Africa,66.6,134.326189,1788
+Sao Tome and Principe,2010,Africa,66.2,1129.754961,174776
+Sao Tome and Principe,2009,Africa,65.8,199.57146,17813
+Sao Tome and Principe,2008,Africa,65.4,1126.46212,166913
+Sao Tome and Principe,2007,Africa,65.1,894.927988,16311
+Sao Tome and Principe,2006,Africa,64.7,843.89447,159328
+Sao Tome and Principe,2005,Africa,64.3,81.86157,15563
+Sao Tome and Principe,2004,Africa,63.8,693.345683,151969
+Sao Tome and Principe,2003,Africa,63.4,649.342153,148372
+Sao Tome and Principe,2002,Africa,63.1,555.8185378,144889
+Sao Tome and Principe,2001,Africa,62.8,51.216381,141622
+Sao Tome and Principe,2000,Africa,62.6,,13866
+Saudi Arabia,2015,Asia,74.5,2732.86172,
+Saudi Arabia,2014,Asia,74.4,24575.434,
+Saudi Arabia,2013,Asia,74.3,24934.38614,
+Saudi Arabia,2012,Asia,74.1,2533.9462,
+Saudi Arabia,2011,Asia,73.9,2377.74739,
+Saudi Arabia,2010,Asia,73.7,19259.58726,
+Saudi Arabia,2009,Asia,73.4,1694.2931,
+Saudi Arabia,2008,Asia,73.3,237.83234,
+Saudi Arabia,2007,Asia,73.2,16472.1665,
+Saudi Arabia,2006,Asia,73.2,15334.66994,
+Saudi Arabia,2005,Asia,73.1,13739.82945,
+Saudi Arabia,2004,Asia,73.1,11138.8746,
+Saudi Arabia,2003,Asia,73,9567.458285,
+Saudi Arabia,2002,Asia,72.9,8655.311531,
+Saudi Arabia,2001,Asia,72.8,8643.4944,
+Saudi Arabia,2000,Asia,72.6,9126.954277,
+Senegal,2015,Africa,66.7,98.7256145,14976994
+Senegal,2014,Africa,66.4,152.443873,14546111
+Senegal,2013,Africa,66,148.912351,141232
+Senegal,2012,Africa,65.6,136.4518,1373513
+Senegal,2011,Africa,64.9,18.25321,13391
+Senegal,2010,Africa,64.3,11.631377,12916229
+Senegal,2009,Africa,63.5,12.566464,1255917
+Senegal,2008,Africa,62.8,11.33678,1223957
+Senegal,2007,Africa,62.1,95.3978522,11873557
+Senegal,2006,Africa,61.3,89.838296,11556763
+Senegal,2005,Africa,65,773.8698713,11251266
+Senegal,2004,Africa,59.7,733.581811,1955944
+Senegal,2003,Africa,59,642.7663113,16799
+Senegal,2002,Africa,58.4,513.26227,1396861
+Senegal,2001,Africa,57.9,481.287397,1134497
+Senegal,2000,Africa,57.5,473.45338,988452
+Serbia,2015,Europe,75.6,5237.255334,795383
+Serbia,2014,Europe,75.4,62.173221,713576
+Serbia,2013,Europe,75.3,6353.826383,7164132
+Serbia,2012,Europe,74.9,5659.3824,719977
+Serbia,2011,Europe,74.6,6423.291783,723499
+Serbia,2010,Europe,74.4,5411.87744,7291436
+Serbia,2009,Europe,74.1,5821.35397,73287
+Serbia,2008,Europe,74,671.773913,735222
+Serbia,2007,Europe,73.8,5458.121718,7381579
+Serbia,2006,Europe,73.6,4129.758741,7411569
+Serbia,2005,Europe,73,3528.1318,744769
+Serbia,2004,Europe,73,3331.228766,7463157
+Serbia,2003,Europe,73,2832.49652,748591
+Serbia,2002,Europe,72.9,2149.9944,7496522
+Serbia,2001,Europe,73.1,1634.87561,753433
+Serbia,2000,Europe,72.6,87.1365252,7516346
+Seychelles,2015,Africa,73.2,1539.464,93419
+Seychelles,2014,Africa,73,1557.77892,91359
+Seychelles,2013,Africa,72.9,15687.34795,89949
+Seychelles,2012,Africa,72.7,12845.17363,8833
+Seychelles,2011,Africa,72.6,12189.9516,87441
+Seychelles,2010,Africa,72.4,184.68447,8977
+Seychelles,2009,Africa,72.3,976.9566,87298
+Seychelles,2008,Africa,72.2,11122.8627,86956
+Seychelles,2007,Africa,72.2,12154.82994,8533
+Seychelles,2006,Africa,72.2,1214.39987,846
+Seychelles,2005,Africa,72.2,1192.5174,82858
+Seychelles,2004,Africa,72.1,1176.65871,82475
+Seychelles,2003,Africa,72.1,8524.961236,82781
+Seychelles,2002,Africa,72.1,8331.261997,83723
+Seychelles,2001,Africa,72,7663.1378,8122
+Seychelles,2000,Africa,71.8,7578.85153,81131
+Sierra Leone,2015,Africa,51,587.538233,723725
+Sierra Leone,2014,Africa,48.1,78.4394757,779162
+Sierra Leone,2013,Africa,54,71.8186998,692279
+Sierra Leone,2012,Africa,49.7,561.8984239,676613
+Sierra Leone,2011,Africa,48.9,445.525,6611692
+Sierra Leone,2010,Africa,48.1,45.128418,645872
+Sierra Leone,2009,Africa,47.1,394.5932439,63126
+Sierra Leone,2008,Africa,46.2,46.3759178,6165372
+Sierra Leone,2007,Africa,45.3,358.8274716,615417
+Sierra Leone,2006,Africa,44.3,322.313468,5848692
+Sierra Leone,2005,Africa,43.3,287.6891942,5658379
+Sierra Leone,2004,Africa,42.3,263.145817,5439695
+Sierra Leone,2003,Africa,41.5,263.7618312,5199549
+Sierra Leone,2002,Africa,48,249.939542,4957216
+Sierra Leone,2001,Africa,41,227.779471,4739147
+Sierra Leone,2000,Africa,39,139.3147734,4564297
+Singapore,2015,Asia,83.1,53629.73746,
+Singapore,2014,Asia,82.9,56336.7234,
+Singapore,2013,Asia,82.7,5629.18914,
+Singapore,2012,Asia,82.5,54431.16199,
+Singapore,2011,Asia,82.2,53166.67581,
+Singapore,2010,Asia,82,46569.67951,
+Singapore,2009,Asia,81.7,38577.55822,
+Singapore,2008,Asia,81.4,39721.4818,
+Singapore,2007,Asia,81.1,39223.58187,
+Singapore,2006,Asia,87,33579.85948,
+Singapore,2005,Asia,82,29869.85398,
+Singapore,2004,Asia,79.7,2745.27136,
+Singapore,2003,Asia,79.3,23573.6284,
+Singapore,2002,Asia,79,2216.83279,
+Singapore,2001,Asia,78.7,21577.7823,
+Singapore,2000,Asia,78.3,23792.677,
+Slovakia,2015,Europe,76.7,,
+Slovakia,2014,Europe,76.4,,
+Slovakia,2013,Europe,76.1,,
+Slovakia,2012,Europe,75.8,,
+Slovakia,2011,Europe,75.6,,
+Slovakia,2010,Europe,75.1,,
+Slovakia,2009,Europe,75,,
+Slovakia,2008,Europe,74.7,,
+Slovakia,2007,Europe,74.4,,
+Slovakia,2006,Europe,74.3,,
+Slovakia,2005,Europe,74,,
+Slovakia,2004,Europe,74.1,,
+Slovakia,2003,Europe,73.8,,
+Slovakia,2002,Europe,73.7,,
+Slovakia,2001,Europe,73.3,,
+Slovakia,2000,Europe,73,,
+Slovenia,2015,Europe,88,2729.86383,263531
+Slovenia,2014,Europe,87,242.67286,26198
+Slovenia,2013,Europe,85,2315.31799,259953
+Slovenia,2012,Europe,82,22486.47167,257159
+Slovenia,2011,Europe,79.8,24985.24827,252843
+Slovenia,2010,Europe,79.5,23437.4722,248583
+Slovenia,2009,Europe,79.1,24633.79785,239669
+Slovenia,2008,Europe,78.9,2751.8127,221316
+Slovenia,2007,Europe,78.3,23841.31792,218122
+Slovenia,2006,Europe,78.1,19726.1265,26868
+Slovenia,2005,Europe,77.5,18169.1891,2474
+Slovenia,2004,Europe,77.2,1726.9151,199712
+Slovenia,2003,Europe,76.5,1488.47154,1995733
+Slovenia,2002,Europe,76.6,11814.9994,199453
+Slovenia,2001,Europe,76.2,1479.29634,19926
+Slovenia,2000,Europe,76,1227.73677,1988925
+Solomon Islands,2015,Oceania,69.2,1922.41388,587482
+Solomon Islands,2014,Oceania,68.8,29.652622,57554
+Solomon Islands,2013,Oceania,68.8,188.5159,563513
+Solomon Islands,2012,Oceania,68.7,1858.689868,551531
+Solomon Islands,2011,Oceania,68.5,1642.837974,539614
+Solomon Islands,2010,Oceania,68.3,1272.44825,52779
+Solomon Islands,2009,Oceania,68.1,1158.282672,51679
+Solomon Islands,2008,Oceania,68,125.79167,54477
+Solomon Islands,2007,Oceania,67.6,146.931125,49294
+Solomon Islands,2006,Oceania,67.6,948.6592511,481422
+Solomon Islands,2005,Oceania,67.4,88.874858,469885
+Solomon Islands,2004,Oceania,67.1,818.442619,458324
+Solomon Islands,2003,Oceania,66.8,744.7657423,446769
+Solomon Islands,2002,Oceania,66.5,784.9562874,435262
+Solomon Islands,2001,Oceania,66.2,944.81684,423853
+Solomon Islands,2000,Oceania,65.8,154.518572,41269
+Somalia,2015,Africa,55,426.98537,
+Somalia,2014,Africa,54.3,417.89143,
+Somalia,2013,Africa,54.2,47.5432354,
+Somalia,2012,Africa,53.1,,
+Somalia,2011,Africa,53.1,,
+Somalia,2010,Africa,52.4,,
+Somalia,2009,Africa,52.2,,
+Somalia,2008,Africa,51.9,,
+Somalia,2007,Africa,51.5,,
+Somalia,2006,Africa,51.5,,
+Somalia,2005,Africa,51.6,,
+Somalia,2004,Africa,51.2,,
+Somalia,2003,Africa,51.1,,
+Somalia,2002,Africa,58,,
+Somalia,2001,Africa,57,,
+Somalia,2000,Africa,55,,
+South Africa,2015,Africa,62.9,5769.77258,5511976.68
+South Africa,2014,Africa,62,6479.625659,54146734.74
+South Africa,2013,Africa,69,6876.953821,53311955.61
+South Africa,2012,Africa,59.2,7548.163698,5256515.8
+South Africa,2011,Africa,58.9,849.954224,51729345.36
+South Africa,2010,Africa,58,7362.76139,5979432.36
+South Africa,2009,Africa,56.5,5888.6284,5255813.11
+South Africa,2008,Africa,55.3,5786.59972,49557573.3
+South Africa,2007,Africa,54.5,6125.39984,48883844.99
+South Africa,2006,Africa,54,5631.73485,4823384.48
+South Africa,2005,Africa,53.8,5414.634326,476667.24
+South Africa,2004,Africa,53.7,4863.51688,4717.99
+South Africa,2003,Africa,54,3775.68275,46418193.9
+South Africa,2002,Africa,54.9,2518.398261,45855482.88
+South Africa,2001,Africa,56,2681.781,45312937
+South Africa,2000,Africa,57.3,337.2253,44896856
+South Sudan,2015,Africa,57.3,758.725782,11882136
+South Sudan,2014,Africa,56.6,1151.861715,1153971
+South Sudan,2013,Africa,56.4,1186.11325,1117749
+South Sudan,2012,Africa,56,958.45581,1818258
+South Sudan,2011,Africa,55.4,176.9713,1448857
+South Sudan,2010,Africa,55,1562.239346,167192
+South Sudan,2009,Africa,54.3,1264.78998,967667
+South Sudan,2008,Africa,53.6,1678.711862,9263136
+South Sudan,2007,Africa,53.1,,88568
+South Sudan,2006,Africa,52.5,,8468152
+South Sudan,2005,Africa,51.9,,818877
+South Sudan,2004,Africa,51.4,,7787655
+South Sudan,2003,Africa,58,,751642
+South Sudan,2002,Africa,52,,7237276
+South Sudan,2001,Africa,49.6,,6974442
+South Sudan,2000,Africa,48.9,,67656
+Spain,2015,Europe,82.8,25683.84565,46447697
+Spain,2014,Europe,82.6,296.47225,4648882
+Spain,2013,Europe,82.4,2921.9342,466245
+Spain,2012,Europe,82,28562.29324,4677355
+Spain,2011,Europe,82.1,31834.21816,46742697
+Spain,2010,Europe,81.9,3736.228,46576897
+Spain,2009,Europe,81.6,32333.4661,46362946
+Spain,2008,Europe,81.3,35578.73619,4595416
+Spain,2007,Europe,89,3279.414,4522683
+Spain,2006,Europe,88,28482.6948,44397319
+Spain,2005,Europe,81,2651.71745,43653155
+Spain,2004,Europe,81,24918.64584,42921895
+Spain,2003,Europe,79.4,21495.7741,42187645
+Spain,2002,Europe,79.5,1719.53541,41431558
+Spain,2001,Europe,79.4,15323.6114,485412
+Spain,2000,Europe,79.1,14676.769,4567864
+Sri Lanka,2015,Asia,74.9,3844.89123,2966
+Sri Lanka,2014,Asia,74.7,382.54994,2771
+Sri Lanka,2013,Asia,74.6,361.289374,2585
+Sri Lanka,2012,Asia,74.5,335.521375,2425
+Sri Lanka,2011,Asia,74.5,322.992615,2271
+Sri Lanka,2010,Asia,74.5,2819.511161,2119
+Sri Lanka,2009,Asia,71.8,216.681584,19968
+Sri Lanka,2008,Asia,72.3,254.489192,19817
+Sri Lanka,2007,Asia,73.7,1644.816372,19668
+Sri Lanka,2006,Asia,73.8,1448.7611,1952
+Sri Lanka,2005,Asia,74.2,1259.87591,19373
+Sri Lanka,2004,Asia,69.1,174.6692,19228
+Sri Lanka,2003,Asia,73.9,989.4547732,1983
+Sri Lanka,2002,Asia,73.7,873.1472436,18939
+Sri Lanka,2001,Asia,72.7,837.699787,18797
+Sri Lanka,2000,Asia,71.5,875.412178,18655
+Sudan,2015,Africa,64.1,2513.884661,3864783
+Sudan,2014,Africa,63.8,2176.89829,37737913
+Sudan,2013,Africa,63.5,1955.66799,36849918
+Sudan,2012,Africa,63.2,1892.894352,3599192
+Sudan,2011,Africa,62.7,1666.857757,35167314
+Sudan,2010,Africa,62.5,1476.47887,34385963
+Sudan,2009,Africa,62,1226.884381,3365619
+Sudan,2008,Africa,61.8,1291.528826,32955496
+Sudan,2007,Africa,61.4,1115.6952,32282526
+Sudan,2006,Africa,61,893.8793645,316764
+Sudan,2005,Africa,67,679.7539949,3911914
+Sudan,2004,Africa,59.7,565.569459,3186341
+Sudan,2003,Africa,59.6,477.738478,29435944
+Sudan,2002,Africa,59.4,412.1517561,28679565
+Sudan,2001,Africa,58.9,377.5254454,279455
+Sudan,2000,Africa,58.6,361.35843,2725535
+Suriname,2015,Americas,71.6,8818.982566,55328
+Suriname,2014,Americas,71.4,9564.46383,547928
+Suriname,2013,Americas,71.2,9484.56898,54254
+Suriname,2012,Americas,71.3,9272.413453,53777
+Suriname,2011,Americas,76,8318.97692,531589
+Suriname,2010,Americas,73,833.31332,52613
+Suriname,2009,Americas,70,7443.85178,52619
+Suriname,2008,Americas,69.8,6858.163158,515148
+Suriname,2007,Americas,69.5,5761.39536,5975
+Suriname,2006,Americas,69.3,527.92,5437
+Suriname,2005,Americas,68.9,3595.8855,498946
+Suriname,2004,Americas,68.3,36.48773,49363
+Suriname,2003,Americas,68,263.1399,488332
+Suriname,2002,Americas,67.9,2232.513244,48344
+Suriname,2001,Americas,67.7,1598.77512,47774
+Suriname,2000,Americas,67.4,1888.61829,47239
+Swaziland,2015,Africa,58.9,3136.92511,131911
+Swaziland,2014,Africa,58.4,3464.35169,129597
+Swaziland,2013,Africa,57.6,3598.75972,1271456
+Swaziland,2012,Africa,56.5,3851.51547,1248158
+Swaziland,2011,Africa,55,3934.27325,1225258
+Swaziland,2010,Africa,53.6,369.239336,122843
+Swaziland,2009,Africa,52.6,332.517125,118675
+Swaziland,2008,Africa,51.4,2842.438422,1158897
+Swaziland,2007,Africa,50,347.48798,1138434
+Swaziland,2006,Africa,47.8,2937.36723,112514
+Swaziland,2005,Africa,46,2873.862141,115873
+Swaziland,2004,Africa,45.6,2529.633557,19553
+Swaziland,2003,Africa,45.9,22.99449,187392
+Swaziland,2002,Africa,46.4,1324.996228,1893
+Swaziland,2001,Africa,47.1,1437.634951,172927
+Swaziland,2000,Africa,48.4,1637.4567,161468
+Sweden,2015,Europe,82.4,5585.25847,9799186
+Sweden,2014,Europe,82.3,5918.19898,969611
+Sweden,2013,Europe,81.9,6283.24522,96379
+Sweden,2012,Europe,81.7,57134.777,9519374
+Sweden,2011,Europe,81.7,59593.28711,9449213
+Sweden,2010,Europe,81.5,5276.25591,9378126
+Sweden,2009,Europe,81.4,4627.592,9298515
+Sweden,2008,Europe,81.1,55746.84238,9219637
+Sweden,2007,Europe,89,53324.37937,914892
+Sweden,2006,Europe,88,46256.4716,9855
+Sweden,2005,Europe,85,4385.35315,929572
+Sweden,2004,Europe,83,42442.2245,8993531
+Sweden,2003,Europe,82,36961.42537,8958229
+Sweden,2002,Europe,79.9,29571.7446,8924958
+Sweden,2001,Europe,79.8,26969.24457,889596
+Sweden,2000,Europe,79.6,29283.55,887219
+Switzerland,2015,Europe,83.4,8989.8424,8282396
+Switzerland,2014,Europe,83.2,85814.58857,8188649
+Switzerland,2013,Europe,83,84658.88768,889346
+Switzerland,2012,Europe,82.7,83164.38795,7996861
+Switzerland,2011,Europe,82.6,87998.44468,7912398
+Switzerland,2010,Europe,82.3,74276.71842,782499
+Switzerland,2009,Europe,82.1,69672.471,7743831
+Switzerland,2008,Europe,82,72119.5687,7647675
+Switzerland,2007,Europe,81.7,63223.46778,7551117
+Switzerland,2006,Europe,81.5,57348.92788,7483934
+Switzerland,2005,Europe,81.1,54797.54663,7437115
+Switzerland,2004,Europe,81,53255.97631,7389625
+Switzerland,2003,Europe,85,4796.56497,73391
+Switzerland,2002,Europe,84,41336.72192,7284753
+Switzerland,2001,Europe,82,38538.64447,7229854
+Switzerland,2000,Europe,79.7,37813.23426,718425
+Syrian Arab Republic,2015,Asia,64.5,,18734987
+Syrian Arab Republic,2014,Asia,64.4,,19239
+Syrian Arab Republic,2013,Asia,63.6,,1989141
+Syrian Arab Republic,2012,Asia,62.8,,24271
+Syrian Arab Republic,2011,Asia,71.7,,2863993
+Syrian Arab Republic,2010,Asia,73.7,,2118834
+Syrian Arab Republic,2009,Asia,73.8,,2824893
+Syrian Arab Republic,2008,Asia,73.8,,2325443
+Syrian Arab Republic,2007,Asia,73.8,258.3529,1963286
+Syrian Arab Republic,2006,Asia,73.7,1762.24617,18914977
+Syrian Arab Republic,2005,Asia,73.5,1577.457182,18294611
+Syrian Arab Republic,2004,Asia,73.2,148.852738,1786638
+Syrian Arab Republic,2003,Asia,73,1253.39143,17415266
+Syrian Arab Republic,2002,Asia,72.8,1263.13455,178791
+Syrian Arab Republic,2001,Asia,72.7,1258.421953,16766899
+Syrian Arab Republic,2000,Asia,72.6,1177.629268,1641848
+Tajikistan,2015,Asia,69.7,918.6771543,8548651
+Tajikistan,2014,Asia,69.6,114.45919,8362745
+Tajikistan,2013,Asia,69.3,14.214412,817789
+Tajikistan,2012,Asia,68.8,954.725253,799562
+Tajikistan,2011,Asia,68.1,834.5412953,7815949
+Tajikistan,2010,Asia,67.3,738.3475227,764163
+Tajikistan,2009,Asia,66.7,666.3458569,7472819
+Tajikistan,2008,Asia,66.4,76.914128,739728
+Tajikistan,2007,Asia,66.1,52.35956,7152385
+Tajikistan,2006,Asia,65.9,44.2872665,7557
+Tajikistan,2005,Asia,65.5,337.359236,6854176
+Tajikistan,2004,Asia,65.9,39.281834,6712841
+Tajikistan,2003,Asia,65.2,236.314438,6576877
+Tajikistan,2002,Asia,64.3,189.3878519,6447688
+Tajikistan,2001,Asia,64,17.8159721,6327125
+Tajikistan,2000,Asia,63.7,138.436633,621625
+Thailand,2015,Asia,74.9,5814.863134,686576
+Thailand,2014,Asia,74.6,5941.8471,68416772
+Thailand,2013,Asia,74.5,6171.262444,6814365
+Thailand,2012,Asia,74.3,5859.915622,67843979
+Thailand,2011,Asia,74.1,5491.159981,675313
+Thailand,2010,Asia,73.9,575.32176,672888
+Thailand,2009,Asia,73.7,4212.5492,66881867
+Thailand,2008,Asia,73.5,4378.68746,6654576
+Thailand,2007,Asia,73.3,3972.26475,66195615
+Thailand,2006,Asia,73,3368.952576,65824164
+Thailand,2005,Asia,72.5,2893.651356,6542547
+Thailand,2004,Asia,71.6,2659.83918,652231
+Thailand,2003,Asia,71.7,2358.93629,64554952
+Thailand,2002,Asia,71.4,296.54617,6473164
+Thailand,2001,Asia,71.2,1893.145377,63543322
+Thailand,2000,Asia,71.1,27.564826,6295821
+The former Yugoslav republic of Macedonia,2015,Europe,75.7,,
+The former Yugoslav republic of Macedonia,2014,Europe,75.5,,
+The former Yugoslav republic of Macedonia,2013,Europe,75.3,,
+The former Yugoslav republic of Macedonia,2012,Europe,75.1,,
+The former Yugoslav republic of Macedonia,2011,Europe,74.9,,
+The former Yugoslav republic of Macedonia,2010,Europe,74.7,,
+The former Yugoslav republic of Macedonia,2009,Europe,74.4,,
+The former Yugoslav republic of Macedonia,2008,Europe,74.2,,
+The former Yugoslav republic of Macedonia,2007,Europe,73.5,,
+The former Yugoslav republic of Macedonia,2006,Europe,73.7,,
+The former Yugoslav republic of Macedonia,2005,Europe,73.6,,
+The former Yugoslav republic of Macedonia,2004,Europe,73.5,,
+The former Yugoslav republic of Macedonia,2003,Europe,73.2,,
+The former Yugoslav republic of Macedonia,2002,Europe,72.8,,
+The former Yugoslav republic of Macedonia,2001,Europe,73.1,,
+The former Yugoslav republic of Macedonia,2000,Europe,72.6,,
+Timor-Leste,2015,Oceania,68.3,1161.76935,124977
+Timor-Leste,2014,Oceania,68,1153.51578,1212814
+Timor-Leste,2013,Oceania,67.7,117.765674,1184366
+Timor-Leste,2012,Oceania,67.4,1117.77724,115676
+Timor-Leste,2011,Oceania,67.2,114.56179,1131523
+Timor-Leste,2010,Oceania,66.9,849.8626972,119591
+Timor-Leste,2009,Oceania,66.6,757.3114436,19221
+Timor-Leste,2008,Oceania,66.2,643.71911,17811
+Timor-Leste,2007,Oceania,65.8,524.8959363,164973
+Timor-Leste,2006,Oceania,64.9,441.53226,148621
+Timor-Leste,2005,Oceania,63.7,478.331859,126484
+Timor-Leste,2004,Oceania,62.3,467.5438297,996698
+Timor-Leste,2003,Oceania,61,471.4565823,96852
+Timor-Leste,2002,Oceania,62,48.61552,923825
+Timor-Leste,2001,Oceania,59.4,56.4249869,892531
+Timor-Leste,2000,Oceania,58.7,422.28633,87167
+Togo,2015,Africa,59.9,551.138346,741682
+Togo,2014,Africa,59.7,62.1318489,7228915
+Togo,2013,Africa,59.4,579.43485,742948
+Togo,2012,Africa,58.9,563.6894247,6859482
+Togo,2011,Africa,58.3,562.3393592,6679282
+Togo,2010,Africa,57.4,487.9238913,652952
+Togo,2009,Africa,56.7,499.6468713,633472
+Togo,2008,Africa,56.2,513.391914,6161796
+Togo,2007,Africa,55.9,42.764743,5997385
+Togo,2006,Africa,55.7,377.33629,5837792
+Togo,2005,Africa,55,372.1721837,5683268
+Togo,2004,Africa,54.9,349.9937253,5534598
+Togo,2003,Africa,54.7,31.437144,539141
+Togo,2002,Africa,54.7,28.832123,5251472
+Togo,2001,Africa,54.6,26.6394652,511177
+Togo,2000,Africa,54.6,26.3932935,497367
+Tonga,2015,Oceania,73.5,493.775387,16364
+Tonga,2014,Oceania,73.3,4192.349758,15782
+Tonga,2013,Oceania,73.2,4266.557174,15328
+Tonga,2012,Oceania,73,451.542462,14951
+Tonga,2011,Oceania,72.9,445.18866,14577
+Tonga,2010,Oceania,72.8,3547.59975,14137
+Tonga,2009,Oceania,72.5,37.846563,1364
+Tonga,2008,Oceania,72.6,3392.64743,135
+Tonga,2007,Oceania,72.5,2932.315883,12357
+Tonga,2006,Oceania,72.4,2892.522663,11689
+Tonga,2005,Oceania,72.3,2594.74999,1141
+Tonga,2004,Oceania,72.2,2284.37858,146
+Tonga,2003,Oceania,72,229.714718,99789
+Tonga,2002,Oceania,71.9,1842.44421,99184
+Tonga,2001,Oceania,71.8,1837.977391,98611
+Tonga,2000,Oceania,71.6,263.27236,9882
+Trinidad and Tobago,2015,Americas,71.2,17321.83373,13692
+Trinidad and Tobago,2014,Americas,71.1,19325.24283,1354493
+Trinidad and Tobago,2013,Americas,71,1967.83283,1348248
+Trinidad and Tobago,2012,Americas,78,19152.531,1341588
+Trinidad and Tobago,2011,Americas,76,1953.9767,1334788
+Trinidad and Tobago,2010,Americas,74,16683.94578,13281
+Trinidad and Tobago,2009,Americas,71,1458.8796,1321618
+Trinidad and Tobago,2008,Americas,69.9,21188.11857,1315372
+Trinidad and Tobago,2007,Americas,69.7,1653.1844,13926
+Trinidad and Tobago,2006,Americas,69.6,1495.96337,133144
+Trinidad and Tobago,2005,Americas,69.5,12323.1275,1296934
+Trinidad and Tobago,2004,Americas,69.4,129.51914,129535
+Trinidad and Tobago,2003,Americas,69.3,884.518666,128452
+Trinidad and Tobago,2002,Americas,69.2,749.626612,1277837
+Trinidad and Tobago,2001,Americas,69.1,6935.721451,127238
+Trinidad and Tobago,2000,Americas,69.1,643.947262,1267984
+Tunisia,2015,Africa,75.3,3828.91589,11273661
+Tunisia,2014,Africa,75.1,4271.68172,1114398
+Tunisia,2013,Africa,74.9,4199.47253,1114558
+Tunisia,2012,Africa,74.9,4137.55421,1886668
+Tunisia,2011,Africa,74.8,4256.91279,1761467
+Tunisia,2010,Africa,74.8,414.15177,1639931
+Tunisia,2009,Africa,74.7,4129.977335,1521834
+Tunisia,2008,Africa,74.7,431.9326,147336
+Tunisia,2007,Africa,74.6,3778.184171,129887
+Tunisia,2006,Africa,74.4,3371.71231,1196136
+Tunisia,2005,Africa,74.2,3194.562243,112482
+Tunisia,2004,Africa,74,3112.83529,11761
+Tunisia,2003,Africa,73.7,2761.969249,9939678
+Tunisia,2002,Africa,73.5,2346.5937,9864326
+Tunisia,2001,Africa,73.2,2254.933126,978571
+Tunisia,2000,Africa,72.9,2213.91488,9699197
+Turkey,2015,Europe,75.8,1979.52569,78271472
+Turkey,2014,Europe,75.5,12127.22522,773628
+Turkey,2013,Europe,75.2,12542.93565,75787333
+Turkey,2012,Europe,74.8,1172.3843,74569867
+Turkey,2011,Europe,74.5,11341.13395,7349455
+Turkey,2010,Europe,74.2,1672.5693,72326914
+Turkey,2009,Europe,73.9,936.499911,71339185
+Turkey,2008,Europe,73.5,185.68975,74432
+Turkey,2007,Europe,73.2,979.49246,69597281
+Turkey,2006,Europe,72.8,834.869161,6876345
+Turkey,2005,Europe,72.4,7384.354661,679346
+Turkey,2004,Europe,72,64.72953,677855
+Turkey,2003,Europe,71.6,4718.51291,668583
+Turkey,2002,Europe,71.2,366.57,6514354
+Turkey,2001,Europe,78,3119.63716,64191474
+Turkey,2000,Europe,74,4316.553895,6324121
+Turkmenistan,2015,Asia,66.3,6432.668768,5565284
+Turkmenistan,2014,Asia,66,7962.365824,5466241
+Turkmenistan,2013,Asia,65.4,734.42525,5366277
+Turkmenistan,2012,Asia,65.6,6675.262954,5267839
+Turkmenistan,2011,Asia,65.6,5649.978486,517461
+Turkmenistan,2010,Asia,65.8,4439.23,58721
+Turkmenistan,2009,Asia,65.6,436.459223,5795
+Turkmenistan,2008,Asia,64.5,394.467675,4935762
+Turkmenistan,2007,Asia,64.1,26.371428,487137
+Turkmenistan,2006,Asia,63.7,2136.66815,48115
+Turkmenistan,2005,Asia,63.3,174.51475,4754641
+Turkmenistan,2004,Asia,63.5,1453.917166,473398
+Turkmenistan,2003,Asia,63.4,1283.885977,4655741
+Turkmenistan,2002,Asia,63.3,967.917468,4612
+Turkmenistan,2001,Asia,64,774.4763388,45648
+Turkmenistan,2000,Asia,63.8,643.17518,4516131
+Tuvalu,2013,,,3542.13589,1819
+Uganda,2015,Africa,62.3,693.8963829,414487
+Uganda,2014,Africa,61.5,719.172669,38833338
+Uganda,2013,Africa,67,662.492293,37553726
+Uganda,2012,Africa,60,647.74741,3636796
+Uganda,2011,Africa,59.3,584.3962137,3593648
+Uganda,2010,Africa,58.4,594.9972557,33915133
+Uganda,2009,Africa,57.5,647.17732,32771895
+Uganda,2008,Africa,56.3,449.6928183,31663896
+Uganda,2007,Africa,55.5,41.858631,359487
+Uganda,2006,Africa,54.9,336.4593923,2955662
+Uganda,2005,Africa,53.2,315.788227,2854394
+Uganda,2004,Africa,51.3,288.236949,27568436
+Uganda,2003,Africa,51,237.9995917,2662482
+Uganda,2002,Africa,48.8,24.2423229,2571848
+Uganda,2001,Africa,47.7,234.984775,24854892
+Uganda,2000,Africa,46.6,257.63369,2439274
+Ukraine,2015,Europe,71.3,2124.662666,4515429
+Ukraine,2014,Europe,78,314.658296,45271947
+Ukraine,2013,Europe,71,429.71554,454896
+Ukraine,2012,Europe,77,3855.42128,455933
+Ukraine,2011,Europe,75,3569.75727,45761
+Ukraine,2010,Europe,69.8,2965.142365,45877
+Ukraine,2009,Europe,69.2,2545.48341,46533
+Ukraine,2008,Europe,67.7,3891.37823,462582
+Ukraine,2007,Europe,67.5,368.68998,465935
+Ukraine,2006,Europe,67.7,233.18831,4678775
+Ukraine,2005,Europe,67,1828.717626,471515
+Ukraine,2004,Europe,67.4,1367.352433,474516
+Ukraine,2003,Europe,67.6,148.522488,4781295
+Ukraine,2002,Europe,67.6,879.475486,48225
+Ukraine,2001,Europe,67.7,78.738243,48683865
+Ukraine,2000,Europe,67.5,635.789635,49175848
+United Arab Emirates,2015,Asia,77.1,3911.74689,
+United Arab Emirates,2014,Asia,76.9,44449.7435,
+United Arab Emirates,2013,Asia,76.7,4335.64268,
+United Arab Emirates,2012,Asia,76.5,42112.23565,
+United Arab Emirates,2011,Asia,76.3,4462.3129,
+United Arab Emirates,2010,Asia,76.2,3549.14832,
+United Arab Emirates,2009,Asia,76,3372.57517,
+United Arab Emirates,2008,Asia,75.8,45758.9554,
+United Arab Emirates,2007,Asia,75.6,42672.61323,
+United Arab Emirates,2006,Asia,75.4,42372.22166,
+United Arab Emirates,2005,Asia,75.3,39439.8197,
+United Arab Emirates,2004,Asia,75.1,36161.1761,
+United Arab Emirates,2003,Asia,74.9,3323.52318,
+United Arab Emirates,2002,Asia,74.7,31311.35936,
+United Arab Emirates,2001,Asia,74.5,3161.52935,
+United Arab Emirates,2000,Asia,74.2,3371.26869,
+United Kingdom of Great Britain and Northern Ireland,2015,Europe,81.2,,
+United Kingdom of Great Britain and Northern Ireland,2014,Europe,81,,
+United Kingdom of Great Britain and Northern Ireland,2013,Europe,87,,
+United Kingdom of Great Britain and Northern Ireland,2012,Europe,86,,
+United Kingdom of Great Britain and Northern Ireland,2011,Europe,86,,
+United Kingdom of Great Britain and Northern Ireland,2010,Europe,82,,
+United Kingdom of Great Britain and Northern Ireland,2009,Europe,81,,
+United Kingdom of Great Britain and Northern Ireland,2008,Europe,79.6,,
+United Kingdom of Great Britain and Northern Ireland,2007,Europe,79.5,,
+United Kingdom of Great Britain and Northern Ireland,2006,Europe,79.3,,
+United Kingdom of Great Britain and Northern Ireland,2005,Europe,79,,
+United Kingdom of Great Britain and Northern Ireland,2004,Europe,78.8,,
+United Kingdom of Great Britain and Northern Ireland,2003,Europe,78.3,,
+United Kingdom of Great Britain and Northern Ireland,2002,Europe,78.2,,
+United Kingdom of Great Britain and Northern Ireland,2001,Europe,78,,
+United Kingdom of Great Britain and Northern Ireland,2000,Europe,77.8,,
+United Republic of Tanzania,2015,Africa,61.8,,
+United Republic of Tanzania,2014,Africa,67,,
+United Republic of Tanzania,2013,Africa,59.7,,
+United Republic of Tanzania,2012,Africa,58.6,,
+United Republic of Tanzania,2011,Africa,58.3,,
+United Republic of Tanzania,2010,Africa,57.5,,
+United Republic of Tanzania,2009,Africa,56.9,,
+United Republic of Tanzania,2008,Africa,56.2,,
+United Republic of Tanzania,2007,Africa,54.5,,
+United Republic of Tanzania,2006,Africa,53.1,,
+United Republic of Tanzania,2005,Africa,52.2,,
+United Republic of Tanzania,2004,Africa,51.5,,
+United Republic of Tanzania,2003,Africa,58,,
+United Republic of Tanzania,2002,Africa,52,,
+United Republic of Tanzania,2001,Africa,49.6,,
+United Republic of Tanzania,2000,Africa,49.2,,
+United States of America,2015,Americas,79.3,,
+United States of America,2014,Americas,79.1,,
+United States of America,2013,Americas,78.9,,
+United States of America,2012,Americas,78.8,,
+United States of America,2011,Americas,78.7,,
+United States of America,2010,Americas,78.7,,
+United States of America,2009,Americas,78.5,,
+United States of America,2008,Americas,78.2,,
+United States of America,2007,Americas,78.1,,
+United States of America,2006,Americas,77.8,,
+United States of America,2005,Americas,77.5,,
+United States of America,2004,Americas,77.5,,
+United States of America,2003,Americas,77.2,,
+United States of America,2002,Americas,77,,
+United States of America,2001,Americas,76.9,,
+United States of America,2000,Americas,76.8,,
+Uruguay,2015,Americas,77,15524.84247,3431552
+Uruguay,2014,Americas,76.8,16737.89827,3419546
+Uruguay,2013,Americas,76.8,16881.2568,3485
+Uruguay,2012,Americas,76.5,1592.6819,3396777
+Uruguay,2011,Americas,77,14166.4998,3385624
+Uruguay,2010,Americas,76.3,11938.212,3374415
+Uruguay,2009,Americas,76.6,9415.17386,3362755
+Uruguay,2008,Americas,76.4,962.312164,335824
+Uruguay,2007,Americas,75.4,79.69746,3339741
+Uruguay,2006,Americas,76.2,5877.87678,333143
+Uruguay,2005,Americas,75.7,522.951116,3325612
+Uruguay,2004,Americas,75.4,4117.38853,332496
+Uruguay,2003,Americas,75.4,3622.52284,3325637
+Uruguay,2002,Americas,75.4,488.768855,3327773
+Uruguay,2001,Americas,75.2,6281.37747,332713
+Uruguay,2000,Americas,75.1,6871.897677,3321245
+Uzbekistan,2015,Asia,69.4,2137.576852,312989
+Uzbekistan,2014,Asia,69.2,25.448414,37577
+Uzbekistan,2013,Asia,69.1,197.551233,32432
+Uzbekistan,2012,Asia,68.8,174.468298,297745
+Uzbekistan,2011,Asia,68.5,1564.966945,293394
+Uzbekistan,2010,Asia,68.3,1377.8214,285624
+Uzbekistan,2009,Asia,68,1213.265328,277674
+Uzbekistan,2008,Asia,67.9,182.28625,27328
+Uzbekistan,2007,Asia,67.8,83.476942,26868
+Uzbekistan,2006,Asia,67.6,654.2838373,2648825
+Uzbekistan,2005,Asia,67.3,546.776852,26167
+Uzbekistan,2004,Asia,67.8,465.1198869,2586435
+Uzbekistan,2003,Asia,67.2,396.129969,2556765
+Uzbekistan,2002,Asia,67.1,383.3494997,2527185
+Uzbekistan,2001,Asia,67.4,456.734892,2496445
+Uzbekistan,2000,Asia,67.1,558.221144,24654
+Vanuatu,2015,Oceania,72,285.83414,26463
+Vanuatu,2014,Oceania,71.7,3148.36513,25885
+Vanuatu,2013,Oceania,71.6,3167.34356,253142
+Vanuatu,2012,Oceania,71.4,3158.58688,247485
+Vanuatu,2011,Oceania,71.2,3275.91684,241871
+Vanuatu,2010,Oceania,71,2965.82434,236295
+Vanuatu,2009,Oceania,78,2643.441423,23785
+Vanuatu,2008,Oceania,75,2697.961375,22534
+Vanuatu,2007,Oceania,73,2393.367265,219953
+Vanuatu,2006,Oceania,71,247.97823,214634
+Vanuatu,2005,Oceania,69.9,1886.433359,2937
+Vanuatu,2004,Oceania,69.6,1787.94723,24143
+Vanuatu,2003,Oceania,69.4,158.52724,198964
+Vanuatu,2002,Oceania,69.3,1353.934819,193956
+Vanuatu,2001,Oceania,69.1,1362.61731,18929
+Vanuatu,2000,Oceania,69,1469.849149,18563
+Venezuela (Bolivarian Republic of),2015,Americas,74.1,,
+Venezuela (Bolivarian Republic of),2014,Americas,73.9,,
+Venezuela (Bolivarian Republic of),2013,Americas,73.8,,
+Venezuela (Bolivarian Republic of),2012,Americas,73.7,,
+Venezuela (Bolivarian Republic of),2011,Americas,73.8,,
+Venezuela (Bolivarian Republic of),2010,Americas,73.7,,
+Venezuela (Bolivarian Republic of),2009,Americas,73.6,,
+Venezuela (Bolivarian Republic of),2008,Americas,73.2,,
+Venezuela (Bolivarian Republic of),2007,Americas,73.4,,
+Venezuela (Bolivarian Republic of),2006,Americas,73.6,,
+Venezuela (Bolivarian Republic of),2005,Americas,73.6,,
+Venezuela (Bolivarian Republic of),2004,Americas,73.3,,
+Venezuela (Bolivarian Republic of),2003,Americas,72.4,,
+Venezuela (Bolivarian Republic of),2002,Americas,73.1,,
+Venezuela (Bolivarian Republic of),2001,Americas,72.5,,
+Venezuela (Bolivarian Republic of),2000,Americas,72.5,,
+Viet Nam,2015,Asia,76,,
+Viet Nam,2014,Asia,75.9,,
+Viet Nam,2013,Asia,75.7,,
+Viet Nam,2012,Asia,75.6,,
+Viet Nam,2011,Asia,75.4,,
+Viet Nam,2010,Asia,75.2,,
+Viet Nam,2009,Asia,75,,
+Viet Nam,2008,Asia,74.9,,
+Viet Nam,2007,Asia,74.7,,
+Viet Nam,2006,Asia,74.6,,
+Viet Nam,2005,Asia,74.4,,
+Viet Nam,2004,Asia,74.2,,
+Viet Nam,2003,Asia,74,,
+Viet Nam,2002,Asia,73.8,,
+Viet Nam,2001,Asia,73.6,,
+Viet Nam,2000,Asia,73.4,,
+Yemen,2015,Asia,65.7,,
+Yemen,2014,Asia,65.4,,
+Yemen,2013,Asia,65.4,,
+Yemen,2012,Asia,64.7,,
+Yemen,2011,Asia,64.6,,
+Yemen,2010,Asia,64.4,,
+Yemen,2009,Asia,64.1,,
+Yemen,2008,Asia,63.8,,
+Yemen,2007,Asia,63.4,,
+Yemen,2006,Asia,63,,
+Yemen,2005,Asia,62.6,,
+Yemen,2004,Asia,62.2,,
+Yemen,2003,Asia,61.9,,
+Yemen,2002,Asia,61.5,,
+Yemen,2001,Asia,61.1,,
+Yemen,2000,Asia,68,,
+Zambia,2015,Africa,61.8,1313.889646,161587
+Zambia,2014,Africa,61.1,1738.8822,1562974
+Zambia,2013,Africa,63,185.793359,1515321
+Zambia,2012,Africa,59.2,1734.93612,14699937
+Zambia,2011,Africa,58.2,1644.619672,14264756
+Zambia,2010,Africa,58,1463.213573,138533
+Zambia,2009,Africa,57.4,1139.11233,13456417
+Zambia,2008,Africa,55.7,1369.68249,1382517
+Zambia,2007,Africa,52.6,114.587985,12725974
+Zambia,2006,Africa,58,13.154199,12383446
+Zambia,2005,Africa,49.3,691.3178164,1252156
+Zambia,2004,Africa,47.9,53.2772217,11731746
+Zambia,2003,Africa,46.4,429.1583434,11421984
+Zambia,2002,Africa,45.5,377.135244,111249
+Zambia,2001,Africa,44.6,378.2736238,1824125
+Zambia,2000,Africa,43.8,341.955625,1531221
+Zimbabwe,2015,Africa,67,118.69383,15777451
+Zimbabwe,2014,Africa,59.2,127.47462,15411675
+Zimbabwe,2013,Africa,58,111.227396,155456
+Zimbabwe,2012,Africa,56.6,955.648466,1471826
+Zimbabwe,2011,Africa,54.9,839.927936,14386649
+Zimbabwe,2010,Africa,52.4,713.63562,1486317
+Zimbabwe,2009,Africa,50,65.824121,1381599
+Zimbabwe,2008,Africa,48.2,325.678573,13558469
+Zimbabwe,2007,Africa,46.6,396.9982166,1332999
+Zimbabwe,2006,Africa,45.4,414.796232,13124267
+Zimbabwe,2005,Africa,44.6,444.76575,129432
+Zimbabwe,2004,Africa,44.3,454.366654,12777511
+Zimbabwe,2003,Africa,44.5,453.3511552,12633897
+Zimbabwe,2002,Africa,44.8,57.34834,125525
+Zimbabwe,2001,Africa,45.3,548.587312,12366165
+Zimbabwe,2000,Africa,46,547.3588785,12222251
