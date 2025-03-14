@@ -24,11 +24,7 @@
       /* Font for paragraphs and text */
       p, .nav-tabs .nav-link, .tab-pane {
           font-family: 'Fira Sans', sans-serif;
-          
-        
-      }
-      div{
-        border: 1px solid black;
+          border: 1px solid black;
         margin-top: 10px;
         margin-bottom: 100px;
         margin-right: 150px;
@@ -38,7 +34,9 @@
         padding-right: 3px;
         padding-bottom: 5px;
         padding-left: 8px;
+        
       }
+      
       
 
   </style>
@@ -52,32 +50,35 @@
 <body>
     
   <h1>Life Expectancy</h1>
-  <div>
-        <p>Life expectancy is a key demographic indicator that measures the average number of years a person is expected to live based on current mortality rates. It is an essential statistic used by researchers, policymakers, and health organizations to assess the overall health and well-being of populations across different regions and time periods.</p>
-        <p> Several factors influence life expectancy, including healthcare access, nutrition, economic development, education, and lifestyle choices. Advances in medical science, improved sanitation, and public health interventions have significantly increased life expectancy in many parts of the world. However, disparities still exist due to factors such as poverty, conflict, and disease prevalence.</p>
-        <p>By analyzing life expectancy data, we can gain valuable insights into trends in global health, the effectiveness of healthcare systems, and areas requiring further improvement. This data helps governments and organizations implement policies to enhance quality of life and reduce mortality rates.</p>
-  </div>
+  
+        <p>Life expectancy is a key demographic indicator that measures the average number of years a person is expected to live based on current mortality rates. It is an essential statistic used by researchers, policymakers, and health organizations to assess the overall health and well-being of populations across different regions and time periods.
+         Several factors influence life expectancy, including healthcare access, nutrition, economic development, education, and lifestyle choices. Advances in medical science, improved sanitation, and public health interventions have significantly increased life expectancy in many parts of the world. However, disparities still exist due to factors such as poverty, conflict, and disease prevalence.
+        By analyzing life expectancy data, we can gain valuable insights into trends in global health, the effectiveness of healthcare systems, and areas requiring further improvement. This data helps governments and organizations implement policies to enhance quality of life and reduce mortality rates.</p>
+  
 
 
   <h2>Racing bar chart</h2>
-  <div>
-  <p>A racing bar chart is a dynamic and engaging visualization that effectively illustrates changes in data over time. When applied to life expectancy and GDP between 1960 and 2022, this chart provides a clear representation of how economic growth influences longevity.</p>
-    <p>Each year, the chart highlights the top 10 countries based on GDP, showing how their life expectancy trends evolve over time. The animation aspect of the chart allows viewers to observe historical patterns, identify key economic shifts, and understand the correlation between wealth and life expectancy. This visualization is particularly useful for spotting long-term trends, comparing country performances, and recognizing the impact of economic policies on public health. The racing effect enhances user engagement by making the data more interactive and easier to interpret.</p>
-</div>
-    <center><svg width="1024" height="600"></svg></center>
+  <center><svg width="1024" height="600"></svg></center>
+  <p>A racing bar chart is a dynamic and engaging visualization that effectively illustrates changes in data over time. When applied to life expectancy and GDP between 1960 and 2022, this chart provides a clear representation of how economic growth influences longevity.
+    Each year, the chart highlights the top 10 countries based on GDP, showing how their life expectancy trends evolve over time. The animation aspect of the chart allows viewers to observe historical patterns, identify key economic shifts, and understand the correlation between wealth and life expectancy. This visualization is particularly useful for spotting long-term trends, comparing country performances, and recognizing the impact of economic policies on public health. The racing effect enhances user engagement by making the data more interactive and easier to interpret.</p>
+ 
   <h2 class="circular">Circular Chart</h2>
-  <p>A circular chart, also known as a pie or radial chart, is an effective tool for visualizing proportional relationships within life expectancy data. It can illustrate the distribution of key factors influencing longevity, such as healthcare access, economic conditions, lifestyle choices, and regional disparities. For instance, it can show the percentage contribution of different continents to global life expectancy, the impact of socioeconomic factors like GDP and education, or the survival rates across age groups. By presenting data in a circular format, it enables quick comparisons and insights into trends affecting life expectancy across different populations. Additionally, it allows us to easily identify the highest and lowest values, making it simple to spot the top and bottom of the list.</p>
   <div id="my_dataviz"></div>
+  <p>A circular chart, also known as a pie or radial chart, is an effective tool for visualizing proportional relationships within life expectancy data. It can illustrate the distribution of key factors influencing longevity, such as healthcare access, economic conditions, lifestyle choices, and regional disparities. For instance, it can show the percentage contribution of different continents to global life expectancy, the impact of socioeconomic factors like GDP and education, or the survival rates across age groups. By presenting data in a circular format, it enables quick comparisons and insights into trends affecting life expectancy across different populations. Additionally, it allows us to easily identify the highest and lowest values, making it simple to spot the top and bottom of the list.</p>
+  
   <h2 class="bubble">Bubble Chart</h2>
-  <p>This interactive bubble chart visualizes the relationship between life expectancy and key socioeconomic factors, such as GDP per capita, income composition, and schooling. Each bubble represents a country, with its size corresponding to the population of that nation. The x-axis represents life expectancy, while the y-axis displays the selected socioeconomic parameter.  The chart highlights a general trend where higher socioeconomic indicators are often associated with increased life expectancy, though exceptions exist. By exploring this visualization, users can better understand how economic and social conditions influence health outcomes across different nations.</p>
   <div id="my_bubble"></div>
+  <p>This interactive bubble chart visualizes the relationship between life expectancy and key socioeconomic factors, such as GDP per capita, income composition, and schooling. Each bubble represents a country, with its size corresponding to the population of that nation. The x-axis represents life expectancy, while the y-axis displays the selected socioeconomic parameter.  The chart highlights a general trend where higher socioeconomic indicators are often associated with increased life expectancy, though exceptions exist. By exploring this visualization, users can better understand how economic and social conditions influence health outcomes across different nations.</p>
+  
   <h2 class="choropleth">Choropleth Map</h2>
-  <p>The choropleth world map visually illustrates global life expectancy trends, highlighting regional disparities and health outcomes. Countries are shaded in varying colors, with darker  shades representing higher life expectancy and lighter shades indicating lower values. Notably, regions like North America, Western Europe, and parts of East Asia display higher life expectancy due to advanced healthcare and better living standards, whereas Sub-Saharan Africa  exhibit lower figures, often linked to poverty and healthcare limitations. The map serves as a powerful tool for understanding global health disparities and tracking progress in life expectancy worldwide.</p>
   <div id="choropleth"></div>
+  <p>The choropleth world map visually illustrates global life expectancy trends, highlighting regional disparities and health outcomes. Countries are shaded in varying colors, with darker  shades representing higher life expectancy and lighter shades indicating lower values. Notably, regions like North America, Western Europe, and parts of East Asia display higher life expectancy due to advanced healthcare and better living standards, whereas Sub-Saharan Africa  exhibit lower figures, often linked to poverty and healthcare limitations. The map serves as a powerful tool for understanding global health disparities and tracking progress in life expectancy worldwide.</p>
+  
   <h2>Stack Bar</h2>
-  <p>This Stacked Bar Chart visualizes GDP per capita trends across 10 countries over four years: 2000, 2005, 2010, and 2015. Each bar is divided into four segments, with segment lengths representing the GDP per capita for that year as a percentage of the total GDP across all four years. Consistent colors are used for each year across all countries, ensuring easy comparison. Additionally, a legend is provided to help users identify the corresponding years, allowing for a clear analysis of economic growth patterns over time.</p>
   <div id="stack_legend"></div>
   <div id="stacked"></div>
+  <p>This Stacked Bar Chart visualizes GDP per capita trends across 10 countries over four years: 2000, 2005, 2010, and 2015. Each bar is divided into four segments, with segment lengths representing the GDP per capita for that year as a percentage of the total GDP across all four years. Consistent colors are used for each year across all countries, ensuring easy comparison. Additionally, a legend is provided to help users identify the corresponding years, allowing for a clear analysis of economic growth patterns over time.</p>
+  
   <script type="module" src="script.js"></script>
 </body>
 
